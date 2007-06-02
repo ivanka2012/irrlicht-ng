@@ -217,6 +217,7 @@ examples/TestProject/TestProject.vcproj -text
 examples/TestProject/main.cpp -text
 examples/buildAllExamples.sh -text
 examples/whereAreTheBinaries.txt -text
+include/CMeshBuffer.h -text
 include/ECullingTypes.h -text
 include/EDebugSceneTypes.h -text
 include/EDriverTypes.h -text
