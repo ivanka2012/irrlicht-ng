@@ -771,6 +771,8 @@ source/Irrlicht/COgreMeshFileLoader.cpp -text
 source/Irrlicht/COgreMeshFileLoader.h -text
 source/Irrlicht/COpenGLDriver.cpp -text
 source/Irrlicht/COpenGLDriver.h -text
+source/Irrlicht/COpenGLExtensionHandler.cpp -text
+source/Irrlicht/COpenGLExtensionHandler.h -text
 source/Irrlicht/COpenGLMaterialRenderer.h -text
 source/Irrlicht/COpenGLNormalMapRenderer.cpp -text
 source/Irrlicht/COpenGLNormalMapRenderer.h -text
