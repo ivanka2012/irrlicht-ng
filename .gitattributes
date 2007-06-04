@@ -220,6 +220,7 @@ examples/whereAreTheBinaries.txt -text
 include/CMeshBuffer.h -text
 include/ECullingTypes.h -text
 include/EDebugSceneTypes.h -text
+include/EDriverFeatures.h -text
 include/EDriverTypes.h -text
 include/EGUIElementTypes.h -text
 include/ESceneNodeAnimatorTypes.h -text
