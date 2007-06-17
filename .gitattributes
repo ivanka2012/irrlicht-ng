@@ -190,6 +190,7 @@ examples/15.LoadIrrFile/example.dev -text
 examples/15.LoadIrrFile/main.cpp -text
 examples/15.LoadIrrFile/tutorial.html -text
 examples/16.Quake3MapShader/Makefile -text
+examples/16.Quake3MapShader/Quake3MapShader.sln -text
 examples/16.Quake3MapShader/Quake3MapShader.vcproj -text
 examples/16.Quake3MapShader/Quake3MapShader_vc8.vcproj -text
 examples/16.Quake3MapShader/example.dev -text
