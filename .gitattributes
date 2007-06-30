@@ -262,6 +262,7 @@ include/IGUIListBox.h -text
 include/IGUIMeshViewer.h -text
 include/IGUIScrollBar.h -text
 include/IGUISkin.h -text
+include/IGUISpinBox.h -text
 include/IGUISpriteBank.h -text
 include/IGUIStaticText.h -text
 include/IGUITabControl.h -text
@@ -683,6 +684,8 @@ source/Irrlicht/CGUIScrollBar.cpp -text
 source/Irrlicht/CGUIScrollBar.h -text
 source/Irrlicht/CGUISkin.cpp -text
 source/Irrlicht/CGUISkin.h -text
+source/Irrlicht/CGUISpinBox.cpp -text
+source/Irrlicht/CGUISpinBox.h -text
 source/Irrlicht/CGUISpriteBank.cpp -text
 source/Irrlicht/CGUISpriteBank.h -text
 source/Irrlicht/CGUIStaticText.cpp -text
