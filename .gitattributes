@@ -939,6 +939,7 @@ source/Irrlicht/S2DVertex.h -text
 source/Irrlicht/S4DVertex.h -text
 source/Irrlicht/SoftwareDriver2_compile_config.h -text
 source/Irrlicht/SoftwareDriver2_helper.h -text
+source/Irrlicht/builtInFont.bmp -text
 source/Irrlicht/dmfsupport.h -text
 source/Irrlicht/glext.h -text
 source/Irrlicht/glxext.h -text
