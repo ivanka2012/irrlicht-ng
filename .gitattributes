@@ -224,6 +224,7 @@ include/EDebugSceneTypes.h -text
 include/EDriverFeatures.h -text
 include/EDriverTypes.h -text
 include/EGUIElementTypes.h -text
+include/EMessageBoxFlags.h -text
 include/ESceneNodeAnimatorTypes.h -text
 include/ESceneNodeTypes.h -text
 include/ETerrainElements.h -text
