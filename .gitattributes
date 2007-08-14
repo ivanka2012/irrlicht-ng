@@ -327,6 +327,7 @@ include/SMeshBuffer.h -text
 include/SMeshBufferLightMap.h -text
 include/SMeshBufferTangents.h -text
 include/SParticle.h -text
+include/SSharedMeshBuffer.h -text
 include/SViewFrustum.h -text
 include/SceneParameters.h -text
 include/aabbox3d.h -text
