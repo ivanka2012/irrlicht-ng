@@ -285,7 +285,11 @@ include/IMeshSceneNode.h -text
 include/IMetaTriangleSelector.h -text
 include/IOSOperator.h -text
 include/IParticleAffector.h -text
+include/IParticleAttractionAffector.h -text
 include/IParticleEmitter.h -text
+include/IParticleFadeOutAffector.h -text
+include/IParticleGravityAffector.h -text
+include/IParticleRotationAffector.h -text
 include/IParticleSystemSceneNode.h -text
 include/IQ3LevelMesh.h -text
 include/IQ3Shader.h -text
@@ -791,6 +795,8 @@ source/Irrlicht/COpenGLTexture.cpp -text
 source/Irrlicht/COpenGLTexture.h -text
 source/Irrlicht/CPakReader.cpp -text
 source/Irrlicht/CPakReader.h -text
+source/Irrlicht/CParticleAttractionAffector.cpp -text
+source/Irrlicht/CParticleAttractionAffector.h -text
 source/Irrlicht/CParticleBoxEmitter.cpp -text
 source/Irrlicht/CParticleBoxEmitter.h -text
 source/Irrlicht/CParticleFadeOutAffector.cpp -text
@@ -799,6 +805,8 @@ source/Irrlicht/CParticleGravityAffector.cpp -text
 source/Irrlicht/CParticleGravityAffector.h -text
 source/Irrlicht/CParticlePointEmitter.cpp -text
 source/Irrlicht/CParticlePointEmitter.h -text
+source/Irrlicht/CParticleRotationAffector.cpp -text
+source/Irrlicht/CParticleRotationAffector.h -text
 source/Irrlicht/CParticleSystemSceneNode.cpp -text
 source/Irrlicht/CParticleSystemSceneNode.h -text
 source/Irrlicht/CQ3LevelMesh.cpp -text
