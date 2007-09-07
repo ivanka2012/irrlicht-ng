@@ -298,6 +298,7 @@ include/IParticleSystemSceneNode.h -text
 include/IQ3LevelMesh.h -text
 include/IQ3Shader.h -text
 include/IReadFile.h -text
+include/IReferenceCounted.h -text
 include/ISceneCollisionManager.h -text
 include/ISceneManager.h -text
 include/ISceneNode.h -text
@@ -314,7 +315,6 @@ include/ITextSceneNode.h -text
 include/ITexture.h -text
 include/ITimer.h -text
 include/ITriangleSelector.h -text
-include/IUnknown.h -text
 include/IVideoDriver.h -text
 include/IVideoModeList.h -text
 include/IWriteFile.h -text
