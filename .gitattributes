@@ -280,6 +280,7 @@ include/IMeshCache.h -text
 include/IMeshLoader.h -text
 include/IMeshManipulator.h -text
 include/IMeshSceneNode.h -text
+include/IMeshWriter.h -text
 include/IMetaTriangleSelector.h -text
 include/IOSOperator.h -text
 include/IParticleAffector.h -text
@@ -612,6 +613,8 @@ source/Irrlicht/CCameraSceneNode.cpp -text
 source/Irrlicht/CCameraSceneNode.h -text
 source/Irrlicht/CColladaFileLoader.cpp -text
 source/Irrlicht/CColladaFileLoader.h -text
+source/Irrlicht/CColladaMeshWriter.cpp -text
+source/Irrlicht/CColladaMeshWriter.h -text
 source/Irrlicht/CColorConverter.cpp -text
 source/Irrlicht/CColorConverter.h -text
 source/Irrlicht/CCubeSceneNode.cpp -text
@@ -746,6 +749,8 @@ source/Irrlicht/CIrrDeviceStub.cpp -text
 source/Irrlicht/CIrrDeviceStub.h -text
 source/Irrlicht/CIrrDeviceWin32.cpp -text
 source/Irrlicht/CIrrDeviceWin32.h -text
+source/Irrlicht/CIrrMeshWriter.cpp -text
+source/Irrlicht/CIrrMeshWriter.h -text
 source/Irrlicht/CLMTSMeshFileLoader.cpp -text
 source/Irrlicht/CLMTSMeshFileLoader.h -text
 source/Irrlicht/CLightSceneNode.cpp -text
