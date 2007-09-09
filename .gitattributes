@@ -749,6 +749,8 @@ source/Irrlicht/CIrrDeviceStub.cpp -text
 source/Irrlicht/CIrrDeviceStub.h -text
 source/Irrlicht/CIrrDeviceWin32.cpp -text
 source/Irrlicht/CIrrDeviceWin32.h -text
+source/Irrlicht/CIrrMeshFileLoader.cpp -text
+source/Irrlicht/CIrrMeshFileLoader.h -text
 source/Irrlicht/CIrrMeshWriter.cpp -text
 source/Irrlicht/CIrrMeshWriter.h -text
 source/Irrlicht/CLMTSMeshFileLoader.cpp -text
