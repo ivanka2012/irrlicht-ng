@@ -6,6 +6,7 @@ bin/Win32-gcc/irrlicht.ico -text
 bin/Win64-VisualStudio/readme.txt -text
 /changes.txt -text
 doc/readme.txt -text
+doc/upgrade-guide.txt -text
 examples.net/01.HelloWorld_cs/01.HelloWorld_7.0.csproj -text
 examples.net/01.HelloWorld_cs/01.HelloWorld_7.0.sln -text
 examples.net/01.HelloWorld_cs/App.ico -text
