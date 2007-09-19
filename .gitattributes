@@ -225,6 +225,7 @@ include/EDebugSceneTypes.h -text
 include/EDriverFeatures.h -text
 include/EDriverTypes.h -text
 include/EGUIElementTypes.h -text
+include/EMeshWriterEnums.h -text
 include/EMessageBoxFlags.h -text
 include/ESceneNodeAnimatorTypes.h -text
 include/ESceneNodeTypes.h -text
@@ -843,6 +844,10 @@ source/Irrlicht/CQuake3ShaderSceneNode.cpp -text
 source/Irrlicht/CQuake3ShaderSceneNode.h -text
 source/Irrlicht/CReadFile.cpp -text
 source/Irrlicht/CReadFile.h -text
+source/Irrlicht/CSTLMeshFileLoader.cpp -text
+source/Irrlicht/CSTLMeshFileLoader.h -text
+source/Irrlicht/CSTLMeshWriter.cpp -text
+source/Irrlicht/CSTLMeshWriter.h -text
 source/Irrlicht/CSceneCollisionManager.cpp -text
 source/Irrlicht/CSceneCollisionManager.h -text
 source/Irrlicht/CSceneManager.cpp -text
