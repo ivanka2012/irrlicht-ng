@@ -336,6 +336,7 @@ include/SIrrCreationParameters.h -text
 include/SKeyMap.h -text
 include/SLight.h -text
 include/SMaterial.h -text
+include/SMaterialLayer.h -text
 include/SMesh.h -text
 include/SMeshBuffer.h -text
 include/SMeshBufferLightMap.h -text
