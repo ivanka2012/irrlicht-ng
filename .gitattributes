@@ -728,6 +728,8 @@ source/Irrlicht/CImageLoaderPCX.cpp -text
 source/Irrlicht/CImageLoaderPCX.h -text
 source/Irrlicht/CImageLoaderPNG.cpp -text
 source/Irrlicht/CImageLoaderPNG.h -text
+source/Irrlicht/CImageLoaderPPM.cpp -text
+source/Irrlicht/CImageLoaderPPM.h -text
 source/Irrlicht/CImageLoaderPSD.cpp -text
 source/Irrlicht/CImageLoaderPSD.h -text
 source/Irrlicht/CImageLoaderTGA.cpp -text
