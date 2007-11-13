@@ -609,6 +609,7 @@ source/Irrlicht/CBillboardSceneNode.cpp -text
 source/Irrlicht/CBillboardSceneNode.h -text
 source/Irrlicht/CBoneSceneNode.cpp -text
 source/Irrlicht/CBoneSceneNode.h -text
+source/Irrlicht/CBurningShader_Raster_Reference.cpp -text
 source/Irrlicht/CCSMLoader.cpp -text
 source/Irrlicht/CCSMLoader.h -text
 source/Irrlicht/CCameraFPSSceneNode.cpp -text
