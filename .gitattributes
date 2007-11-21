@@ -736,6 +736,8 @@ source/Irrlicht/CImageLoaderPSD.cpp -text
 source/Irrlicht/CImageLoaderPSD.h -text
 source/Irrlicht/CImageLoaderTGA.cpp -text
 source/Irrlicht/CImageLoaderTGA.h -text
+source/Irrlicht/CImageLoaderWAL.cpp -text
+source/Irrlicht/CImageLoaderWAL.h -text
 source/Irrlicht/CImageWriterBMP.cpp -text
 source/Irrlicht/CImageWriterBMP.h -text
 source/Irrlicht/CImageWriterJPG.cpp -text
