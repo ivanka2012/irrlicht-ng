@@ -966,6 +966,7 @@ source/Irrlicht/Irrlicht7.1.sln -text
 source/Irrlicht/Irrlicht7.1.vcproj -text
 source/Irrlicht/Irrlicht8.0.sln -text
 source/Irrlicht/Irrlicht8.0.vcproj -text
+source/Irrlicht/Irrlicht_Linux-gcc.cbp -text
 source/Irrlicht/Irrlicht_Win32-gcc.cbp -text
 source/Irrlicht/MacOSX/._MainMenu.nib -text
 source/Irrlicht/MacOSX/AppDelegate.h -text
