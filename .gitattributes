@@ -224,6 +224,7 @@ include/ECullingTypes.h -text
 include/EDebugSceneTypes.h -text
 include/EDriverFeatures.h -text
 include/EDriverTypes.h -text
+include/EGUIAlignment.h -text
 include/EGUIElementTypes.h -text
 include/EHardwareBufferFlags.h -text
 include/EMaterialFlags.h -text
@@ -270,6 +271,7 @@ include/IGUISpinBox.h -text
 include/IGUISpriteBank.h -text
 include/IGUIStaticText.h -text
 include/IGUITabControl.h -text
+include/IGUITable.h -text
 include/IGUIToolbar.h -text
 include/IGUIWindow.h -text
 include/IImage.h -text
@@ -715,6 +717,8 @@ source/Irrlicht/CGUIStaticText.cpp -text
 source/Irrlicht/CGUIStaticText.h -text
 source/Irrlicht/CGUITabControl.cpp -text
 source/Irrlicht/CGUITabControl.h -text
+source/Irrlicht/CGUITable.cpp -text
+source/Irrlicht/CGUITable.h -text
 source/Irrlicht/CGUIToolBar.cpp -text
 source/Irrlicht/CGUIToolBar.h -text
 source/Irrlicht/CGUIWindow.cpp -text
