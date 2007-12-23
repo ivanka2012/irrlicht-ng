@@ -978,11 +978,7 @@ source/Irrlicht/MacOSX/AppDelegate.mm -text
 source/Irrlicht/MacOSX/CIrrDeviceMacOSX.h -text
 source/Irrlicht/MacOSX/CIrrDeviceMacOSX.mm -text
 source/Irrlicht/MacOSX/DemoApp-Info.plist -text
-source/Irrlicht/MacOSX/MacOSX.xcodeproj/epetitje.mode1 -text
-source/Irrlicht/MacOSX/MacOSX.xcodeproj/epetitje.pbxuser -text
 source/Irrlicht/MacOSX/MacOSX.xcodeproj/project.pbxproj -text
-source/Irrlicht/MacOSX/MacOSX.xcodeproj/susanne.mode1 -text
-source/Irrlicht/MacOSX/MacOSX.xcodeproj/susanne.pbxuser -text
 source/Irrlicht/MacOSX/MacOSX_Prefix.pch -text
 source/Irrlicht/MacOSX/MainMenu.nib/classes.nib -text
 source/Irrlicht/MacOSX/MainMenu.nib/info.nib -text
