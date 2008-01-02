@@ -196,6 +196,9 @@ examples/16.Quake3MapShader/Quake3MapShader.vcproj -text
 examples/16.Quake3MapShader/Quake3MapShader_vc8.vcproj -text
 examples/16.Quake3MapShader/example.dev -text
 examples/16.Quake3MapShader/main.cpp -text
+examples/17.HelloWorld_Mobile/HelloWorld_mobile.sln -text
+examples/17.HelloWorld_Mobile/HelloWorld_mobile.vcproj -text
+examples/17.HelloWorld_Mobile/main.cpp -text
 examples/BuildAllExamples.sln -text
 examples/BuildAllExamples_v7.sln -text
 examples/Demo/CDemo.cpp -text
@@ -765,6 +768,8 @@ source/Irrlicht/CIrrDeviceStub.cpp -text
 source/Irrlicht/CIrrDeviceStub.h -text
 source/Irrlicht/CIrrDeviceWin32.cpp -text
 source/Irrlicht/CIrrDeviceWin32.h -text
+source/Irrlicht/CIrrDeviceWinCE.cpp -text
+source/Irrlicht/CIrrDeviceWinCE.h -text
 source/Irrlicht/CIrrMeshFileLoader.cpp -text
 source/Irrlicht/CIrrMeshFileLoader.h -text
 source/Irrlicht/CIrrMeshWriter.cpp -text
@@ -972,6 +977,8 @@ source/Irrlicht/Irrlicht8.0.sln -text
 source/Irrlicht/Irrlicht8.0.vcproj -text
 source/Irrlicht/Irrlicht_Linux-gcc.cbp -text
 source/Irrlicht/Irrlicht_Win32-gcc.cbp -text
+source/Irrlicht/Irrlicht_mobile6.sln -text
+source/Irrlicht/Irrlicht_mobile6.vcproj -text
 source/Irrlicht/MacOSX/._MainMenu.nib -text
 source/Irrlicht/MacOSX/AppDelegate.h -text
 source/Irrlicht/MacOSX/AppDelegate.mm -text
