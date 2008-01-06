@@ -441,6 +441,7 @@ media/irrlichtlogo2.png -text
 media/irrlichtlogoaligned.jpg -text
 media/irrlichtlogoalpha.tga -text
 media/irrlichtlogoalpha2.tga -text
+media/lightFalloff.png -text
 media/lucida.xml -text
 media/lucida0.png -text
 media/map-20kdm2.pk3 -text
@@ -946,6 +947,8 @@ source/Irrlicht/CTriangleSelector.cpp -text
 source/Irrlicht/CTriangleSelector.h -text
 source/Irrlicht/CVideoModeList.cpp -text
 source/Irrlicht/CVideoModeList.h -text
+source/Irrlicht/CVolumeLightSceneNode.cpp -text
+source/Irrlicht/CVolumeLightSceneNode.h -text
 source/Irrlicht/CWaterSurfaceSceneNode.cpp -text
 source/Irrlicht/CWaterSurfaceSceneNode.h -text
 source/Irrlicht/CWriteFile.cpp -text
