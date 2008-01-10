@@ -328,6 +328,7 @@ include/ITimer.h -text
 include/ITriangleSelector.h -text
 include/IVideoDriver.h -text
 include/IVideoModeList.h -text
+include/IVolumeLightSceneNode.h -text
 include/IWriteFile.h -text
 include/IXMLReader.h -text
 include/IXMLWriter.h -text
