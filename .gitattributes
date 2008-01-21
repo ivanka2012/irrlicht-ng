@@ -778,6 +778,8 @@ source/Irrlicht/CIrrMeshWriter.cpp -text
 source/Irrlicht/CIrrMeshWriter.h -text
 source/Irrlicht/CLMTSMeshFileLoader.cpp -text
 source/Irrlicht/CLMTSMeshFileLoader.h -text
+source/Irrlicht/CLWOMeshFileLoader.cpp -text
+source/Irrlicht/CLWOMeshFileLoader.h -text
 source/Irrlicht/CLightSceneNode.cpp -text
 source/Irrlicht/CLightSceneNode.h -text
 source/Irrlicht/CLimitReadFile.cpp -text
