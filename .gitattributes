@@ -1426,6 +1426,8 @@ tools/IrrFontTool/newFontTool/main.cpp -text
 tools/IrrFontTool/oldFontTool/IrrFontTool.exe -text
 tools/IrrFontTool/oldFontTool/source.zip -text
 tools/IrrFontTool/readme.txt -text
+tools/MeshConverter/Makefile -text
+tools/MeshConverter/main.cpp -text
 tools/Meshviewer/whereIsIt.txt -text
 tools/irrEdit/irrEdit.jpg -text
 tools/irrEdit/irrEdit.txt -text
