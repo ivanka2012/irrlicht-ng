@@ -314,6 +314,8 @@ include/ISceneCollisionManager.h -text
 include/ISceneManager.h -text
 include/ISceneNode.h -text
 include/ISceneNodeAnimator.h -text
+include/ISceneNodeAnimatorCameraFPS.h -text
+include/ISceneNodeAnimatorCameraMaya.h -text
 include/ISceneNodeAnimatorCollisionResponse.h -text
 include/ISceneNodeAnimatorFactory.h -text
 include/ISceneNodeFactory.h -text
@@ -620,10 +622,6 @@ source/Irrlicht/CBoneSceneNode.h -text
 source/Irrlicht/CBurningShader_Raster_Reference.cpp -text
 source/Irrlicht/CCSMLoader.cpp -text
 source/Irrlicht/CCSMLoader.h -text
-source/Irrlicht/CCameraFPSSceneNode.cpp -text
-source/Irrlicht/CCameraFPSSceneNode.h -text
-source/Irrlicht/CCameraMayaSceneNode.cpp -text
-source/Irrlicht/CCameraMayaSceneNode.h -text
 source/Irrlicht/CCameraSceneNode.cpp -text
 source/Irrlicht/CCameraSceneNode.h -text
 source/Irrlicht/CColladaFileLoader.cpp -text
@@ -875,6 +873,10 @@ source/Irrlicht/CSceneCollisionManager.cpp -text
 source/Irrlicht/CSceneCollisionManager.h -text
 source/Irrlicht/CSceneManager.cpp -text
 source/Irrlicht/CSceneManager.h -text
+source/Irrlicht/CSceneNodeAnimatorCameraFPS.cpp -text
+source/Irrlicht/CSceneNodeAnimatorCameraFPS.h -text
+source/Irrlicht/CSceneNodeAnimatorCameraMaya.cpp -text
+source/Irrlicht/CSceneNodeAnimatorCameraMaya.h -text
 source/Irrlicht/CSceneNodeAnimatorCollisionResponse.cpp -text
 source/Irrlicht/CSceneNodeAnimatorCollisionResponse.h -text
 source/Irrlicht/CSceneNodeAnimatorDelete.cpp -text
