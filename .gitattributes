@@ -793,7 +793,6 @@ source/Irrlicht/CMS3DMeshFileLoader.h -text
 source/Irrlicht/CMY3DHelper.h -text
 source/Irrlicht/CMY3DMeshFileLoader.cpp -text
 source/Irrlicht/CMY3DMeshFileLoader.h -text
-source/Irrlicht/CMY3DStuff.h -text
 source/Irrlicht/CMemoryReadFile.cpp -text
 source/Irrlicht/CMemoryReadFile.h -text
 source/Irrlicht/CMeshCache.cpp -text
