@@ -1164,10 +1164,11 @@ source/Irrlicht/libpng/INSTALL -text
 source/Irrlicht/libpng/KNOWNBUG -text
 source/Irrlicht/libpng/LICENSE -text
 source/Irrlicht/libpng/README -text
-source/Irrlicht/libpng/TODO -text
 source/Irrlicht/libpng/Y2KINFO -text
 source/Irrlicht/libpng/configure -text
+source/Irrlicht/libpng/contrib/gregbook/COPYING -text
 source/Irrlicht/libpng/contrib/gregbook/LICENSE -text
+source/Irrlicht/libpng/contrib/gregbook/Makefile.mingw32 -text
 source/Irrlicht/libpng/contrib/gregbook/Makefile.sgi -text
 source/Irrlicht/libpng/contrib/gregbook/Makefile.unx -text
 source/Irrlicht/libpng/contrib/gregbook/Makefile.w32 -text
@@ -1177,6 +1178,7 @@ source/Irrlicht/libpng/contrib/gregbook/readpng.c -text
 source/Irrlicht/libpng/contrib/gregbook/readpng.h -text
 source/Irrlicht/libpng/contrib/gregbook/readpng2.c -text
 source/Irrlicht/libpng/contrib/gregbook/readpng2.h -text
+source/Irrlicht/libpng/contrib/gregbook/readppm.c -text
 source/Irrlicht/libpng/contrib/gregbook/rpng-win.c -text
 source/Irrlicht/libpng/contrib/gregbook/rpng-x.c -text
 source/Irrlicht/libpng/contrib/gregbook/rpng2-win.c -text
@@ -1185,6 +1187,15 @@ source/Irrlicht/libpng/contrib/gregbook/toucan.png -text
 source/Irrlicht/libpng/contrib/gregbook/wpng.c -text
 source/Irrlicht/libpng/contrib/gregbook/writepng.c -text
 source/Irrlicht/libpng/contrib/gregbook/writepng.h -text
+source/Irrlicht/libpng/contrib/pngminim/decoder/README -text
+source/Irrlicht/libpng/contrib/pngminim/decoder/gather.sh -text
+source/Irrlicht/libpng/contrib/pngminim/decoder/makefile.std -text
+source/Irrlicht/libpng/contrib/pngminim/decoder/pngusr.h -text
+source/Irrlicht/libpng/contrib/pngminim/encoder/README -text
+source/Irrlicht/libpng/contrib/pngminim/encoder/dummy_inflate.c -text
+source/Irrlicht/libpng/contrib/pngminim/encoder/gather.sh -text
+source/Irrlicht/libpng/contrib/pngminim/encoder/makefile.std -text
+source/Irrlicht/libpng/contrib/pngminim/encoder/pngusr.h -text
 source/Irrlicht/libpng/contrib/pngminus/README -text
 source/Irrlicht/libpng/contrib/pngminus/makefile.std -text
 source/Irrlicht/libpng/contrib/pngminus/makefile.tc3 -text
@@ -1224,7 +1235,7 @@ source/Irrlicht/libpng/contrib/visupng/VisualPng.rc -text
 source/Irrlicht/libpng/contrib/visupng/cexcept.h -text
 source/Irrlicht/libpng/contrib/visupng/resource.h -text
 source/Irrlicht/libpng/example.c -text
-source/Irrlicht/libpng/libpng-1.2.18.txt -text
+source/Irrlicht/libpng/libpng-1.2.29.txt -text
 source/Irrlicht/libpng/libpng.3 -text
 source/Irrlicht/libpng/libpngpf.3 -text
 source/Irrlicht/libpng/png.5 -text
@@ -1323,6 +1334,7 @@ source/Irrlicht/libpng/scripts/makefile.sggcc -text
 source/Irrlicht/libpng/scripts/makefile.sgi -text
 source/Irrlicht/libpng/scripts/makefile.so9 -text
 source/Irrlicht/libpng/scripts/makefile.solaris -text
+source/Irrlicht/libpng/scripts/makefile.solaris-x86 -text
 source/Irrlicht/libpng/scripts/makefile.std -text
 source/Irrlicht/libpng/scripts/makefile.sunos -text
 source/Irrlicht/libpng/scripts/makefile.tc3 -text
