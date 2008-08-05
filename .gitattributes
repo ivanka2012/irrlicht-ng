@@ -222,7 +222,10 @@ examples/TestProject/TestProject.vcproj -text
 examples/TestProject/main.cpp -text
 examples/buildAllExamples.sh -text
 examples/whereAreTheBinaries.txt -text
+include/CDynamicMeshBuffer.h -text
+include/CIndexBuffer.h -text
 include/CMeshBuffer.h -text
+include/CVertexBuffer.h -text
 include/ECullingTypes.h -text
 include/EDebugSceneTypes.h -text
 include/EDriverFeatures.h -text
@@ -248,6 +251,7 @@ include/IBoneSceneNode.h -text
 include/ICameraSceneNode.h -text
 include/ICursorControl.h -text
 include/IDummyTransformationSceneNode.h -text
+include/IDynamicMeshBuffer.h -text
 include/IEventReceiver.h -text
 include/IFileList.h -text
 include/IFileSystem.h -text
@@ -280,6 +284,7 @@ include/IGUIWindow.h -text
 include/IImage.h -text
 include/IImageLoader.h -text
 include/IImageWriter.h -text
+include/IIndexBuffer.h -text
 include/ILightSceneNode.h -text
 include/ILogger.h -text
 include/IMaterialRenderer.h -text
@@ -328,6 +333,7 @@ include/ITextSceneNode.h -text
 include/ITexture.h -text
 include/ITimer.h -text
 include/ITriangleSelector.h -text
+include/IVertexBuffer.h -text
 include/IVideoDriver.h -text
 include/IVideoModeList.h -text
 include/IVolumeLightSceneNode.h -text
@@ -353,6 +359,7 @@ include/SMeshBufferTangents.h -text
 include/SParticle.h -text
 include/SSharedMeshBuffer.h -text
 include/SSkinMeshBuffer.h -text
+include/SVertexIndex.h -text
 include/SViewFrustum.h -text
 include/SceneParameters.h -text
 include/aabbox3d.h -text
