@@ -466,6 +466,7 @@ media/zip.png -text
 /readme.txt -text
 scripts/doc/doxygen.exe -text
 scripts/doc/doxytag.exe -text
+scripts/doc/irrlicht/doxygen-pdf.cfg -text
 scripts/doc/irrlicht/doxygen.cfg -text
 scripts/doc/irrlicht/doxygen.css -text
 scripts/doc/irrlicht/footer.html -text
