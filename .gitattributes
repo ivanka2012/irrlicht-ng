@@ -12,6 +12,7 @@ examples/01.HelloWorld/HelloWorld.dsw -text
 examples/01.HelloWorld/HelloWorld.sln -text
 examples/01.HelloWorld/HelloWorld.vcproj -text
 examples/01.HelloWorld/HelloWorld_vc8.vcproj -text
+examples/01.HelloWorld/HelloWorld_vc9.vcproj -text
 examples/01.HelloWorld/Makefile -text
 examples/01.HelloWorld/example.cbp -text
 examples/01.HelloWorld/example.dev -text
@@ -23,6 +24,7 @@ examples/02.Quake3Map/Quake3Map.dsw -text
 examples/02.Quake3Map/Quake3Map.sln -text
 examples/02.Quake3Map/Quake3Map.vcproj -text
 examples/02.Quake3Map/Quake3Map_vc8.vcproj -text
+examples/02.Quake3Map/Quake3Map_vc9.vcproj -text
 examples/02.Quake3Map/example.cbp -text
 examples/02.Quake3Map/example.dev -text
 examples/02.Quake3Map/main.cpp -text
@@ -32,6 +34,7 @@ examples/03.CustomSceneNode/CustomSceneNode.dsw -text
 examples/03.CustomSceneNode/CustomSceneNode.sln -text
 examples/03.CustomSceneNode/CustomSceneNode.vcproj -text
 examples/03.CustomSceneNode/CustomSceneNode_vc8.vcproj -text
+examples/03.CustomSceneNode/CustomSceneNode_vc9.vcproj -text
 examples/03.CustomSceneNode/Makefile -text
 examples/03.CustomSceneNode/example.cbp -text
 examples/03.CustomSceneNode/example.dev -text
@@ -43,6 +46,7 @@ examples/04.Movement/Movement.dsw -text
 examples/04.Movement/Movement.sln -text
 examples/04.Movement/Movement.vcproj -text
 examples/04.Movement/Movement_vc8.vcproj -text
+examples/04.Movement/Movement_vc9.vcproj -text
 examples/04.Movement/example.cbp -text
 examples/04.Movement/example.dev -text
 examples/04.Movement/main.cpp -text
@@ -53,6 +57,7 @@ examples/05.UserInterface/UserInterface.dsw -text
 examples/05.UserInterface/UserInterface.sln -text
 examples/05.UserInterface/UserInterface.vcproj -text
 examples/05.UserInterface/UserInterface_vc8.vcproj -text
+examples/05.UserInterface/UserInterface_vc9.vcproj -text
 examples/05.UserInterface/example.cbp -text
 examples/05.UserInterface/example.dev -text
 examples/05.UserInterface/main.cpp -text
@@ -62,6 +67,7 @@ examples/06.2DGraphics/2DGraphics.dsw -text
 examples/06.2DGraphics/2DGraphics.sln -text
 examples/06.2DGraphics/2DGraphics.vcproj -text
 examples/06.2DGraphics/2DGraphics_vc8.vcproj -text
+examples/06.2DGraphics/2DGraphics_vc9.vcproj -text
 examples/06.2DGraphics/Makefile -text
 examples/06.2DGraphics/example.cbp -text
 examples/06.2DGraphics/example.dev -text
@@ -72,6 +78,7 @@ examples/07.Collision/Collision.dsw -text
 examples/07.Collision/Collision.sln -text
 examples/07.Collision/Collision.vcproj -text
 examples/07.Collision/Collision_vc8.vcproj -text
+examples/07.Collision/Collision_vc9.vcproj -text
 examples/07.Collision/Makefile -text
 examples/07.Collision/example.cbp -text
 examples/07.Collision/example.dev -text
@@ -82,6 +89,7 @@ examples/08.SpecialFX/SpecialFX.dsw -text
 examples/08.SpecialFX/SpecialFX.sln -text
 examples/08.SpecialFX/SpecialFX.vcproj -text
 examples/08.SpecialFX/SpecialFX_vc8.vcproj -text
+examples/08.SpecialFX/SpecialFX_vc9.vcproj -text
 examples/08.SpecialFX/SpecialFx.dsp -text
 examples/08.SpecialFX/example.cbp -text
 examples/08.SpecialFX/example.dev -text
@@ -94,6 +102,7 @@ examples/09.Meshviewer/Meshviewer.dsw -text
 examples/09.Meshviewer/Meshviewer.sln -text
 examples/09.Meshviewer/Meshviewer.vcproj -text
 examples/09.Meshviewer/Meshviewer_vc8.vcproj -text
+examples/09.Meshviewer/Meshviewer_vc9.vcproj -text
 examples/09.Meshviewer/example.cbp -text
 examples/09.Meshviewer/example.dev -text
 examples/09.Meshviewer/icon.ico -text
@@ -106,6 +115,7 @@ examples/10.Shaders/Shaders.dsw -text
 examples/10.Shaders/Shaders.sln -text
 examples/10.Shaders/Shaders.vcproj -text
 examples/10.Shaders/Shaders_vc8.vcproj -text
+examples/10.Shaders/Shaders_vc9.vcproj -text
 examples/10.Shaders/example.cbp -text
 examples/10.Shaders/example.dev -text
 examples/10.Shaders/main.cpp -text
@@ -116,6 +126,7 @@ examples/11.PerPixelLighting/PerPixelLighting.dsw -text
 examples/11.PerPixelLighting/PerPixelLighting.sln -text
 examples/11.PerPixelLighting/PerPixelLighting.vcproj -text
 examples/11.PerPixelLighting/PerPixelLighting_vc8.vcproj -text
+examples/11.PerPixelLighting/PerPixelLighting_vc9.vcproj -text
 examples/11.PerPixelLighting/example.cbp -text
 examples/11.PerPixelLighting/example.dev -text
 examples/11.PerPixelLighting/main.cpp -text
@@ -126,6 +137,7 @@ examples/12.TerrainRendering/TerrainRendering.dsw -text
 examples/12.TerrainRendering/TerrainRendering.sln -text
 examples/12.TerrainRendering/TerrainRendering.vcproj -text
 examples/12.TerrainRendering/TerrainRendering_vc8.vcproj -text
+examples/12.TerrainRendering/TerrainRendering_vc9.vcproj -text
 examples/12.TerrainRendering/example.cbp -text
 examples/12.TerrainRendering/example.dev -text
 examples/12.TerrainRendering/main.cpp -text
@@ -136,6 +148,7 @@ examples/13.RenderToTexture/RenderToTexture.dsw -text
 examples/13.RenderToTexture/RenderToTexture.sln -text
 examples/13.RenderToTexture/RenderToTexture.vcproj -text
 examples/13.RenderToTexture/RenderToTexture_vc8.vcproj -text
+examples/13.RenderToTexture/RenderToTexture_vc9.vcproj -text
 examples/13.RenderToTexture/example.cbp -text
 examples/13.RenderToTexture/example.dev -text
 examples/13.RenderToTexture/main.cpp -text
@@ -146,6 +159,7 @@ examples/14.Win32Window/Win32Window.dsw -text
 examples/14.Win32Window/Win32Window.sln -text
 examples/14.Win32Window/Win32Window.vcproj -text
 examples/14.Win32Window/Win32Window_vc8.vcproj -text
+examples/14.Win32Window/Win32Window_vc9.vcproj -text
 examples/14.Win32Window/example.cbp -text
 examples/14.Win32Window/example.dev -text
 examples/14.Win32Window/main.cpp -text
@@ -155,6 +169,7 @@ examples/15.LoadIrrFile/LoadIrrFile.dsw -text
 examples/15.LoadIrrFile/LoadIrrFile.sln -text
 examples/15.LoadIrrFile/LoadIrrFile.vcproj -text
 examples/15.LoadIrrFile/LoadIrrFile_vc8.vcproj -text
+examples/15.LoadIrrFile/LoadIrrFile_vc9.vcproj -text
 examples/15.LoadIrrFile/Makefile -text
 examples/15.LoadIrrFile/example.cbp -text
 examples/15.LoadIrrFile/example.dev -text
@@ -164,6 +179,7 @@ examples/16.Quake3MapShader/Makefile -text
 examples/16.Quake3MapShader/Quake3MapShader.sln -text
 examples/16.Quake3MapShader/Quake3MapShader.vcproj -text
 examples/16.Quake3MapShader/Quake3MapShader_vc8.vcproj -text
+examples/16.Quake3MapShader/Quake3MapShader_vc9.vcproj -text
 examples/16.Quake3MapShader/example.dev -text
 examples/16.Quake3MapShader/main.cpp -text
 examples/17.HelloWorld_Mobile/HelloWorld_mobile.sln -text
@@ -171,6 +187,7 @@ examples/17.HelloWorld_Mobile/HelloWorld_mobile.vcproj -text
 examples/17.HelloWorld_Mobile/main.cpp -text
 examples/BuildAllExamples.sln -text
 examples/BuildAllExamples_v7.sln -text
+examples/BuildAllExamples_v9.sln -text
 examples/Demo/CDemo.cpp -text
 examples/Demo/CDemo.h -text
 examples/Demo/CMainMenu.cpp -text
@@ -180,6 +197,7 @@ examples/Demo/Demo.dsw -text
 examples/Demo/Demo.sln -text
 examples/Demo/Demo.vcproj -text
 examples/Demo/Demo_vc8.vcproj -text
+examples/Demo/Demo_vc9.vcproj -text
 examples/Demo/Makefile -text
 examples/Demo/demo.cbp -text
 examples/Demo/demo.dev -text
@@ -859,6 +877,8 @@ source/Irrlicht/Irrlicht7.1.sln -text
 source/Irrlicht/Irrlicht7.1.vcproj -text
 source/Irrlicht/Irrlicht8.0.sln -text
 source/Irrlicht/Irrlicht8.0.vcproj -text
+source/Irrlicht/Irrlicht9.0.sln -text
+source/Irrlicht/Irrlicht9.0.vcproj -text
 source/Irrlicht/Irrlicht_Linux-gcc.cbp -text
 source/Irrlicht/Irrlicht_Win32-gcc.cbp -text
 source/Irrlicht/Irrlicht_mobile6.sln -text
