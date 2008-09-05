@@ -702,6 +702,8 @@ source/Irrlicht/CNullDriver.cpp -text
 source/Irrlicht/CNullDriver.h -text
 source/Irrlicht/COBJMeshFileLoader.cpp -text
 source/Irrlicht/COBJMeshFileLoader.h -text
+source/Irrlicht/COBJMeshWriter.cpp -text
+source/Irrlicht/COBJMeshWriter.h -text
 source/Irrlicht/COCTLoader.cpp -text
 source/Irrlicht/COCTLoader.h -text
 source/Irrlicht/COSOperator.cpp -text
