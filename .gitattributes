@@ -1324,6 +1324,8 @@ tools/GUIEditor/GUI[!!-~]Editor.sln -text
 tools/GUIEditor/GUI[!!-~]Editor.vcproj -text
 tools/GUIEditor/GUI[!!-~]Editor_v7.sln -text
 tools/GUIEditor/GUI[!!-~]Editor_v7.vcproj -text
+tools/GUIEditor/GUI[!!-~]Editor_v9.sln -text
+tools/GUIEditor/GUI[!!-~]Editor_v9.vcproj -text
 tools/GUIEditor/GUIEditor_win32-gcc.cbp -text
 tools/GUIEditor/Makefile -text
 tools/GUIEditor/main.cpp -text
@@ -1335,6 +1337,8 @@ tools/IrrFontTool/newFontTool/irrFontTool.sln -text
 tools/IrrFontTool/newFontTool/irrFontTool.vcproj -text
 tools/IrrFontTool/newFontTool/irrFontTool_v7.sln -text
 tools/IrrFontTool/newFontTool/irrFontTool_v7.vcproj -text
+tools/IrrFontTool/newFontTool/irrFontTool_v9.sln -text
+tools/IrrFontTool/newFontTool/irrFontTool_v9.vcproj -text
 tools/IrrFontTool/newFontTool/main.cpp -text
 tools/IrrFontTool/oldFontTool/IrrFontTool.exe -text
 tools/IrrFontTool/oldFontTool/source.zip -text
