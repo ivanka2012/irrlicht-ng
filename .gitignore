@@ -48,6 +48,7 @@ examples/16.Quake3MapShader/example
 examples/Demo/Makefile.win
 examples/Demo/demo
 lib/Linux/libIrrlicht.a
+scripts/doc/irrlicht/tut.txt
 source/Irrlicht/*.a
 source/Irrlicht/*.d
 source/Irrlicht/*.dll
