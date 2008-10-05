@@ -1332,10 +1332,10 @@ tools/GUIEditor/CGUITextureCacheBrowser.cpp -text
 tools/GUIEditor/CGUITextureCacheBrowser.h -text
 tools/GUIEditor/CMemoryReadWriteFile.cpp -text
 tools/GUIEditor/CMemoryReadWriteFile.h -text
-tools/GUIEditor/GUI[!!-~]Editor.sln -text
-tools/GUIEditor/GUI[!!-~]Editor.vcproj -text
 tools/GUIEditor/GUI[!!-~]Editor_v7.sln -text
 tools/GUIEditor/GUI[!!-~]Editor_v7.vcproj -text
+tools/GUIEditor/GUI[!!-~]Editor_v8.sln -text
+tools/GUIEditor/GUI[!!-~]Editor_v8.vcproj -text
 tools/GUIEditor/GUI[!!-~]Editor_v9.sln -text
 tools/GUIEditor/GUI[!!-~]Editor_v9.vcproj -text
 tools/GUIEditor/GUIEditor_win32-gcc.cbp -text
@@ -1345,10 +1345,10 @@ tools/IrrFontTool/newFontTool/CFontTool.cpp -text
 tools/IrrFontTool/newFontTool/CFontTool.h -text
 tools/IrrFontTool/newFontTool/CVectorFontTool.h -text
 tools/IrrFontTool/newFontTool/Makefile -text
-tools/IrrFontTool/newFontTool/irrFontTool.sln -text
-tools/IrrFontTool/newFontTool/irrFontTool.vcproj -text
 tools/IrrFontTool/newFontTool/irrFontTool_v7.sln -text
 tools/IrrFontTool/newFontTool/irrFontTool_v7.vcproj -text
+tools/IrrFontTool/newFontTool/irrFontTool_v8.sln -text
+tools/IrrFontTool/newFontTool/irrFontTool_v8.vcproj -text
 tools/IrrFontTool/newFontTool/irrFontTool_v9.sln -text
 tools/IrrFontTool/newFontTool/irrFontTool_v9.vcproj -text
 tools/IrrFontTool/newFontTool/main.cpp -text
