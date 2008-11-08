@@ -1282,6 +1282,7 @@ source/Irrlicht/libpng_osx/pngwutil.c -text
 source/Irrlicht/os.cpp -text
 source/Irrlicht/os.h -text
 source/Irrlicht/source.txt -text
+source/Irrlicht/wglext.h -text
 source/Irrlicht/zlib/ChangeLog -text
 source/Irrlicht/zlib/FAQ -text
 source/Irrlicht/zlib/INDEX -text
