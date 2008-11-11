@@ -192,6 +192,16 @@ examples/18.SplitScreen/SplitScreen_vc8.vcproj -text
 examples/18.SplitScreen/SplitScreen_vc9.vcproj -text
 examples/18.SplitScreen/example.dev -text
 examples/18.SplitScreen/main.cpp -text
+examples/19.MouseAndJoystick/Makefile -text
+examples/19.MouseAndJoystick/MouseAndJoystick.dsp -text
+examples/19.MouseAndJoystick/MouseAndJoystick.dsw -text
+examples/19.MouseAndJoystick/MouseAndJoystick.sln -text
+examples/19.MouseAndJoystick/MouseAndJoystick.vcproj -text
+examples/19.MouseAndJoystick/MouseAndJoystick_vc8.vcproj -text
+examples/19.MouseAndJoystick/MouseAndJoystick_vc9.vcproj -text
+examples/19.MouseAndJoystick/example.cbp -text
+examples/19.MouseAndJoystick/example.dev -text
+examples/19.MouseAndJoystick/main.cpp -text
 examples/BuildAllExamples_v7.sln -text
 examples/BuildAllExamples_v8.sln -text
 examples/BuildAllExamples_v9.sln -text
