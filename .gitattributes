@@ -7,8 +7,6 @@ bin/Win64-VisualStudio/readme.txt -text
 /changes.txt -text
 doc/readme.txt -text
 doc/upgrade-guide.txt -text
-examples/01.HelloWorld/HelloWorld.dsp -text
-examples/01.HelloWorld/HelloWorld.dsw -text
 examples/01.HelloWorld/HelloWorld.sln -text
 examples/01.HelloWorld/HelloWorld.vcproj -text
 examples/01.HelloWorld/HelloWorld_vc8.vcproj -text
@@ -19,8 +17,6 @@ examples/01.HelloWorld/example.dev -text
 examples/01.HelloWorld/main.cpp -text
 examples/01.HelloWorld/tutorial.html -text
 examples/02.Quake3Map/Makefile -text
-examples/02.Quake3Map/Quake3Map.dsp -text
-examples/02.Quake3Map/Quake3Map.dsw -text
 examples/02.Quake3Map/Quake3Map.sln -text
 examples/02.Quake3Map/Quake3Map.vcproj -text
 examples/02.Quake3Map/Quake3Map_vc8.vcproj -text
@@ -29,8 +25,6 @@ examples/02.Quake3Map/example.cbp -text
 examples/02.Quake3Map/example.dev -text
 examples/02.Quake3Map/main.cpp -text
 examples/02.Quake3Map/tutorial.html -text
-examples/03.CustomSceneNode/CustomSceneNode.dsp -text
-examples/03.CustomSceneNode/CustomSceneNode.dsw -text
 examples/03.CustomSceneNode/CustomSceneNode.sln -text
 examples/03.CustomSceneNode/CustomSceneNode.vcproj -text
 examples/03.CustomSceneNode/CustomSceneNode_vc8.vcproj -text
@@ -41,8 +35,6 @@ examples/03.CustomSceneNode/example.dev -text
 examples/03.CustomSceneNode/main.cpp -text
 examples/03.CustomSceneNode/tutorial.html -text
 examples/04.Movement/Makefile -text
-examples/04.Movement/Movement.dsp -text
-examples/04.Movement/Movement.dsw -text
 examples/04.Movement/Movement.sln -text
 examples/04.Movement/Movement.vcproj -text
 examples/04.Movement/Movement_vc8.vcproj -text
@@ -52,8 +44,6 @@ examples/04.Movement/example.dev -text
 examples/04.Movement/main.cpp -text
 examples/04.Movement/tutorial.html -text
 examples/05.UserInterface/Makefile -text
-examples/05.UserInterface/UserInterface.dsp -text
-examples/05.UserInterface/UserInterface.dsw -text
 examples/05.UserInterface/UserInterface.sln -text
 examples/05.UserInterface/UserInterface.vcproj -text
 examples/05.UserInterface/UserInterface_vc8.vcproj -text
@@ -62,8 +52,6 @@ examples/05.UserInterface/example.cbp -text
 examples/05.UserInterface/example.dev -text
 examples/05.UserInterface/main.cpp -text
 examples/05.UserInterface/tutorial.html -text
-examples/06.2DGraphics/2DGraphics.dsp -text
-examples/06.2DGraphics/2DGraphics.dsw -text
 examples/06.2DGraphics/2DGraphics.sln -text
 examples/06.2DGraphics/2DGraphics.vcproj -text
 examples/06.2DGraphics/2DGraphics_vc8.vcproj -text
@@ -73,8 +61,6 @@ examples/06.2DGraphics/example.cbp -text
 examples/06.2DGraphics/example.dev -text
 examples/06.2DGraphics/main.cpp -text
 examples/06.2DGraphics/tutorial.html -text
-examples/07.Collision/Collision.dsp -text
-examples/07.Collision/Collision.dsw -text
 examples/07.Collision/Collision.sln -text
 examples/07.Collision/Collision.vcproj -text
 examples/07.Collision/Collision_vc8.vcproj -text
@@ -85,20 +71,16 @@ examples/07.Collision/example.dev -text
 examples/07.Collision/main.cpp -text
 examples/07.Collision/tutorial.html -text
 examples/08.SpecialFX/Makefile -text
-examples/08.SpecialFX/SpecialFX.dsw -text
 examples/08.SpecialFX/SpecialFX.sln -text
 examples/08.SpecialFX/SpecialFX.vcproj -text
 examples/08.SpecialFX/SpecialFX_vc8.vcproj -text
 examples/08.SpecialFX/SpecialFX_vc9.vcproj -text
-examples/08.SpecialFX/SpecialFx.dsp -text
 examples/08.SpecialFX/example.cbp -text
 examples/08.SpecialFX/example.dev -text
 examples/08.SpecialFX/main.cpp -text
 examples/08.SpecialFX/tutorial.html -text
 examples/09.Meshviewer/9.Meshviewer.rc -text
 examples/09.Meshviewer/Makefile -text
-examples/09.Meshviewer/Meshviewer.dsp -text
-examples/09.Meshviewer/Meshviewer.dsw -text
 examples/09.Meshviewer/Meshviewer.sln -text
 examples/09.Meshviewer/Meshviewer.vcproj -text
 examples/09.Meshviewer/Meshviewer_vc8.vcproj -text
@@ -110,8 +92,6 @@ examples/09.Meshviewer/main.cpp -text
 examples/09.Meshviewer/resource.h -text
 examples/09.Meshviewer/tutorial.html -text
 examples/10.Shaders/Makefile -text
-examples/10.Shaders/Shaders.dsp -text
-examples/10.Shaders/Shaders.dsw -text
 examples/10.Shaders/Shaders.sln -text
 examples/10.Shaders/Shaders.vcproj -text
 examples/10.Shaders/Shaders_vc8.vcproj -text
@@ -121,8 +101,6 @@ examples/10.Shaders/example.dev -text
 examples/10.Shaders/main.cpp -text
 examples/10.Shaders/tutorial.html -text
 examples/11.PerPixelLighting/Makefile -text
-examples/11.PerPixelLighting/PerPixelLighting.dsp -text
-examples/11.PerPixelLighting/PerPixelLighting.dsw -text
 examples/11.PerPixelLighting/PerPixelLighting.sln -text
 examples/11.PerPixelLighting/PerPixelLighting.vcproj -text
 examples/11.PerPixelLighting/PerPixelLighting_vc8.vcproj -text
@@ -132,8 +110,6 @@ examples/11.PerPixelLighting/example.dev -text
 examples/11.PerPixelLighting/main.cpp -text
 examples/11.PerPixelLighting/tutorial.html -text
 examples/12.TerrainRendering/Makefile -text
-examples/12.TerrainRendering/TerrainRendering.dsp -text
-examples/12.TerrainRendering/TerrainRendering.dsw -text
 examples/12.TerrainRendering/TerrainRendering.sln -text
 examples/12.TerrainRendering/TerrainRendering.vcproj -text
 examples/12.TerrainRendering/TerrainRendering_vc8.vcproj -text
@@ -143,8 +119,6 @@ examples/12.TerrainRendering/example.dev -text
 examples/12.TerrainRendering/main.cpp -text
 examples/12.TerrainRendering/tutorial.html -text
 examples/13.RenderToTexture/Makefile -text
-examples/13.RenderToTexture/RenderToTexture.dsp -text
-examples/13.RenderToTexture/RenderToTexture.dsw -text
 examples/13.RenderToTexture/RenderToTexture.sln -text
 examples/13.RenderToTexture/RenderToTexture.vcproj -text
 examples/13.RenderToTexture/RenderToTexture_vc8.vcproj -text
@@ -154,8 +128,6 @@ examples/13.RenderToTexture/example.dev -text
 examples/13.RenderToTexture/main.cpp -text
 examples/13.RenderToTexture/tutorial.html -text
 examples/14.Win32Window/Makefile -text
-examples/14.Win32Window/Win32Window.dsp -text
-examples/14.Win32Window/Win32Window.dsw -text
 examples/14.Win32Window/Win32Window.sln -text
 examples/14.Win32Window/Win32Window.vcproj -text
 examples/14.Win32Window/Win32Window_vc8.vcproj -text
@@ -164,8 +136,6 @@ examples/14.Win32Window/example.cbp -text
 examples/14.Win32Window/example.dev -text
 examples/14.Win32Window/main.cpp -text
 examples/14.Win32Window/tutorial.html -text
-examples/15.LoadIrrFile/LoadIrrFile.dsp -text
-examples/15.LoadIrrFile/LoadIrrFile.dsw -text
 examples/15.LoadIrrFile/LoadIrrFile.sln -text
 examples/15.LoadIrrFile/LoadIrrFile.vcproj -text
 examples/15.LoadIrrFile/LoadIrrFile_vc8.vcproj -text
@@ -193,8 +163,6 @@ examples/18.SplitScreen/SplitScreen_vc9.vcproj -text
 examples/18.SplitScreen/example.dev -text
 examples/18.SplitScreen/main.cpp -text
 examples/19.MouseAndJoystick/Makefile -text
-examples/19.MouseAndJoystick/MouseAndJoystick.dsp -text
-examples/19.MouseAndJoystick/MouseAndJoystick.dsw -text
 examples/19.MouseAndJoystick/MouseAndJoystick.sln -text
 examples/19.MouseAndJoystick/MouseAndJoystick.vcproj -text
 examples/19.MouseAndJoystick/MouseAndJoystick_vc8.vcproj -text
@@ -209,8 +177,6 @@ examples/Demo/CDemo.cpp -text
 examples/Demo/CDemo.h -text
 examples/Demo/CMainMenu.cpp -text
 examples/Demo/CMainMenu.h -text
-examples/Demo/Demo.dsp -text
-examples/Demo/Demo.dsw -text
 examples/Demo/Demo.sln -text
 examples/Demo/Demo.vcproj -text
 examples/Demo/Demo_vc8.vcproj -text
@@ -894,8 +860,6 @@ source/Irrlicht/ITriangleRenderer.h -text
 source/Irrlicht/IZBuffer.h -text
 source/Irrlicht/Irrlicht.cpp -text
 source/Irrlicht/Irrlicht.dev -text
-source/Irrlicht/Irrlicht.dsp -text
-source/Irrlicht/Irrlicht.dsw -text
 source/Irrlicht/Irrlicht7.1.sln -text
 source/Irrlicht/Irrlicht7.1.vcproj -text
 source/Irrlicht/Irrlicht8.0.sln -text
@@ -1149,8 +1113,6 @@ source/Irrlicht/libpng/contrib/visupng/PngFile.c -text
 source/Irrlicht/libpng/contrib/visupng/PngFile.h -text
 source/Irrlicht/libpng/contrib/visupng/README.txt -text
 source/Irrlicht/libpng/contrib/visupng/VisualPng.c -text
-source/Irrlicht/libpng/contrib/visupng/VisualPng.dsp -text
-source/Irrlicht/libpng/contrib/visupng/VisualPng.dsw -text
 source/Irrlicht/libpng/contrib/visupng/VisualPng.ico -text
 source/Irrlicht/libpng/contrib/visupng/VisualPng.png -text
 source/Irrlicht/libpng/contrib/visupng/VisualPng.rc -text
@@ -1199,9 +1161,6 @@ source/Irrlicht/libpng/projects/cbuilder5/libpngstat.bpr -text
 source/Irrlicht/libpng/projects/cbuilder5/zlib.readme.txt -text
 source/Irrlicht/libpng/projects/netware.txt -text
 source/Irrlicht/libpng/projects/visualc6/README.txt -text
-source/Irrlicht/libpng/projects/visualc6/libpng.dsp -text
-source/Irrlicht/libpng/projects/visualc6/libpng.dsw -text
-source/Irrlicht/libpng/projects/visualc6/pngtest.dsp -text
 source/Irrlicht/libpng/projects/visualc71/PRJ0041.mak -text
 source/Irrlicht/libpng/projects/visualc71/README.txt -text
 source/Irrlicht/libpng/projects/visualc71/README_zlib.txt -text
