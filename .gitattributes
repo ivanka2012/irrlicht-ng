@@ -739,6 +739,8 @@ source/Irrlicht/CParticleRingEmitter.cpp -text
 source/Irrlicht/CParticleRingEmitter.h -text
 source/Irrlicht/CParticleRotationAffector.cpp -text
 source/Irrlicht/CParticleRotationAffector.h -text
+source/Irrlicht/CParticleScaleAffector.cpp -text
+source/Irrlicht/CParticleScaleAffector.h -text
 source/Irrlicht/CParticleSphereEmitter.cpp -text
 source/Irrlicht/CParticleSphereEmitter.h -text
 source/Irrlicht/CParticleSystemSceneNode.cpp -text
