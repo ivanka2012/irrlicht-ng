@@ -218,6 +218,7 @@ include/IAnimatedMeshSceneNode.h -text
 include/IAttributeExchangingObject.h -text
 include/IAttributes.h -text
 include/IBillboardSceneNode.h -text
+include/IBillboardTextSceneNode.h -text
 include/IBoneSceneNode.h -text
 include/ICameraSceneNode.h -text
 include/ICursorControl.h -text
