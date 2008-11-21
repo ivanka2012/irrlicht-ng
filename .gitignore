@@ -56,5 +56,6 @@ source/Irrlicht/*.obj
 source/Irrlicht/jpeglib/*.obj
 source/Irrlicht/libpng/*.obj
 source/Irrlicht/zlib/*.obj
+source/obj
 tools/GUIEditor/GUIEditor
 tools/IrrFontTool/newFontTool/FontTool
