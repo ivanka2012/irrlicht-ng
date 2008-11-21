@@ -188,6 +188,7 @@ examples/Demo/icon.ico -text
 examples/Demo/main.cpp -text
 examples/Demo/resource.h -text
 examples/Demo/resscript.rc -text
+examples/Makefile -text
 examples/TestProject/TestProject.sln -text
 examples/TestProject/TestProject.vcproj -text
 examples/TestProject/main.cpp -text
