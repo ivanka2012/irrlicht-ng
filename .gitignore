@@ -16,6 +16,7 @@ bin/Linux/16.Quake3MapShader
 bin/Linux/18.SplitScreen
 bin/Linux/19.MouseAndJoystick
 bin/Linux/Demo
+bin/Win32-VisualStudio/*.exe
 bin/Win32-gcc/*.exe
 examples/01.HelloWorld/Makefile.win
 examples/01.HelloWorld/example
@@ -54,9 +55,13 @@ scripts/doc/irrlicht/tut.txt
 source/Irrlicht/*.a
 source/Irrlicht/*.d
 source/Irrlicht/*.dll
+source/Irrlicht/*.ncb
 source/Irrlicht/*.obj
+source/Irrlicht/*.user
+source/Irrlicht/Release[!!-~]-[!!-~]Fast[!!-~]FPU
 source/Irrlicht/jpeglib/*.obj
 source/Irrlicht/libpng/*.obj
+source/Irrlicht/obj
 source/Irrlicht/zlib/*.obj
 source/obj
 tests/results/*
