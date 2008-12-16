@@ -1272,6 +1272,7 @@ source/Irrlicht/zlib/zutil.h -text
 source/source.txt -text
 tests/Makefile -text
 tests/b3dAnimation.cpp -text
+tests/collisionResponseAnimator.cpp -text
 tests/disambiguateTextures.cpp -text
 tests/drawPixel.cpp -text
 tests/empty/empty/Direct3D[!!-~]9.0.png -text
@@ -1296,6 +1297,7 @@ tests/media/burnings[!!-~]video[!!-~]0.39b-md2Animation.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-planeMatrix-scaledClip.png -text
 tests/media/tools.png -text
 tests/planeMatrix.cpp -text
+tests/sceneCollisionManager.cpp -text
 tests/softwareDevice.cpp -text
 tests/testUtils.cpp -text
 tests/testUtils.h -text
