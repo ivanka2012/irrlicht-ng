@@ -867,6 +867,7 @@ source/Irrlicht/IBurningShader.cpp -text
 source/Irrlicht/IBurningShader.h -text
 source/Irrlicht/IDepthBuffer.h -text
 source/Irrlicht/IImagePresenter.h -text
+source/Irrlicht/ISceneNodeAnimatorFinishing.h -text
 source/Irrlicht/ITriangleRenderer.h -text
 source/Irrlicht/IZBuffer.h -text
 source/Irrlicht/Irrlicht-gcc.cbp -text
