@@ -1314,6 +1314,7 @@ tests/tests_vc8.sln -text
 tests/tests_vc8.vcproj -text
 tests/tests_vc9.sln -text
 tests/tests_vc9.vcproj -text
+tests/vectorPositionDimension2d.cpp -text
 tools/GUIEditor/CGUIAttribute.h -text
 tools/GUIEditor/CGUIAttributeEditor.cpp -text
 tools/GUIEditor/CGUIAttributeEditor.h -text
