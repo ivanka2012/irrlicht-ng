@@ -1293,6 +1293,8 @@ tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-drawPixel.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-softwareDevice-rotatedClip.png -text
 tests/media/OpenGL-drawPixel.png -text
 tests/media/OpenGL-guiDisabledMenu.png -text
+tests/media/OpenGL-terrainSceneNode-1.png -text
+tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-b3dAnimation.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-drawPixel.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-md2Animation.png -text
@@ -1302,6 +1304,7 @@ tests/planeMatrix.cpp -text
 tests/sceneCollisionManager.cpp -text
 tests/sceneNodeAnimator.cpp -text
 tests/softwareDevice.cpp -text
+tests/terrainSceneNode.cpp -text
 tests/testDimension2d.cpp -text
 tests/testUtils.cpp -text
 tests/testUtils.h -text
