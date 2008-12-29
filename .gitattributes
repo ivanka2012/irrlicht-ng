@@ -1283,6 +1283,7 @@ tests/empty/empty/burnings[!!-~]video[!!-~]0.39b.png -text
 tests/exports.cpp -text
 tests/fast_atof.cpp -text
 tests/guiDisabledMenu.cpp -text
+tests/irrCoreEquals.cpp -text
 tests/line2dIntersectWith.cpp -text
 tests/main.cpp -text
 tests/md2Animation.cpp -text
