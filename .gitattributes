@@ -1273,6 +1273,7 @@ source/Irrlicht/zlib/zutil.h -text
 source/source.txt -text
 tests/Makefile -text
 tests/b3dAnimation.cpp -text
+tests/burningsVideo.cpp -text
 tests/collisionResponseAnimator.cpp -text
 tests/disambiguateTextures.cpp -text
 tests/drawPixel.cpp -text
@@ -1286,11 +1287,14 @@ tests/guiDisabledMenu.cpp -text
 tests/irrCoreEquals.cpp -text
 tests/line2dIntersectWith.cpp -text
 tests/main.cpp -text
+tests/makeColorKeyTexture.cpp -text
 tests/md2Animation.cpp -text
 tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
 tests/media/Direct3D[!!-~]9.0-textureRenderStates.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-drawPixel.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-makeColorKeyTexture-new.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-makeColorKeyTexture-old.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-softwareDevice-rotatedClip.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-textureRenderStates.png -text
 tests/media/OpenGL-drawPixel.png -text
@@ -1298,8 +1302,11 @@ tests/media/OpenGL-guiDisabledMenu.png -text
 tests/media/OpenGL-terrainSceneNode-1.png -text
 tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureRenderStates.png -text
+tests/media/burnings[!!-~]video[!!-~]0.39b-ambient-lighting.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-b3dAnimation.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-drawPixel.png -text
+tests/media/burnings[!!-~]video[!!-~]0.39b-makeColorKeyTexture-new.png -text
+tests/media/burnings[!!-~]video[!!-~]0.39b-makeColorKeyTexture-old.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-md2Animation.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-planeMatrix-scaledClip.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-textureRenderStates.png -text
