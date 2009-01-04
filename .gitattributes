@@ -1289,6 +1289,7 @@ tests/irrCoreEquals.cpp -text
 tests/line2dIntersectWith.cpp -text
 tests/main.cpp -text
 tests/makeColorKeyTexture.cpp -text
+tests/matrixOps.cpp -text
 tests/md2Animation.cpp -text
 tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
