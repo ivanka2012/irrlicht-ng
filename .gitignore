@@ -16,6 +16,7 @@ bin/Linux/16.Quake3MapShader
 bin/Linux/18.SplitScreen
 bin/Linux/19.MouseAndJoystick
 bin/Linux/Demo
+bin/Linux/tests
 bin/Win32-VisualStudio/*.exe
 bin/Win32-gcc/*.exe
 examples/01.HelloWorld/Makefile.win
