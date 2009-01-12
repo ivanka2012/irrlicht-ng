@@ -172,6 +172,14 @@ examples/19.MouseAndJoystick/MouseAndJoystick_vc8.vcproj -text
 examples/19.MouseAndJoystick/MouseAndJoystick_vc9.vcproj -text
 examples/19.MouseAndJoystick/example.dev -text
 examples/19.MouseAndJoystick/main.cpp -text
+examples/20.ManagedLights/Makefile -text
+examples/20.ManagedLights/ManagedLights.cbp -text
+examples/20.ManagedLights/ManagedLights.sln -text
+examples/20.ManagedLights/ManagedLights.vcproj -text
+examples/20.ManagedLights/ManagedLights_vc8.vcproj -text
+examples/20.ManagedLights/ManagedLights_vc9.vcproj -text
+examples/20.ManagedLights/example.dev -text
+examples/20.ManagedLights/main.cpp -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_v7.sln -text
 examples/BuildAllExamples_v8.sln -text
@@ -261,6 +269,7 @@ include/IImage.h -text
 include/IImageLoader.h -text
 include/IImageWriter.h -text
 include/IIndexBuffer.h -text
+include/ILightManager.h -text
 include/ILightSceneNode.h -text
 include/ILogger.h -text
 include/IMaterialRenderer.h -text
@@ -1292,6 +1301,7 @@ tests/makeColorKeyTexture.cpp -text
 tests/matrixOps.cpp -text
 tests/md2Animation.cpp -text
 tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
+tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
 tests/media/Direct3D[!!-~]9.0-textureRenderStates.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-drawPixel.png -text
