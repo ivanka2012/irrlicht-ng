@@ -1285,8 +1285,10 @@ tests/Makefile -text
 tests/b3dAnimation.cpp -text
 tests/burningsVideo.cpp -text
 tests/collisionResponseAnimator.cpp -text
+tests/cursorSetVisible.cpp -text
 tests/disambiguateTextures.cpp -text
 tests/drawPixel.cpp -text
+tests/drawRectOutline.cpp -text
 tests/empty/empty/Direct3D[!!-~]9.0.png -text
 tests/empty/empty/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0.png -text
 tests/empty/empty/OpenGL[!!-~]2.1.2.png -text
@@ -1304,6 +1306,7 @@ tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
 tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
 tests/media/Direct3D[!!-~]9.0-textureRenderStates.png -text
+tests/media/Direct3D[!!-~]9.0-transparentAlphaChannelRef.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-drawPixel.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-makeColorKeyTexture-new.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-makeColorKeyTexture-old.png -text
@@ -1317,11 +1320,13 @@ tests/media/OpenGL-textureRenderStates.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-ambient-lighting.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-b3dAnimation.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-drawPixel.png -text
+tests/media/burnings[!!-~]video[!!-~]0.39b-drawRectOutline.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-makeColorKeyTexture-new.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-makeColorKeyTexture-old.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-md2Animation.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-planeMatrix-scaledClip.png -text
 tests/media/burnings[!!-~]video[!!-~]0.39b-textureRenderStates.png -text
+tests/media/burnings[!!-~]video[!!-~]0.39b-transparentAlphaChannelRef.png -text
 tests/media/tools.png -text
 tests/planeMatrix.cpp -text
 tests/sceneCollisionManager.cpp -text
@@ -1342,6 +1347,7 @@ tests/tests_vc8.vcproj -text
 tests/tests_vc9.sln -text
 tests/tests_vc9.vcproj -text
 tests/textureRenderStates.cpp -text
+tests/transparentAlphaChannelRef.cpp -text
 tests/vectorPositionDimension2d.cpp -text
 tools/GUIEditor/CGUIAttribute.h -text
 tools/GUIEditor/CGUIAttributeEditor.cpp -text
