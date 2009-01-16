@@ -694,8 +694,8 @@ source/Irrlicht/CMS3DMeshFileLoader.h -text
 source/Irrlicht/CMY3DHelper.h -text
 source/Irrlicht/CMY3DMeshFileLoader.cpp -text
 source/Irrlicht/CMY3DMeshFileLoader.h -text
-source/Irrlicht/CMemoryReadFile.cpp -text
-source/Irrlicht/CMemoryReadFile.h -text
+source/Irrlicht/CMemoryFile.cpp -text
+source/Irrlicht/CMemoryFile.h -text
 source/Irrlicht/CMeshCache.cpp -text
 source/Irrlicht/CMeshCache.h -text
 source/Irrlicht/CMeshManipulator.cpp -text
@@ -1349,6 +1349,7 @@ tests/tests_vc9.vcproj -text
 tests/textureRenderStates.cpp -text
 tests/transparentAlphaChannelRef.cpp -text
 tests/vectorPositionDimension2d.cpp -text
+tests/writeImageToFile.cpp -text
 tools/GUIEditor/CGUIAttribute.h -text
 tools/GUIEditor/CGUIAttributeEditor.cpp -text
 tools/GUIEditor/CGUIAttributeEditor.h -text
