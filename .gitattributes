@@ -153,6 +153,7 @@ examples/16.Quake3MapShader/Quake3MapShader_vc8.vcproj -text
 examples/16.Quake3MapShader/Quake3MapShader_vc9.vcproj -text
 examples/16.Quake3MapShader/example.dev -text
 examples/16.Quake3MapShader/main.cpp -text
+examples/17.HelloWorld_Mobile/17.[!!-~]HelloWorld[!!-~]for[!!-~]Windows[!!-~]Mobile[!!-~]on[!!-~]PC_v8.vcproj -text
 examples/17.HelloWorld_Mobile/HelloWorld_mobile.sln -text
 examples/17.HelloWorld_Mobile/HelloWorld_mobile.vcproj -text
 examples/17.HelloWorld_Mobile/main.cpp -text
@@ -249,6 +250,7 @@ include/ICursorControl.h -text
 include/IDummyTransformationSceneNode.h -text
 include/IDynamicMeshBuffer.h -text
 include/IEventReceiver.h -text
+include/IFileArchive.h -text
 include/IFileList.h -text
 include/IFileSystem.h -text
 include/IGPUProgrammingServices.h -text
@@ -265,6 +267,7 @@ include/IGUIFileOpenDialog.h -text
 include/IGUIFont.h -text
 include/IGUIFontBitmap.h -text
 include/IGUIImage.h -text
+include/IGUIImageList.h -text
 include/IGUIInOutFader.h -text
 include/IGUIListBox.h -text
 include/IGUIMeshViewer.h -text
@@ -276,6 +279,7 @@ include/IGUIStaticText.h -text
 include/IGUITabControl.h -text
 include/IGUITable.h -text
 include/IGUIToolbar.h -text
+include/IGUITreeView.h -text
 include/IGUIWindow.h -text
 include/IImage.h -text
 include/IImageLoader.h -text
@@ -452,6 +456,7 @@ media/irrlicht2_up.jpg -text
 media/irrlichtlogo.BMP -text
 media/irrlichtlogo.jpg -text
 media/irrlichtlogo2.png -text
+media/irrlichtlogo3.png -text
 media/irrlichtlogoaligned.jpg -text
 media/irrlichtlogoalpha.tga -text
 media/irrlichtlogoalpha2.tga -text
@@ -485,7 +490,10 @@ media/rockwall_height.bmp -text
 media/room.3ds -text
 media/rsptnback.jpg -text
 media/skydome.jpg -text
+media/skydome2.jpg -text
 media/smoke.bmp -text
+media/smoke2.jpg -text
+media/smoke3.jpg -text
 media/sphere.3ds -text
 media/spheremap.jpg -text
 media/stones.jpg -text
