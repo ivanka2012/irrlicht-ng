@@ -180,6 +180,18 @@ examples/20.ManagedLights/ManagedLights_vc8.vcproj -text
 examples/20.ManagedLights/ManagedLights_vc9.vcproj -text
 examples/20.ManagedLights/example.dev -text
 examples/20.ManagedLights/main.cpp -text
+examples/21.Quake3Explorer/Makefile -text
+examples/21.Quake3Explorer/Quake3Explorer.sln -text
+examples/21.Quake3Explorer/Quake3Explorer.vcproj -text
+examples/21.Quake3Explorer/Quake3Explorer_vc7.vcproj -text
+examples/21.Quake3Explorer/Quake3Explorer_vc8.vcproj -text
+examples/21.Quake3Explorer/Quake3Explorer_vc9.vcproj -text
+examples/21.Quake3Explorer/example.dev -text
+examples/21.Quake3Explorer/main.cpp -text
+examples/21.Quake3Explorer/q3factory.cpp -text
+examples/21.Quake3Explorer/q3factory.h -text
+examples/21.Quake3Explorer/sound.cpp -text
+examples/21.Quake3Explorer/sound.h -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_v7.sln -text
 examples/BuildAllExamples_v8.sln -text
@@ -424,7 +436,10 @@ media/fireball.bmp -text
 media/fontcourier.bmp -text
 media/fonthaettenschweiler.bmp -text
 media/fontlucida.png -text
+media/gun.jpg -text
+media/gun.md2 -text
 media/help.png -text
+media/iconlist.png -text
 media/impact.wav -text
 media/irr.ico -text
 media/irrlicht.dat -text
@@ -599,6 +614,8 @@ source/Irrlicht/CGUIFont.cpp -text
 source/Irrlicht/CGUIFont.h -text
 source/Irrlicht/CGUIImage.cpp -text
 source/Irrlicht/CGUIImage.h -text
+source/Irrlicht/CGUIImageList.cpp -text
+source/Irrlicht/CGUIImageList.h -text
 source/Irrlicht/CGUIInOutFader.cpp -text
 source/Irrlicht/CGUIInOutFader.h -text
 source/Irrlicht/CGUIListBox.cpp -text
@@ -627,6 +644,8 @@ source/Irrlicht/CGUITable.cpp -text
 source/Irrlicht/CGUITable.h -text
 source/Irrlicht/CGUIToolBar.cpp -text
 source/Irrlicht/CGUIToolBar.h -text
+source/Irrlicht/CGUITreeView.cpp -text
+source/Irrlicht/CGUITreeView.h -text
 source/Irrlicht/CGUIWindow.cpp -text
 source/Irrlicht/CGUIWindow.h -text
 source/Irrlicht/CGeometryCreator.cpp -text
