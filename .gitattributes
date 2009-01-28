@@ -407,6 +407,7 @@ media/016shot.jpg -text
 media/017shot.jpg -text
 media/018shot.jpg -text
 media/019shot.jpg -text
+media/021shot.jpg -text
 media/2ddemo.bmp -text
 media/Faerie5.BMP -text
 media/IrrlichtTheme.ogg -text
@@ -920,6 +921,8 @@ source/Irrlicht/Irrlicht9.0.sln -text
 source/Irrlicht/Irrlicht9.0.vcproj -text
 source/Irrlicht/Irrlicht_mobile6.sln -text
 source/Irrlicht/Irrlicht_mobile6.vcproj -text
+source/Irrlicht/Irrlicht_xbox.sln -text
+source/Irrlicht/Irrlicht_xbox.vcproj -text
 source/Irrlicht/MacOSX/._MainMenu.nib -text
 source/Irrlicht/MacOSX/AppDelegate.h -text
 source/Irrlicht/MacOSX/AppDelegate.mm -text
