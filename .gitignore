@@ -65,6 +65,7 @@ source/Irrlicht/libpng/*.obj
 source/Irrlicht/obj
 source/Irrlicht/zlib/*.obj
 source/obj
+tests/*.d
 tests/*.ncb
 tests/*.user
 tests/results/*
