@@ -1325,6 +1325,7 @@ tests/empty/empty/Direct3D[!!-~]9.0.png -text
 tests/empty/empty/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0.png -text
 tests/empty/empty/OpenGL[!!-~]2.1.2.png -text
 tests/empty/empty/burnings[!!-~]video[!!-~]0.39b.png -text
+tests/enumerateImageManipulators.cpp -text
 tests/exports.cpp -text
 tests/fast_atof.cpp -text
 tests/flyCircleAnimator.cpp -text
