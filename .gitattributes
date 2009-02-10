@@ -1371,6 +1371,7 @@ tests/sceneNodeAnimator.cpp -text
 tests/softwareDevice.cpp -text
 tests/terrainSceneNode.cpp -text
 tests/testDimension2d.cpp -text
+tests/testGeometryCreator.cpp -text
 tests/testUtils.cpp -text
 tests/testUtils.h -text
 tests/testVector2d.cpp -text
