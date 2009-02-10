@@ -281,6 +281,7 @@ include/IGUITable.h -text
 include/IGUIToolbar.h -text
 include/IGUITreeView.h -text
 include/IGUIWindow.h -text
+include/IGeometryCreator.h -text
 include/IImage.h -text
 include/IImageLoader.h -text
 include/IImageWriter.h -text
