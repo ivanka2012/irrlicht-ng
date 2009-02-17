@@ -15,6 +15,8 @@ bin/Linux/15.LoadIrrFile
 bin/Linux/16.Quake3MapShader
 bin/Linux/18.SplitScreen
 bin/Linux/19.MouseAndJoystick
+bin/Linux/20.ManagedLights
+bin/Linux/21.Quake3Explorer
 bin/Linux/Demo
 bin/Linux/tests
 bin/Win32-VisualStudio/*.exe
@@ -63,6 +65,7 @@ source/Irrlicht/Release[!!-~]-[!!-~]Fast[!!-~]FPU
 source/Irrlicht/jpeglib/*.obj
 source/Irrlicht/libpng/*.obj
 source/Irrlicht/obj
+source/Irrlicht/tags
 source/Irrlicht/zlib/*.obj
 source/obj
 tests/*.d
