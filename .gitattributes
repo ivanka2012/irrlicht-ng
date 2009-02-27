@@ -692,6 +692,8 @@ source/Irrlicht/CImageWriterPSD.cpp -text
 source/Irrlicht/CImageWriterPSD.h -text
 source/Irrlicht/CImageWriterTGA.cpp -text
 source/Irrlicht/CImageWriterTGA.h -text
+source/Irrlicht/CIrrDeviceConsole.cpp -text
+source/Irrlicht/CIrrDeviceConsole.h -text
 source/Irrlicht/CIrrDeviceLinux.cpp -text
 source/Irrlicht/CIrrDeviceLinux.h -text
 source/Irrlicht/CIrrDeviceSDL.cpp -text
