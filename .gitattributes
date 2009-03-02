@@ -768,6 +768,8 @@ source/Irrlicht/COpenGLShaderMaterialRenderer.cpp -text
 source/Irrlicht/COpenGLShaderMaterialRenderer.h -text
 source/Irrlicht/COpenGLTexture.cpp -text
 source/Irrlicht/COpenGLTexture.h -text
+source/Irrlicht/CPLYMeshWriter.cpp -text
+source/Irrlicht/CPLYMeshWriter.h -text
 source/Irrlicht/CPakReader.cpp -text
 source/Irrlicht/CPakReader.h -text
 source/Irrlicht/CParticleAnimatedMeshSceneNodeEmitter.cpp -text
@@ -1435,6 +1437,7 @@ tools/IrrFontTool/oldFontTool/IrrFontTool.exe -text
 tools/IrrFontTool/oldFontTool/source.zip -text
 tools/IrrFontTool/readme.txt -text
 tools/MeshConverter/Makefile -text
+tools/MeshConverter/MeshConverter_v9.vcproj -text
 tools/MeshConverter/main.cpp -text
 tools/Meshviewer/whereIsIt.txt -text
 tools/irrEdit/irrEdit.jpg -text
