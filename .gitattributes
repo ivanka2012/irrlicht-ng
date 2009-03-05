@@ -768,6 +768,8 @@ source/Irrlicht/COpenGLShaderMaterialRenderer.cpp -text
 source/Irrlicht/COpenGLShaderMaterialRenderer.h -text
 source/Irrlicht/COpenGLTexture.cpp -text
 source/Irrlicht/COpenGLTexture.h -text
+source/Irrlicht/CPLYMeshFileLoader.cpp -text
+source/Irrlicht/CPLYMeshFileLoader.h -text
 source/Irrlicht/CPLYMeshWriter.cpp -text
 source/Irrlicht/CPLYMeshWriter.h -text
 source/Irrlicht/CPakReader.cpp -text
