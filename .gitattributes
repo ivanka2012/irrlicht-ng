@@ -674,6 +674,8 @@ source/Irrlicht/CImageLoaderPPM.cpp -text
 source/Irrlicht/CImageLoaderPPM.h -text
 source/Irrlicht/CImageLoaderPSD.cpp -text
 source/Irrlicht/CImageLoaderPSD.h -text
+source/Irrlicht/CImageLoaderRGB.cpp -text
+source/Irrlicht/CImageLoaderRGB.h -text
 source/Irrlicht/CImageLoaderTGA.cpp -text
 source/Irrlicht/CImageLoaderTGA.h -text
 source/Irrlicht/CImageLoaderWAL.cpp -text
