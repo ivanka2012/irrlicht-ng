@@ -1374,6 +1374,7 @@ tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureRenderStates.png -text
 tests/media/tools.png -text
 tests/planeMatrix.cpp -text
+tests/removeCustomAnimator.cpp -text
 tests/sceneCollisionManager.cpp -text
 tests/sceneNodeAnimator.cpp -text
 tests/softwareDevice.cpp -text
