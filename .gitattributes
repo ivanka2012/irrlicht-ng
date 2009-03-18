@@ -1181,7 +1181,7 @@ source/Irrlicht/libpng/contrib/visupng/VisualPng.rc -text
 source/Irrlicht/libpng/contrib/visupng/cexcept.h -text
 source/Irrlicht/libpng/contrib/visupng/resource.h -text
 source/Irrlicht/libpng/example.c -text
-source/Irrlicht/libpng/libpng-1.2.32.txt -text
+source/Irrlicht/libpng/libpng-1.2.35.txt -text
 source/Irrlicht/libpng/libpng.3 -text
 source/Irrlicht/libpng/libpngpf.3 -text
 source/Irrlicht/libpng/png.5 -text
