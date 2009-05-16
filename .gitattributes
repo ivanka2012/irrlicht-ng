@@ -1361,11 +1361,11 @@ tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
 tests/media/Direct3D[!!-~]9.0-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-transparentAlphaChannelRef.png -text
-tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-drawPixel.png -text
-tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-makeColorKeyTexture-new.png -text
-tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-makeColorKeyTexture-old.png -text
-tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-softwareDevice-rotatedClip.png -text
-tests/media/Irrlicht[!!-~]Software[!!-~]Device[!!-~]1.0-textureRenderStates.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-drawPixel.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-makeColorKeyTexture-new.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-makeColorKeyTexture-old.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-softwareDevice-rotatedClip.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureRenderStates.png -text
 tests/media/OpenGL-drawPixel.png -text
 tests/media/OpenGL-guiDisabledMenu.png -text
 tests/media/OpenGL-terrainSceneNode-1.png -text
