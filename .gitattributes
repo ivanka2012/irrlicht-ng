@@ -1371,6 +1371,7 @@ tests/media/OpenGL-guiDisabledMenu.png -text
 tests/media/OpenGL-terrainSceneNode-1.png -text
 tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureRenderStates.png -text
+tests/media/file_with_path.zip -text
 tests/media/tools.png -text
 tests/planeMatrix.cpp -text
 tests/removeCustomAnimator.cpp -text
@@ -1396,6 +1397,7 @@ tests/textureRenderStates.cpp -text
 tests/transparentAlphaChannelRef.cpp -text
 tests/vectorPositionDimension2d.cpp -text
 tests/writeImageToFile.cpp -text
+tests/zipReader.cpp -text
 tools/GUIEditor/CGUIAttribute.h -text
 tools/GUIEditor/CGUIAttributeEditor.cpp -text
 tools/GUIEditor/CGUIAttributeEditor.h -text
