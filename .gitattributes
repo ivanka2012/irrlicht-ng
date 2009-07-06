@@ -881,6 +881,8 @@ source/Irrlicht/CTRTextureLightMap2_M2.cpp -text
 source/Irrlicht/CTRTextureLightMap2_M4.cpp -text
 source/Irrlicht/CTRTextureLightMapGouraud2_M4.cpp -text
 source/Irrlicht/CTRTextureWire2.cpp -text
+source/Irrlicht/CTarReader.cpp -text
+source/Irrlicht/CTarReader.h -text
 source/Irrlicht/CTerrainSceneNode.cpp -text
 source/Irrlicht/CTerrainSceneNode.h -text
 source/Irrlicht/CTerrainTriangleSelector.cpp -text
