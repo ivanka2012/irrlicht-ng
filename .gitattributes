@@ -1428,7 +1428,7 @@ tools/GUIEditor/GUI[!!-~]Editor_v8.sln -text
 tools/GUIEditor/GUI[!!-~]Editor_v8.vcproj -text
 tools/GUIEditor/GUI[!!-~]Editor_v9.sln -text
 tools/GUIEditor/GUI[!!-~]Editor_v9.vcproj -text
-tools/GUIEditor/GUIEditor_win32-gcc.cbp -text
+tools/GUIEditor/GUIEditor_gcc.cbp -text
 tools/GUIEditor/Makefile -text
 tools/GUIEditor/main.cpp -text
 tools/IrrFontTool/newFontTool/CFontTool.cpp -text
