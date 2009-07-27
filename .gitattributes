@@ -544,6 +544,7 @@ source/Irrlicht/CBSPMeshFileLoader.cpp -text
 source/Irrlicht/CBSPMeshFileLoader.h -text
 source/Irrlicht/CBillboardSceneNode.cpp -text
 source/Irrlicht/CBillboardSceneNode.h -text
+source/Irrlicht/CBlit.h -text
 source/Irrlicht/CBoneSceneNode.cpp -text
 source/Irrlicht/CBoneSceneNode.h -text
 source/Irrlicht/CBurningShader_Raster_Reference.cpp -text
