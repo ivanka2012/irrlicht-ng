@@ -224,6 +224,7 @@ include/CMeshBuffer.h -text
 include/CVertexBuffer.h -text
 include/ECullingTypes.h -text
 include/EDebugSceneTypes.h -text
+include/EDeviceTypes.h -text
 include/EDriverFeatures.h -text
 include/EDriverTypes.h -text
 include/EGUIAlignment.h -text
