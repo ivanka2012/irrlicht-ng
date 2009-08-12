@@ -740,6 +740,8 @@ source/Irrlicht/CMeshSceneNode.cpp eol=crlf
 source/Irrlicht/CMeshSceneNode.h eol=crlf
 source/Irrlicht/CMetaTriangleSelector.cpp eol=crlf
 source/Irrlicht/CMetaTriangleSelector.h eol=crlf
+source/Irrlicht/CMountPointReader.cpp -text
+source/Irrlicht/CMountPointReader.h -text
 source/Irrlicht/CNullDriver.cpp eol=crlf
 source/Irrlicht/CNullDriver.h eol=crlf
 source/Irrlicht/COBJMeshFileLoader.cpp eol=crlf
