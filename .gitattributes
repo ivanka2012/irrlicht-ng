@@ -182,6 +182,7 @@ examples/20.ManagedLights/ManagedLights_vc8.vcproj -text
 examples/20.ManagedLights/ManagedLights_vc9.vcproj -text
 examples/20.ManagedLights/main.cpp eol=crlf
 examples/21.Quake3Explorer/Makefile -text
+examples/21.Quake3Explorer/Quake3Explorer.cbp -text
 examples/21.Quake3Explorer/Quake3Explorer.dev -text
 examples/21.Quake3Explorer/Quake3Explorer.sln -text
 examples/21.Quake3Explorer/Quake3Explorer.vcproj -text
