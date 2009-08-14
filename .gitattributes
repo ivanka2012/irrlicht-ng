@@ -1452,6 +1452,7 @@ tools/IrrFontTool/oldFontTool/IrrFontTool.exe -text
 tools/IrrFontTool/oldFontTool/source.zip -text
 tools/IrrFontTool/readme.txt -text
 tools/MeshConverter/Makefile -text
+tools/MeshConverter/MeshConverter.cbp -text
 tools/MeshConverter/MeshConverter_v9.vcproj -text
 tools/MeshConverter/main.cpp eol=crlf
 tools/Meshviewer/whereIsIt.txt -text
