@@ -71,7 +71,9 @@ source/Irrlicht/zlib/*.obj
 source/obj
 tests/*.d
 tests/*.ncb
+tests/*.suo
 tests/*.user
+tests/Debug
 tests/results/*
 tests/tests.log
 tools/GUIEditor/GUIEditor
