@@ -1370,6 +1370,7 @@ tests/filesystem.cpp eol=crlf
 tests/flyCircleAnimator.cpp eol=crlf
 tests/guiDisabledMenu.cpp eol=crlf
 tests/irrCoreEquals.cpp eol=crlf
+tests/lightMaps.cpp -text
 tests/line2dIntersectWith.cpp eol=crlf
 tests/main.cpp eol=crlf
 tests/makeColorKeyTexture.cpp eol=crlf
@@ -1380,6 +1381,7 @@ tests/media/Burning's[!!-~]Video-b3dAnimation.png -text
 tests/media/Burning's[!!-~]Video-drawPixel.png -text
 tests/media/Burning's[!!-~]Video-drawRectOutline.png -text
 tests/media/Burning's[!!-~]Video-flyCircleAnimator.png -text
+tests/media/Burning's[!!-~]Video-lightmaps.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-new.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-old.png -text
 tests/media/Burning's[!!-~]Video-md2Animation.png -text
@@ -1399,6 +1401,7 @@ tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-softwareDevice-rotatedCl
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureRenderStates.png -text
 tests/media/OpenGL-drawPixel.png -text
 tests/media/OpenGL-guiDisabledMenu.png -text
+tests/media/OpenGL-lightmaps.png -text
 tests/media/OpenGL-terrainSceneNode-1.png -text
 tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureRenderStates.png -text
