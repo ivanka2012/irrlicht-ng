@@ -1408,6 +1408,7 @@ tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureRenderStates.png -text
 tests/media/file_with_path.zip -text
 tests/media/sample_pakfile.pak -text
+tests/media/test.xml -text
 tests/media/tools.png -text
 tests/pakReader.cpp -text
 tests/planeMatrix.cpp eol=crlf
@@ -1422,6 +1423,7 @@ tests/testUtils.cpp eol=crlf
 tests/testUtils.h eol=crlf
 tests/testVector2d.cpp eol=crlf
 tests/testVector3d.cpp eol=crlf
+tests/testXML.cpp -text
 tests/tests-last-passed-at.txt -text
 tests/tests-readme.txt -text
 tests/tests.cbp -text

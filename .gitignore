@@ -18,6 +18,9 @@ bin/Linux/19.MouseAndJoystick
 bin/Linux/20.ManagedLights
 bin/Linux/21.Quake3Explorer
 bin/Linux/Demo
+bin/Linux/FontTool
+bin/Linux/GUIEditor
+bin/Linux/MeshConverter
 bin/Linux/tests
 bin/Win32-VisualStudio/*.exe
 bin/Win32-gcc/*.exe
