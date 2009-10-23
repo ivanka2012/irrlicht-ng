@@ -1407,7 +1407,9 @@ tests/media/OpenGL-terrainSceneNode-1.png -text
 tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureRenderStates.png -text
 tests/media/file_with_path.zip -text
+tests/media/sample_pakfile.pak -text
 tests/media/tools.png -text
+tests/pakReader.cpp -text
 tests/planeMatrix.cpp eol=crlf
 tests/removeCustomAnimator.cpp eol=crlf
 tests/sceneCollisionManager.cpp eol=crlf
