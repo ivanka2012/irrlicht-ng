@@ -25,6 +25,7 @@ bin/Linux/tests
 bin/Win32-VisualStudio/*.exe
 bin/Win32-gcc/*.exe
 bin/Win32-gcc/Irrlicht.dll
+/doctemp
 examples/01.HelloWorld/Makefile.win
 examples/01.HelloWorld/example
 examples/02.Quake3Map/Makefile.win
