@@ -1355,6 +1355,7 @@ source/Irrlicht/zlib/zutil.c eol=crlf
 source/Irrlicht/zlib/zutil.h eol=crlf
 source/source.txt -text
 tests/Makefile -text
+tests/archiveReader.cpp -text
 tests/b3dAnimation.cpp eol=crlf
 tests/burningsVideo.cpp eol=crlf
 tests/collisionResponseAnimator.cpp eol=crlf
@@ -1416,11 +1417,11 @@ tests/media/OpenGL-rttWith2DImage.png -text
 tests/media/OpenGL-terrainSceneNode-1.png -text
 tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureRenderStates.png -text
+tests/media/file_with_path.npk -text
 tests/media/file_with_path.zip -text
 tests/media/sample_pakfile.pak -text
 tests/media/test.xml -text
 tests/media/tools.png -text
-tests/pakReader.cpp -text
 tests/planeMatrix.cpp eol=crlf
 tests/projectionMatrix.cpp -text
 tests/removeCustomAnimator.cpp eol=crlf
@@ -1448,7 +1449,6 @@ tests/textureRenderStates.cpp eol=crlf
 tests/transparentAlphaChannelRef.cpp eol=crlf
 tests/vectorPositionDimension2d.cpp eol=crlf
 tests/writeImageToFile.cpp eol=crlf
-tests/zipReader.cpp eol=crlf
 tools/GUIEditor/CGUIAttribute.h eol=crlf
 tools/GUIEditor/CGUIAttributeEditor.cpp eol=crlf
 tools/GUIEditor/CGUIAttributeEditor.h eol=crlf
