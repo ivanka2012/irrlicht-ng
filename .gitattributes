@@ -1447,6 +1447,7 @@ tests/tests_vc9.sln -text
 tests/tests_vc9.vcproj -text
 tests/textureRenderStates.cpp eol=crlf
 tests/transparentAlphaChannelRef.cpp eol=crlf
+tests/triangle3d.cpp -text
 tests/vectorPositionDimension2d.cpp eol=crlf
 tests/writeImageToFile.cpp eol=crlf
 tools/GUIEditor/CGUIAttribute.h eol=crlf
