@@ -1400,6 +1400,7 @@ tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
 tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
 tests/media/Direct3D[!!-~]9.0-lightmaps.png -text
+tests/media/Direct3D[!!-~]9.0-rttWith2DImage.png -text
 tests/media/Direct3D[!!-~]9.0-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-transparentAlphaChannelRef.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-drawPixel.png -text
