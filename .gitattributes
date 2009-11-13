@@ -365,6 +365,7 @@ include/SParticle.h eol=crlf
 include/SSharedMeshBuffer.h eol=crlf
 include/SSkinMeshBuffer.h eol=crlf
 include/SVertexIndex.h eol=crlf
+include/SVertexManipulator.h -text
 include/SViewFrustum.h eol=crlf
 include/SceneParameters.h eol=crlf
 include/aabbox3d.h eol=crlf

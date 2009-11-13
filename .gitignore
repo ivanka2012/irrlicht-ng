@@ -22,7 +22,9 @@ bin/Linux/FontTool
 bin/Linux/GUIEditor
 bin/Linux/MeshConverter
 bin/Linux/tests
+bin/Win32-VisualStudio/*.dll
 bin/Win32-VisualStudio/*.exe
+bin/Win32-VisualStudio/*.ilk
 bin/Win32-gcc/*.exe
 bin/Win32-gcc/Irrlicht.dll
 /doctemp
