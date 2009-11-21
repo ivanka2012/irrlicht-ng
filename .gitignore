@@ -80,6 +80,7 @@ tests/*.ncb
 tests/*.suo
 tests/*.user
 tests/Debug
+tests/media/Thumbs.db
 tests/results/*
 tests/tests.log
 tools/GUIEditor/GUIEditor

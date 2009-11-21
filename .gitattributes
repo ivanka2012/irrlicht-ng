@@ -1398,6 +1398,8 @@ tests/media/Burning's[!!-~]Video-testGeometryCreator.png -text
 tests/media/Burning's[!!-~]Video-textureRenderStates.png -text
 tests/media/Burning's[!!-~]Video-transparentAlphaChannelRef.png -text
 tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
+tests/media/Direct3D[!!-~]8.1-lightmaps.png -text
+tests/media/Direct3D[!!-~]8.1-rttWith2DImage.png -text
 tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
 tests/media/Direct3D[!!-~]9.0-lightmaps.png -text
@@ -1447,6 +1449,7 @@ tests/tests_vc8.sln -text
 tests/tests_vc8.vcproj -text
 tests/tests_vc9.sln -text
 tests/tests_vc9.vcproj -text
+tests/textureFeatures.cpp -text
 tests/textureRenderStates.cpp eol=crlf
 tests/transparentAlphaChannelRef.cpp eol=crlf
 tests/triangle3d.cpp -text
