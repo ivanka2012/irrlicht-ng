@@ -238,6 +238,7 @@ include/EMeshWriterEnums.h eol=crlf
 include/EMessageBoxFlags.h eol=crlf
 include/ESceneNodeAnimatorTypes.h eol=crlf
 include/ESceneNodeTypes.h eol=crlf
+include/EShaderTypes.h -text
 include/ETerrainElements.h eol=crlf
 include/IAnimatedMesh.h eol=crlf
 include/IAnimatedMeshMD2.h eol=crlf
