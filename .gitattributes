@@ -722,6 +722,8 @@ source/Irrlicht/CImageWriterTGA.cpp eol=crlf
 source/Irrlicht/CImageWriterTGA.h eol=crlf
 source/Irrlicht/CIrrDeviceConsole.cpp eol=crlf
 source/Irrlicht/CIrrDeviceConsole.h eol=crlf
+source/Irrlicht/CIrrDeviceFB.cpp -text
+source/Irrlicht/CIrrDeviceFB.h -text
 source/Irrlicht/CIrrDeviceLinux.cpp eol=crlf
 source/Irrlicht/CIrrDeviceLinux.h eol=crlf
 source/Irrlicht/CIrrDeviceSDL.cpp eol=crlf
