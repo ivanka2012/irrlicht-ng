@@ -194,6 +194,14 @@ examples/21.Quake3Explorer/q3factory.cpp eol=crlf
 examples/21.Quake3Explorer/q3factory.h eol=crlf
 examples/21.Quake3Explorer/sound.cpp eol=crlf
 examples/21.Quake3Explorer/sound.h eol=crlf
+examples/22.MaterialViewer/Makefile -text
+examples/22.MaterialViewer/MaterialViewer.cbp -text
+examples/22.MaterialViewer/MaterialViewer.dev -text
+examples/22.MaterialViewer/MaterialViewer.sln -text
+examples/22.MaterialViewer/MaterialViewer.vcproj -text
+examples/22.MaterialViewer/MaterialViewer_vc8.vcproj -text
+examples/22.MaterialViewer/MaterialViewer_vc9.vcproj -text
+examples/22.MaterialViewer/main.cpp -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_v7.sln -text
@@ -416,6 +424,7 @@ media/018shot.jpg -text
 media/019shot.jpg -text
 media/020shot.jpg -text
 media/021shot.jpg -text
+media/022shot.jpg -text
 media/2ddemo.png -text
 media/Faerie5.BMP -text
 media/IrrlichtTheme.ogg -text
