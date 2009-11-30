@@ -1446,6 +1446,7 @@ tests/sceneCollisionManager.cpp eol=crlf
 tests/sceneNodeAnimator.cpp eol=crlf
 tests/softwareDevice.cpp eol=crlf
 tests/terrainSceneNode.cpp eol=crlf
+tests/testArray.cpp -text
 tests/testDimension2d.cpp eol=crlf
 tests/testGeometryCreator.cpp eol=crlf
 tests/testUtils.cpp eol=crlf
