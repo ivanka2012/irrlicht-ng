@@ -69,6 +69,7 @@ source/Irrlicht/*.ncb
 source/Irrlicht/*.obj
 source/Irrlicht/*.user
 source/Irrlicht/Release[!!-~]-[!!-~]Fast[!!-~]FPU
+source/Irrlicht/aesGladman/*.d
 source/Irrlicht/jpeglib/*.obj
 source/Irrlicht/libpng/*.obj
 source/Irrlicht/obj
