@@ -70,10 +70,13 @@ source/Irrlicht/*.obj
 source/Irrlicht/*.user
 source/Irrlicht/Release[!!-~]-[!!-~]Fast[!!-~]FPU
 source/Irrlicht/aesGladman/*.d
+source/Irrlicht/jpeglib/*.d
 source/Irrlicht/jpeglib/*.obj
+source/Irrlicht/libpng/*.d
 source/Irrlicht/libpng/*.obj
 source/Irrlicht/obj
 source/Irrlicht/tags
+source/Irrlicht/zlib/*.d
 source/Irrlicht/zlib/*.obj
 source/obj
 tests/*.d
