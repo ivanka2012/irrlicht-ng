@@ -233,6 +233,7 @@ include/CDynamicMeshBuffer.h eol=crlf
 include/CIndexBuffer.h eol=crlf
 include/CMeshBuffer.h eol=crlf
 include/CVertexBuffer.h eol=crlf
+include/EAttributes.h -text
 include/ECullingTypes.h eol=crlf
 include/EDebugSceneTypes.h eol=crlf
 include/EDeviceTypes.h eol=crlf
@@ -956,6 +957,7 @@ source/Irrlicht/CZBuffer.cpp eol=crlf
 source/Irrlicht/CZBuffer.h eol=crlf
 source/Irrlicht/CZipReader.cpp eol=crlf
 source/Irrlicht/CZipReader.h eol=crlf
+source/Irrlicht/IAttribute.h -text
 source/Irrlicht/IBurningShader.cpp eol=crlf
 source/Irrlicht/IBurningShader.h eol=crlf
 source/Irrlicht/IDepthBuffer.h eol=crlf
