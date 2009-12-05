@@ -1492,6 +1492,7 @@ tests/media/file_with_path.zip -text
 tests/media/sample_pakfile.pak -text
 tests/media/test.xml -text
 tests/media/tools.png -text
+tests/meshLoaders.cpp -text
 tests/planeMatrix.cpp eol=crlf
 tests/projectionMatrix.cpp -text
 tests/removeCustomAnimator.cpp eol=crlf
