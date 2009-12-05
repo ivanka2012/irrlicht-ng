@@ -1002,12 +1002,10 @@ source/Irrlicht/aesGladman/aescrypt.cpp -text
 source/Irrlicht/aesGladman/aeskey.cpp -text
 source/Irrlicht/aesGladman/aesopt.h -text
 source/Irrlicht/aesGladman/aestab.cpp -text
-source/Irrlicht/aesGladman/bzlib.h -text
 source/Irrlicht/aesGladman/fileenc.cpp -text
 source/Irrlicht/aesGladman/fileenc.h -text
 source/Irrlicht/aesGladman/hmac.cpp -text
 source/Irrlicht/aesGladman/hmac.h -text
-source/Irrlicht/aesGladman/main.c -text
 source/Irrlicht/aesGladman/prng.cpp -text
 source/Irrlicht/aesGladman/prng.h -text
 source/Irrlicht/aesGladman/pwd2key.cpp -text
