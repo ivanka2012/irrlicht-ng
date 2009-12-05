@@ -1026,6 +1026,7 @@ source/Irrlicht/bzip2/blocksort.c -text
 source/Irrlicht/bzip2/bz-common.xsl -text
 source/Irrlicht/bzip2/bz-fo.xsl -text
 source/Irrlicht/bzip2/bz-html.xsl -text
+source/Irrlicht/bzip2/bzcompress.c -text
 source/Irrlicht/bzip2/bzdiff -text
 source/Irrlicht/bzip2/bzdiff.1 -text
 source/Irrlicht/bzip2/bzgrep -text
@@ -1041,7 +1042,6 @@ source/Irrlicht/bzip2/bzlib.h -text
 source/Irrlicht/bzip2/bzlib_private.h -text
 source/Irrlicht/bzip2/bzmore -text
 source/Irrlicht/bzip2/bzmore.1 -text
-source/Irrlicht/bzip2/compress.c -text
 source/Irrlicht/bzip2/crctable.c -text
 source/Irrlicht/bzip2/decompress.c -text
 source/Irrlicht/bzip2/dlltest.c -text
