@@ -1432,6 +1432,9 @@ source/Irrlicht/libpng/scripts/pngos2.def -text
 source/Irrlicht/libpng/scripts/pngw32.def -text
 source/Irrlicht/libpng/scripts/pngw32.rc -text
 source/Irrlicht/libpng/scripts/smakefile.ppc -text
+source/Irrlicht/lzma/LzmaDec.c -text
+source/Irrlicht/lzma/LzmaDec.h -text
+source/Irrlicht/lzma/Types.h -text
 source/Irrlicht/os.cpp eol=crlf
 source/Irrlicht/os.h eol=crlf
 source/Irrlicht/source.txt -text
