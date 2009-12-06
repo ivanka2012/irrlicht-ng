@@ -89,5 +89,10 @@ tests/Debug
 tests/media/Thumbs.db
 tests/results/*
 tests/tests.log
+tools/GUIEditor/*.ncb
+tools/GUIEditor/*.suo
+tools/GUIEditor/*.user
+tools/GUIEditor/Debug
 tools/GUIEditor/GUIEditor
+tools/GUIEditor/Release
 tools/IrrFontTool/newFontTool/FontTool
