@@ -247,6 +247,7 @@ include/EMaterialFlags.h eol=crlf
 include/EMaterialTypes.h eol=crlf
 include/EMeshWriterEnums.h eol=crlf
 include/EMessageBoxFlags.h eol=crlf
+include/EPrimitiveTypes.h -text
 include/ESceneNodeAnimatorTypes.h eol=crlf
 include/ESceneNodeTypes.h eol=crlf
 include/EShaderTypes.h -text
