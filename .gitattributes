@@ -1548,6 +1548,7 @@ tests/removeCustomAnimator.cpp eol=crlf
 tests/renderTargetTexture.cpp -text
 tests/sceneCollisionManager.cpp eol=crlf
 tests/sceneNodeAnimator.cpp eol=crlf
+tests/serializeAttributes.cpp -text
 tests/softwareDevice.cpp eol=crlf
 tests/terrainSceneNode.cpp eol=crlf
 tests/testArray.cpp -text
