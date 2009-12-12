@@ -1492,6 +1492,7 @@ tests/irrCoreEquals.cpp eol=crlf
 tests/irrString.cpp -text
 tests/lightMaps.cpp -text
 tests/line2dIntersectWith.cpp eol=crlf
+tests/loadTextures.cpp -text
 tests/main.cpp eol=crlf
 tests/makeColorKeyTexture.cpp eol=crlf
 tests/matrixOps.cpp eol=crlf
