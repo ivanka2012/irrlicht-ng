@@ -794,10 +794,10 @@ source/Irrlicht/COCTLoader.cpp eol=crlf
 source/Irrlicht/COCTLoader.h eol=crlf
 source/Irrlicht/COSOperator.cpp eol=crlf
 source/Irrlicht/COSOperator.h eol=crlf
-source/Irrlicht/COctTreeSceneNode.cpp eol=crlf
-source/Irrlicht/COctTreeSceneNode.h eol=crlf
-source/Irrlicht/COctTreeTriangleSelector.cpp eol=crlf
-source/Irrlicht/COctTreeTriangleSelector.h eol=crlf
+source/Irrlicht/COctreeSceneNode.cpp eol=crlf
+source/Irrlicht/COctreeSceneNode.h eol=crlf
+source/Irrlicht/COctreeTriangleSelector.cpp eol=crlf
+source/Irrlicht/COctreeTriangleSelector.h eol=crlf
 source/Irrlicht/COgreMeshFileLoader.cpp eol=crlf
 source/Irrlicht/COgreMeshFileLoader.h eol=crlf
 source/Irrlicht/COpenGLDriver.cpp eol=crlf
@@ -992,7 +992,7 @@ source/Irrlicht/MacOSX/MainMenu.nib/info.nib -text
 source/Irrlicht/MacOSX/MainMenu.nib/keyedobjects.nib -text
 source/Irrlicht/MacOSX/OSXClipboard.h eol=crlf
 source/Irrlicht/Makefile eol=crlf
-source/Irrlicht/OctTree.h eol=crlf
+source/Irrlicht/Octree.h eol=crlf
 source/Irrlicht/S2DVertex.h eol=crlf
 source/Irrlicht/S4DVertex.h eol=crlf
 source/Irrlicht/SConstruct -text
