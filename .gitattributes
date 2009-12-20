@@ -1488,7 +1488,10 @@ tests/fast_atof.cpp eol=crlf
 tests/filesystem.cpp eol=crlf
 tests/flyCircleAnimator.cpp eol=crlf
 tests/guiDisabledMenu.cpp eol=crlf
+tests/irrArray.cpp -text
 tests/irrCoreEquals.cpp eol=crlf
+tests/irrList.cpp -text
+tests/irrMap.cpp -text
 tests/irrString.cpp -text
 tests/lightMaps.cpp -text
 tests/line2dIntersectWith.cpp eol=crlf
@@ -1552,7 +1555,6 @@ tests/sceneNodeAnimator.cpp eol=crlf
 tests/serializeAttributes.cpp -text
 tests/softwareDevice.cpp eol=crlf
 tests/terrainSceneNode.cpp eol=crlf
-tests/testArray.cpp -text
 tests/testDimension2d.cpp eol=crlf
 tests/testGeometryCreator.cpp eol=crlf
 tests/testUtils.cpp eol=crlf
