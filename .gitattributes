@@ -204,6 +204,13 @@ examples/22.MaterialViewer/MaterialViewer.vcproj -text
 examples/22.MaterialViewer/MaterialViewer_vc8.vcproj -text
 examples/22.MaterialViewer/MaterialViewer_vc9.vcproj -text
 examples/22.MaterialViewer/main.cpp -text
+examples/23.SMeshHandling/Makefile -text
+examples/23.SMeshHandling/SMeshHandling.dev -text
+examples/23.SMeshHandling/SMeshHandling.sln -text
+examples/23.SMeshHandling/SMeshHandling.vcproj -text
+examples/23.SMeshHandling/SMeshHandling_vc8.vcproj -text
+examples/23.SMeshHandling/SMeshHandling_vc9.vcproj -text
+examples/23.SMeshHandling/main.cpp -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_v7.sln -text

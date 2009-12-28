@@ -58,6 +58,11 @@ examples/14.Win32Window/Makefile.win
 examples/14.Win32Window/example
 examples/15.LoadIrrFile/example
 examples/16.Quake3MapShader/example
+examples/23.SMeshHandling/*.ncb
+examples/23.SMeshHandling/*.suo
+examples/23.SMeshHandling/*.user
+examples/23.SMeshHandling/Debug
+examples/23.SMeshHandling/Release
 examples/Demo/Makefile.win
 examples/Demo/demo
 lib/Linux/libIrrlicht.a
