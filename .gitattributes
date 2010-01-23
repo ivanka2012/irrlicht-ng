@@ -233,9 +233,6 @@ examples/Demo/main.cpp eol=crlf
 examples/Demo/resource.h eol=crlf
 examples/Demo/resscript.rc -text
 examples/Makefile -text
-examples/TestProject/TestProject.sln -text
-examples/TestProject/TestProject.vcproj -text
-examples/TestProject/main.cpp eol=crlf
 examples/buildAllExamples.sh -text
 examples/whereAreTheBinaries.txt -text
 include/CDynamicMeshBuffer.h eol=crlf
@@ -551,6 +548,11 @@ scripts/doc/irrlicht/irrlicht.png -text
 scripts/doc/irrlicht/logobig.png -text
 scripts/doc/irrlicht/makedocumentation.bat eol=crlf
 scripts/doc/irrlicht/makedocumentation.sh -text
+scripts/doc/irrlicht/maketut.sed -text
+scripts/doc/irrlicht/maketutorial.bat -text
+scripts/doc/irrlicht/maketutorial.sh -text
+scripts/doc/irrlicht/tut_end.html -text
+scripts/doc/irrlicht/tut_head.html -text
 scripts/doc/irrlicht/tutorials.sed -text
 scripts/doc/sed.exe -text
 scripts/doc/sed.txt -text
@@ -1521,6 +1523,7 @@ tests/media/Burning's[!!-~]Video-lightmaps.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-new.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-old.png -text
 tests/media/Burning's[!!-~]Video-md2Animation.png -text
+tests/media/Burning's[!!-~]Video-meshTransform.png -text
 tests/media/Burning's[!!-~]Video-planeMatrix-scaledClip.png -text
 tests/media/Burning's[!!-~]Video-projMat.png -text
 tests/media/Burning's[!!-~]Video-rttWith2DImage.png -text
@@ -1567,6 +1570,7 @@ tests/media/sample_pakfile.pak -text
 tests/media/test.xml -text
 tests/media/tools.png -text
 tests/meshLoaders.cpp -text
+tests/meshTransform.cpp -text
 tests/planeMatrix.cpp eol=crlf
 tests/projectionMatrix.cpp -text
 tests/removeCustomAnimator.cpp eol=crlf
@@ -1578,6 +1582,7 @@ tests/softwareDevice.cpp eol=crlf
 tests/terrainSceneNode.cpp eol=crlf
 tests/testDimension2d.cpp eol=crlf
 tests/testGeometryCreator.cpp eol=crlf
+tests/testS3DVertex.cpp -text
 tests/testUtils.cpp eol=crlf
 tests/testUtils.h eol=crlf
 tests/testVector2d.cpp eol=crlf
