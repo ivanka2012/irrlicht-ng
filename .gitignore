@@ -122,6 +122,7 @@ source/Irrlicht/*.d
 source/Irrlicht/*.dll
 source/Irrlicht/*.ncb
 source/Irrlicht/*.obj
+source/Irrlicht/*.suo
 source/Irrlicht/*.user
 source/Irrlicht/MacOSX/*.pbxuser
 source/Irrlicht/MacOSX/MacOSX.xcodeproj/*.pbxuser
