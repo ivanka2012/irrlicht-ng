@@ -1508,6 +1508,7 @@ tests/irrList.cpp -text
 tests/irrMap.cpp -text
 tests/irrString.cpp -text
 tests/lightMaps.cpp -text
+tests/lights.cpp -text
 tests/line2dIntersectWith.cpp eol=crlf
 tests/loadTextures.cpp -text
 tests/main.cpp eol=crlf
@@ -1520,6 +1521,7 @@ tests/media/Burning's[!!-~]Video-b3dJointPosition.png -text
 tests/media/Burning's[!!-~]Video-drawPixel.png -text
 tests/media/Burning's[!!-~]Video-drawRectOutline.png -text
 tests/media/Burning's[!!-~]Video-flyCircleAnimator.png -text
+tests/media/Burning's[!!-~]Video-lightType.png -text
 tests/media/Burning's[!!-~]Video-lightmaps.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-new.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-old.png -text
@@ -1533,12 +1535,14 @@ tests/media/Burning's[!!-~]Video-textureMatrixInMixedScenes.png -text
 tests/media/Burning's[!!-~]Video-textureRenderStates.png -text
 tests/media/Burning's[!!-~]Video-transparentAlphaChannelRef.png -text
 tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
+tests/media/Direct3D[!!-~]8.1-lightType.png -text
 tests/media/Direct3D[!!-~]8.1-lightmaps.png -text
 tests/media/Direct3D[!!-~]8.1-rttWith2DImage.png -text
 tests/media/Direct3D[!!-~]8.1-textureMatrixInMixedScenes.png -text
 tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-draw2DImageRTT.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
+tests/media/Direct3D[!!-~]9.0-lightType.png -text
 tests/media/Direct3D[!!-~]9.0-lightmaps.png -text
 tests/media/Direct3D[!!-~]9.0-lineAntiAliasing.png -text
 tests/media/Direct3D[!!-~]9.0-rttWith2DImage.png -text
@@ -1556,6 +1560,7 @@ tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureRenderStates.png 
 tests/media/OpenGL-draw2DImageRTT.png -text
 tests/media/OpenGL-drawPixel.png -text
 tests/media/OpenGL-guiDisabledMenu.png -text
+tests/media/OpenGL-lightType.png -text
 tests/media/OpenGL-lightmaps.png -text
 tests/media/OpenGL-lineAntiAliasing.png -text
 tests/media/OpenGL-projMat.png -text
