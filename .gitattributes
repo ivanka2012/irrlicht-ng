@@ -1540,6 +1540,7 @@ tests/media/Direct3D[!!-~]8.1-lightType.png -text
 tests/media/Direct3D[!!-~]8.1-lightmaps.png -text
 tests/media/Direct3D[!!-~]8.1-orthoCam.png -text
 tests/media/Direct3D[!!-~]8.1-rttWith2DImage.png -text
+tests/media/Direct3D[!!-~]8.1-stencilShadow.png -text
 tests/media/Direct3D[!!-~]8.1-textureMatrixInMixedScenes.png -text
 tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-draw2DImageRTT.png -text
@@ -1550,6 +1551,7 @@ tests/media/Direct3D[!!-~]9.0-lineAntiAliasing.png -text
 tests/media/Direct3D[!!-~]9.0-orthoCam.png -text
 tests/media/Direct3D[!!-~]9.0-orthoStencil.png -text
 tests/media/Direct3D[!!-~]9.0-rttWith2DImage.png -text
+tests/media/Direct3D[!!-~]9.0-stencilShadow.png -text
 tests/media/Direct3D[!!-~]9.0-textureMatrixInMixedScenes.png -text
 tests/media/Direct3D[!!-~]9.0-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-transparentAlphaChannelRef.png -text
@@ -1571,6 +1573,7 @@ tests/media/OpenGL-orthoCam.png -text
 tests/media/OpenGL-orthoStencil.png -text
 tests/media/OpenGL-projMat.png -text
 tests/media/OpenGL-rttWith2DImage.png -text
+tests/media/OpenGL-stencilShadow.png -text
 tests/media/OpenGL-terrainSceneNode-1.png -text
 tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureMatrixInMixedScenes.png -text
@@ -1593,6 +1596,7 @@ tests/sceneCollisionManager.cpp eol=crlf
 tests/sceneNodeAnimator.cpp eol=crlf
 tests/serializeAttributes.cpp -text
 tests/softwareDevice.cpp eol=crlf
+tests/stencilshadow.cpp -text
 tests/terrainSceneNode.cpp eol=crlf
 tests/testDimension2d.cpp eol=crlf
 tests/testGeometryCreator.cpp eol=crlf
