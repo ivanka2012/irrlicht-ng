@@ -1487,6 +1487,7 @@ tests/archiveReader.cpp -text
 tests/b3dAnimation.cpp eol=crlf
 tests/burningsVideo.cpp eol=crlf
 tests/collisionResponseAnimator.cpp eol=crlf
+tests/color.cpp -text
 tests/cursorSetVisible.cpp eol=crlf
 tests/disambiguateTextures.cpp eol=crlf
 tests/draw2DImage.cpp -text
