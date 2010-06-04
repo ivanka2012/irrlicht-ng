@@ -213,6 +213,9 @@ examples/23.SMeshHandling/SMeshHandling.vcproj -text
 examples/23.SMeshHandling/SMeshHandling_vc8.vcproj -text
 examples/23.SMeshHandling/SMeshHandling_vc9.vcproj -text
 examples/23.SMeshHandling/main.cpp -text
+examples/24.CursorControl/CursorControl.cbp -text
+examples/24.CursorControl/Makefile -text
+examples/24.CursorControl/main.cpp -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_v7.sln -text
@@ -473,6 +476,10 @@ media/fontlucida.png -text
 media/gun.jpg -text
 media/gun.md2 -text
 media/help.png -text
+media/icon_crosshairs16x16bw1.png -text
+media/icon_crosshairs16x16bw2.png -text
+media/icon_crosshairs16x16bw3.png -text
+media/icon_crosshairs16x16col.png -text
 media/iconlist.png -text
 media/impact.wav -text
 media/irr.ico -text
