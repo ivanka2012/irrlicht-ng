@@ -217,6 +217,7 @@ examples/24.CursorControl/CursorControl.cbp -text
 examples/24.CursorControl/CursorControl.sln -text
 examples/24.CursorControl/CursorControl.vcproj -text
 examples/24.CursorControl/CursorControl_vc8.vcproj -text
+examples/24.CursorControl/CursorControl_vc9.sln -text
 examples/24.CursorControl/CursorControl_vc9.vcproj -text
 examples/24.CursorControl/Makefile -text
 examples/24.CursorControl/main.cpp -text
