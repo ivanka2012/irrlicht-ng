@@ -930,6 +930,7 @@ source/Irrlicht/CTRGouraud2.cpp eol=crlf
 source/Irrlicht/CTRGouraudAlpha2.cpp eol=crlf
 source/Irrlicht/CTRGouraudAlphaNoZ2.cpp eol=crlf
 source/Irrlicht/CTRGouraudWire.cpp eol=crlf
+source/Irrlicht/CTRNormalMap.cpp -text
 source/Irrlicht/CTRTextureBlend.cpp eol=crlf
 source/Irrlicht/CTRTextureDetailMap2.cpp eol=crlf
 source/Irrlicht/CTRTextureFlat.cpp eol=crlf
