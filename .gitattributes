@@ -518,6 +518,7 @@ media/opengl.vert -text
 media/opengl.vsh -text
 media/opengllogo.png -text
 media/particle.bmp -text
+media/particlegreen.jpg -text
 media/particlered.bmp -text
 media/particlewhite.bmp -text
 media/portal1.bmp -text
