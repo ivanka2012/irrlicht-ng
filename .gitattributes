@@ -729,6 +729,8 @@ source/Irrlicht/CImage.cpp eol=crlf
 source/Irrlicht/CImage.h eol=crlf
 source/Irrlicht/CImageLoaderBMP.cpp eol=crlf
 source/Irrlicht/CImageLoaderBMP.h eol=crlf
+source/Irrlicht/CImageLoaderDDS.cpp -text
+source/Irrlicht/CImageLoaderDDS.h -text
 source/Irrlicht/CImageLoaderJPG.cpp eol=crlf
 source/Irrlicht/CImageLoaderJPG.h eol=crlf
 source/Irrlicht/CImageLoaderPCX.cpp eol=crlf
