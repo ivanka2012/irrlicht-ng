@@ -551,6 +551,8 @@ media/vcnetinclude.jpg -text
 media/wall.bmp -text
 media/wall.jpg -text
 media/water.jpg -text
+media/yodan[!!-~]mdl[!!-~]-[!!-~]readme.txt -text
+media/yodan.mdl -text
 media/zip.png -text
 /readme.txt -text
 scripts/doc/doxygen.exe -text
@@ -594,6 +596,8 @@ scripts/packages/OSX/readme.txt -text
 source/Irrlicht/BuiltInFont.h eol=crlf
 source/Irrlicht/C3DSMeshFileLoader.cpp eol=crlf
 source/Irrlicht/C3DSMeshFileLoader.h eol=crlf
+source/Irrlicht/CAnimatedMeshHalfLife.cpp -text
+source/Irrlicht/CAnimatedMeshHalfLife.h -text
 source/Irrlicht/CAnimatedMeshMD2.cpp eol=crlf
 source/Irrlicht/CAnimatedMeshMD2.h eol=crlf
 source/Irrlicht/CAnimatedMeshMD3.cpp eol=crlf
