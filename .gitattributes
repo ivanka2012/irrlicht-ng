@@ -938,6 +938,7 @@ source/Irrlicht/CTRGouraudAlpha2.cpp eol=crlf
 source/Irrlicht/CTRGouraudAlphaNoZ2.cpp eol=crlf
 source/Irrlicht/CTRGouraudWire.cpp eol=crlf
 source/Irrlicht/CTRNormalMap.cpp -text
+source/Irrlicht/CTRStencilShadow.cpp -text
 source/Irrlicht/CTRTextureBlend.cpp eol=crlf
 source/Irrlicht/CTRTextureDetailMap2.cpp eol=crlf
 source/Irrlicht/CTRTextureFlat.cpp eol=crlf
@@ -977,6 +978,8 @@ source/Irrlicht/CVideoModeList.cpp eol=crlf
 source/Irrlicht/CVideoModeList.h eol=crlf
 source/Irrlicht/CVolumeLightSceneNode.cpp eol=crlf
 source/Irrlicht/CVolumeLightSceneNode.h eol=crlf
+source/Irrlicht/CWADReader.cpp -text
+source/Irrlicht/CWADReader.h -text
 source/Irrlicht/CWaterSurfaceSceneNode.cpp eol=crlf
 source/Irrlicht/CWaterSurfaceSceneNode.h eol=crlf
 source/Irrlicht/CWriteFile.cpp eol=crlf
