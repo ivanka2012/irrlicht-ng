@@ -64,10 +64,12 @@ examples/06.2DGraphics/Debug
 examples/06.2DGraphics/Makefile.win
 examples/06.2DGraphics/Release
 examples/06.2DGraphics/example
+examples/07.Collision/*.ncb
 examples/07.Collision/*.user
 examples/07.Collision/Debug
 examples/07.Collision/Makefile.win
 examples/07.Collision/Release
+examples/07.Collision/SDL-Debug
 examples/07.Collision/example
 examples/08.SpecialFX/*.user
 examples/08.SpecialFX/Debug
