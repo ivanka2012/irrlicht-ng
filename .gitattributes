@@ -1618,6 +1618,7 @@ tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureMatrixInMixedScenes.png -text
 tests/media/OpenGL-textureRenderStates.png -text
 tests/media/OpenGL-transparentAlphaChannelRef.png -text
+tests/media/attributes.xml -text
 tests/media/cdata.xml -text
 tests/media/enc.zip -text
 tests/media/file_with_path.npk -text

@@ -119,6 +119,8 @@ examples/Demo/Makefile.win
 examples/Demo/Release
 examples/Demo/demo
 lib/Linux/libIrrlicht.a
+lib/Win32-visualstudio/*.exp
+lib/Win32-visualstudio/*.lib
 media/Thumbs.db
 scripts/doc/irrlicht/tut.txt
 source/Irrlicht/*.a
