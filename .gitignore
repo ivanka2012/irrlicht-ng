@@ -128,6 +128,7 @@ source/Irrlicht/*.d
 source/Irrlicht/*.dll
 source/Irrlicht/*.ncb
 source/Irrlicht/*.obj
+source/Irrlicht/*.sdf
 source/Irrlicht/*.suo
 source/Irrlicht/*.user
 source/Irrlicht/MacOSX/*.pbxuser
@@ -136,6 +137,7 @@ source/Irrlicht/MacOSX/build
 source/Irrlicht/Release[!!-~]-[!!-~]Fast[!!-~]FPU
 source/Irrlicht/aesGladman/*.d
 source/Irrlicht/bzip2/*.d
+source/Irrlicht/ipch
 source/Irrlicht/jpeglib/*.d
 source/Irrlicht/jpeglib/*.obj
 source/Irrlicht/libpng/*.d
