@@ -1645,6 +1645,9 @@ tests/media/cdata.xml -text
 tests/media/enc.zip -text
 tests/media/file_with_path.npk -text
 tests/media/file_with_path.zip -text
+tests/media/file_with_path/mypath/myfile.txt -text
+tests/media/file_with_path/mypath/mypath/myfile.txt -text
+tests/media/file_with_path/test/test.txt -text
 tests/media/sample_pakfile.pak -text
 tests/media/test.xml -text
 tests/media/tools.png -text
