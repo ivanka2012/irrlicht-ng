@@ -1690,7 +1690,7 @@ tests/tests_vc9.vcproj -text
 tests/textureFeatures.cpp -text
 tests/textureRenderStates.cpp eol=crlf
 tests/timer.cpp -text
-tests/transparentAlphaChannelRef.cpp eol=crlf
+tests/transparentMaterials.cpp eol=crlf
 tests/triangle3d.cpp -text
 tests/vectorPositionDimension2d.cpp eol=crlf
 tests/writeImageToFile.cpp eol=crlf
