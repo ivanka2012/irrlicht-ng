@@ -1582,6 +1582,7 @@ tests/media/Burning's[!!-~]Video-transparentAlphaChannel.png -text
 tests/media/Burning's[!!-~]Video-transparentAlphaChannelRef.png -text
 tests/media/Burning's[!!-~]Video-transparentReflection2Layer.png -text
 tests/media/Burning's[!!-~]Video-transparentVertexAlpha.png -text
+tests/media/Burning's[!!-~]Video-transparentVertexAlphaChannelMore.png -text
 tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
 tests/media/Direct3D[!!-~]8.1-lightType.png -text
 tests/media/Direct3D[!!-~]8.1-lightmaps.png -text
@@ -1609,6 +1610,7 @@ tests/media/Direct3D[!!-~]9.0-transparentAlphaChannel.png -text
 tests/media/Direct3D[!!-~]9.0-transparentAlphaChannelRef.png -text
 tests/media/Direct3D[!!-~]9.0-transparentReflection2Layer.png -text
 tests/media/Direct3D[!!-~]9.0-transparentVertexAlpha.png -text
+tests/media/Direct3D[!!-~]9.0-transparentVertexAlphaChannelMore.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-createImage.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-drawPixel.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-makeColorKeyTexture-new.png -text
@@ -1640,6 +1642,7 @@ tests/media/OpenGL-transparentAlphaChannel.png -text
 tests/media/OpenGL-transparentAlphaChannelRef.png -text
 tests/media/OpenGL-transparentReflection2Layer.png -text
 tests/media/OpenGL-transparentVertexAlpha.png -text
+tests/media/OpenGL-transparentVertexAlphaChannelMore.png -text
 tests/media/attributes.xml -text
 tests/media/cdata.xml -text
 tests/media/enc.zip -text
