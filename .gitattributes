@@ -1695,6 +1695,7 @@ tests/timer.cpp -text
 tests/transparentMaterials.cpp eol=crlf
 tests/triangle3d.cpp -text
 tests/vectorPositionDimension2d.cpp eol=crlf
+tests/videoDriver.cpp -text
 tests/writeImageToFile.cpp eol=crlf
 tools/GUIEditor/CGUIAttribute.h eol=crlf
 tools/GUIEditor/CGUIAttributeEditor.cpp eol=crlf
