@@ -1597,6 +1597,7 @@ tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-addBlend2D.png -text
 tests/media/Direct3D[!!-~]9.0-draw2DImageRTT.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
+tests/media/Direct3D[!!-~]9.0-drawRectOutline.png -text
 tests/media/Direct3D[!!-~]9.0-lightType.png -text
 tests/media/Direct3D[!!-~]9.0-lightmaps.png -text
 tests/media/Direct3D[!!-~]9.0-lineAntiAliasing.png -text
@@ -1615,6 +1616,7 @@ tests/media/Direct3D[!!-~]9.0-transparentVertexAlpha.png -text
 tests/media/Direct3D[!!-~]9.0-transparentVertexAlphaChannelMore.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-createImage.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-drawPixel.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-drawRectOutline.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-makeColorKeyTexture-new.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-makeColorKeyTexture-old.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-projMat.png -text
@@ -1625,6 +1627,7 @@ tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureRenderStates.png 
 tests/media/OpenGL-addBlend2D.png -text
 tests/media/OpenGL-draw2DImageRTT.png -text
 tests/media/OpenGL-drawPixel.png -text
+tests/media/OpenGL-drawRectOutline.png -text
 tests/media/OpenGL-guiDisabledMenu.png -text
 tests/media/OpenGL-lightType.png -text
 tests/media/OpenGL-lightmaps.png -text
