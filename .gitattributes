@@ -1601,6 +1601,7 @@ tests/media/Direct3D[!!-~]9.0-drawRectOutline.png -text
 tests/media/Direct3D[!!-~]9.0-lightType.png -text
 tests/media/Direct3D[!!-~]9.0-lightmaps.png -text
 tests/media/Direct3D[!!-~]9.0-lineAntiAliasing.png -text
+tests/media/Direct3D[!!-~]9.0-mrt.png -text
 tests/media/Direct3D[!!-~]9.0-orthoCam.png -text
 tests/media/Direct3D[!!-~]9.0-orthoStencil.png -text
 tests/media/Direct3D[!!-~]9.0-rttWith2DImage.png -text
@@ -1632,6 +1633,7 @@ tests/media/OpenGL-guiDisabledMenu.png -text
 tests/media/OpenGL-lightType.png -text
 tests/media/OpenGL-lightmaps.png -text
 tests/media/OpenGL-lineAntiAliasing.png -text
+tests/media/OpenGL-mrt.png -text
 tests/media/OpenGL-orthoCam.png -text
 tests/media/OpenGL-orthoStencil.png -text
 tests/media/OpenGL-projMat.png -text
@@ -1661,6 +1663,7 @@ tests/media/test.xml -text
 tests/media/tools.png -text
 tests/meshLoaders.cpp -text
 tests/meshTransform.cpp -text
+tests/mrt.cpp -text
 tests/orthoCam.cpp -text
 tests/planeMatrix.cpp eol=crlf
 tests/projectionMatrix.cpp -text
