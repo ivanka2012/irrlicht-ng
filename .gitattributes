@@ -221,6 +221,12 @@ examples/24.CursorControl/CursorControl_vc8.vcproj -text
 examples/24.CursorControl/CursorControl_vc9.vcproj -text
 examples/24.CursorControl/Makefile -text
 examples/24.CursorControl/main.cpp -text
+examples/25.XmlHandling/Makefile -text
+examples/25.XmlHandling/XmlHandling.cbp -text
+examples/25.XmlHandling/XmlHandling.vcproj -text
+examples/25.XmlHandling/XmlHandling_vc8.vcproj -text
+examples/25.XmlHandling/XmlHandling_vc9.vcproj -text
+examples/25.XmlHandling/main.cpp -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_v7.sln -text
