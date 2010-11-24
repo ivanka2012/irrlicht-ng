@@ -1388,12 +1388,11 @@ source/Irrlicht/libpng/contrib/visupng/VisualPng.rc -text
 source/Irrlicht/libpng/contrib/visupng/cexcept.h eol=crlf
 source/Irrlicht/libpng/contrib/visupng/resource.h eol=crlf
 source/Irrlicht/libpng/example.c eol=crlf
-source/Irrlicht/libpng/libpng-1.4.3.txt -text
+source/Irrlicht/libpng/libpng-1.4.4.txt -text
 source/Irrlicht/libpng/libpng-config.in -text
 source/Irrlicht/libpng/libpng.3 -text
 source/Irrlicht/libpng/libpng.pc.in -text
 source/Irrlicht/libpng/libpngpf.3 -text
-source/Irrlicht/libpng/new_push_process_row.c -text
 source/Irrlicht/libpng/png.5 -text
 source/Irrlicht/libpng/png.c eol=crlf
 source/Irrlicht/libpng/png.h eol=crlf
@@ -1429,7 +1428,6 @@ source/Irrlicht/libpng/projects/visualc71/zlib.vcproj -text
 source/Irrlicht/libpng/projects/vstudio/readme.txt -text
 source/Irrlicht/libpng/projects/vstudio/vstudio.sln -text
 source/Irrlicht/libpng/projects/vstudio/zlib.props -text
-source/Irrlicht/libpng/projects/xcode/Info.plist -text
 source/Irrlicht/libpng/projects/xcode/README.txt -text
 source/Irrlicht/libpng/projects/xcode/libpng.xcodeproj/project.pbxproj -text
 source/Irrlicht/libpng/scripts/README.txt -text
