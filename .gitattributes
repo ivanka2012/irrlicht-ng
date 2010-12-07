@@ -1588,6 +1588,7 @@ tests/media/Burning's[!!-~]Video-transparentAlphaChannelRef.png -text
 tests/media/Burning's[!!-~]Video-transparentReflection2Layer.png -text
 tests/media/Burning's[!!-~]Video-transparentVertexAlpha.png -text
 tests/media/Burning's[!!-~]Video-transparentVertexAlphaChannelMore.png -text
+tests/media/Burning's[!!-~]Video-viewPortText.png -text
 tests/media/Direct3D[!!-~]8.1-addBlend2D.png -text
 tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
 tests/media/Direct3D[!!-~]8.1-lightType.png -text
@@ -1619,6 +1620,7 @@ tests/media/Direct3D[!!-~]9.0-transparentAlphaChannelRef.png -text
 tests/media/Direct3D[!!-~]9.0-transparentReflection2Layer.png -text
 tests/media/Direct3D[!!-~]9.0-transparentVertexAlpha.png -text
 tests/media/Direct3D[!!-~]9.0-transparentVertexAlphaChannelMore.png -text
+tests/media/Direct3D[!!-~]9.0-viewPortText.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-createImage.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-drawPixel.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-drawRectOutline.png -text
@@ -1629,6 +1631,7 @@ tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-rttWith2DImage.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-softwareDevice-rotatedClip.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureMatrixInMixedScenes.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureRenderStates.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-viewPortText.png -text
 tests/media/OpenGL-addBlend2D.png -text
 tests/media/OpenGL-draw2DImageRTT.png -text
 tests/media/OpenGL-drawPixel.png -text
@@ -1654,6 +1657,7 @@ tests/media/OpenGL-transparentAlphaChannelRef.png -text
 tests/media/OpenGL-transparentReflection2Layer.png -text
 tests/media/OpenGL-transparentVertexAlpha.png -text
 tests/media/OpenGL-transparentVertexAlphaChannelMore.png -text
+tests/media/OpenGL-viewPortText.png -text
 tests/media/attributes.xml -text
 tests/media/cdata.xml -text
 tests/media/enc.zip -text
@@ -1706,6 +1710,7 @@ tests/transparentMaterials.cpp eol=crlf
 tests/triangle3d.cpp -text
 tests/vectorPositionDimension2d.cpp eol=crlf
 tests/videoDriver.cpp -text
+tests/viewPort.cpp -text
 tests/writeImageToFile.cpp eol=crlf
 tools/GUIEditor/CGUIAttribute.h eol=crlf
 tools/GUIEditor/CGUIAttributeEditor.cpp eol=crlf
