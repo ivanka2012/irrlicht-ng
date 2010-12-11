@@ -1614,6 +1614,7 @@ tests/media/Direct3D[!!-~]9.0-mrt.png -text
 tests/media/Direct3D[!!-~]9.0-multiTexture.png -text
 tests/media/Direct3D[!!-~]9.0-orthoCam.png -text
 tests/media/Direct3D[!!-~]9.0-orthoStencil.png -text
+tests/media/Direct3D[!!-~]9.0-projMat.png -text
 tests/media/Direct3D[!!-~]9.0-rttAndAntiAlias.png -text
 tests/media/Direct3D[!!-~]9.0-rttAndText.png -text
 tests/media/Direct3D[!!-~]9.0-rttWith2DImage.png -text
