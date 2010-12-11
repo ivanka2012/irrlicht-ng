@@ -1575,6 +1575,7 @@ tests/media/Burning's[!!-~]Video-makeColorKeyTexture-new.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-old.png -text
 tests/media/Burning's[!!-~]Video-md2Animation.png -text
 tests/media/Burning's[!!-~]Video-meshTransform.png -text
+tests/media/Burning's[!!-~]Video-multiTexture.png -text
 tests/media/Burning's[!!-~]Video-orthoCam.png -text
 tests/media/Burning's[!!-~]Video-planeMatrix-scaledClip.png -text
 tests/media/Burning's[!!-~]Video-projMat.png -text
@@ -1608,6 +1609,7 @@ tests/media/Direct3D[!!-~]9.0-lightType.png -text
 tests/media/Direct3D[!!-~]9.0-lightmaps.png -text
 tests/media/Direct3D[!!-~]9.0-lineAntiAliasing.png -text
 tests/media/Direct3D[!!-~]9.0-mrt.png -text
+tests/media/Direct3D[!!-~]9.0-multiTexture.png -text
 tests/media/Direct3D[!!-~]9.0-orthoCam.png -text
 tests/media/Direct3D[!!-~]9.0-orthoStencil.png -text
 tests/media/Direct3D[!!-~]9.0-rttWith2DImage.png -text
@@ -1628,6 +1630,7 @@ tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-drawPixel.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-drawRectOutline.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-makeColorKeyTexture-new.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-makeColorKeyTexture-old.png -text
+tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-multiTexture.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-projMat.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-rttWith2DImage.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-softwareDevice-rotatedClip.png -text
@@ -1643,6 +1646,7 @@ tests/media/OpenGL-lightType.png -text
 tests/media/OpenGL-lightmaps.png -text
 tests/media/OpenGL-lineAntiAliasing.png -text
 tests/media/OpenGL-mrt.png -text
+tests/media/OpenGL-multiTexture.png -text
 tests/media/OpenGL-orthoCam.png -text
 tests/media/OpenGL-orthoStencil.png -text
 tests/media/OpenGL-projMat.png -text
