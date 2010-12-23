@@ -1613,6 +1613,7 @@ tests/media/Direct3D[!!-~]9.0-lightType.png -text
 tests/media/Direct3D[!!-~]9.0-lightmaps.png -text
 tests/media/Direct3D[!!-~]9.0-lineAntiAliasing.png -text
 tests/media/Direct3D[!!-~]9.0-mrt.png -text
+tests/media/Direct3D[!!-~]9.0-mrt2.png -text
 tests/media/Direct3D[!!-~]9.0-multiTexture.png -text
 tests/media/Direct3D[!!-~]9.0-orthoCam.png -text
 tests/media/Direct3D[!!-~]9.0-orthoStencil.png -text
@@ -1655,6 +1656,7 @@ tests/media/OpenGL-lightType.png -text
 tests/media/OpenGL-lightmaps.png -text
 tests/media/OpenGL-lineAntiAliasing.png -text
 tests/media/OpenGL-mrt.png -text
+tests/media/OpenGL-mrt2.png -text
 tests/media/OpenGL-multiTexture.png -text
 tests/media/OpenGL-orthoCam.png -text
 tests/media/OpenGL-orthoStencil.png -text
