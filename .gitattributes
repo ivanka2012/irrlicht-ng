@@ -1623,6 +1623,8 @@ tests/media/Direct3D[!!-~]9.0-rttAndText.png -text
 tests/media/Direct3D[!!-~]9.0-rttWith2DImage.png -text
 tests/media/Direct3D[!!-~]9.0-stencilSelfShadow.png -text
 tests/media/Direct3D[!!-~]9.0-stencilShadow.png -text
+tests/media/Direct3D[!!-~]9.0-textureMatrix.png -text
+tests/media/Direct3D[!!-~]9.0-textureMatrix2.png -text
 tests/media/Direct3D[!!-~]9.0-textureMatrixInMixedScenes.png -text
 tests/media/Direct3D[!!-~]9.0-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-transparentAddColor.png -text
@@ -1668,6 +1670,8 @@ tests/media/OpenGL-stencilSelfShadow.png -text
 tests/media/OpenGL-stencilShadow.png -text
 tests/media/OpenGL-terrainSceneNode-1.png -text
 tests/media/OpenGL-terrainSceneNode-2.png -text
+tests/media/OpenGL-textureMatrix.png -text
+tests/media/OpenGL-textureMatrix2.png -text
 tests/media/OpenGL-textureMatrixInMixedScenes.png -text
 tests/media/OpenGL-textureRenderStates.png -text
 tests/media/OpenGL-transparentAddColor.png -text
