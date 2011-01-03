@@ -1011,8 +1011,10 @@ source/Irrlicht/ISceneNodeAnimatorFinishing.h eol=crlf
 source/Irrlicht/ITriangleRenderer.h eol=crlf
 source/Irrlicht/IZBuffer.h eol=crlf
 source/Irrlicht/Irrlicht-gcc.cbp -text
+source/Irrlicht/Irrlicht.aps -text
 source/Irrlicht/Irrlicht.cpp eol=crlf
 source/Irrlicht/Irrlicht.dev -text
+source/Irrlicht/Irrlicht.rc -text
 source/Irrlicht/Irrlicht10.0.sln -text
 source/Irrlicht/Irrlicht10.0.vcxproj -text
 source/Irrlicht/Irrlicht10.0.vcxproj.filters -text
@@ -1489,6 +1491,7 @@ source/Irrlicht/lzma/LzmaDec.h -text
 source/Irrlicht/lzma/Types.h -text
 source/Irrlicht/os.cpp eol=crlf
 source/Irrlicht/os.h eol=crlf
+source/Irrlicht/resource.h -text
 source/Irrlicht/source.txt -text
 source/Irrlicht/wglext.h eol=crlf
 source/Irrlicht/zlib/ChangeLog -text
