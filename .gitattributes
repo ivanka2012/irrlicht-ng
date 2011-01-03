@@ -1551,6 +1551,7 @@ tests/fast_atof.cpp eol=crlf
 tests/filesystem.cpp eol=crlf
 tests/flyCircleAnimator.cpp eol=crlf
 tests/guiDisabledMenu.cpp eol=crlf
+tests/ioScene.cpp -text
 tests/irrArray.cpp -text
 tests/irrCoreEquals.cpp eol=crlf
 tests/irrList.cpp -text
@@ -1575,6 +1576,7 @@ tests/media/Burning's[!!-~]Video-drawRectOutline.png -text
 tests/media/Burning's[!!-~]Video-flyCircleAnimator.png -text
 tests/media/Burning's[!!-~]Video-lightType.png -text
 tests/media/Burning's[!!-~]Video-lightmaps.png -text
+tests/media/Burning's[!!-~]Video-loadScene.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-new.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-old.png -text
 tests/media/Burning's[!!-~]Video-md2Animation.png -text
@@ -1693,6 +1695,8 @@ tests/media/file_with_path/mypath/myfile.txt -text
 tests/media/file_with_path/mypath/mypath/myfile.txt -text
 tests/media/file_with_path/test/test.txt -text
 tests/media/sample_pakfile.pak -text
+tests/media/scene.irr -text
+tests/media/scene2.irr -text
 tests/media/test.xml -text
 tests/media/tools.png -text
 tests/meshLoaders.cpp -text
