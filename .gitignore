@@ -185,6 +185,7 @@ tests/*.suo
 tests/*.user
 tests/Debug
 tests/Release
+tests/empty/empty/*.db
 tests/ipch
 tests/media/Thumbs.db
 tests/results/*
