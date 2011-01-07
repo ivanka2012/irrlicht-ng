@@ -1653,6 +1653,7 @@ tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-softwareDevice-rotatedCl
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureMatrixInMixedScenes.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureRenderStates.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-viewPortText.png -text
+tests/media/Monty.zip -text
 tests/media/OpenGL-2dmatFilter.png -text
 tests/media/OpenGL-addBlend2D.png -text
 tests/media/OpenGL-draw2DImageRTT.png -text
