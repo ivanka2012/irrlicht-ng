@@ -1765,6 +1765,7 @@ tools/GUIEditor/CGUITextureCacheBrowser.cpp eol=crlf
 tools/GUIEditor/CGUITextureCacheBrowser.h eol=crlf
 tools/GUIEditor/CMemoryReadWriteFile.cpp eol=crlf
 tools/GUIEditor/CMemoryReadWriteFile.h eol=crlf
+tools/GUIEditor/EGUIEditTypes.h -text
 tools/GUIEditor/GUI[!!-~]Editor_v7.sln -text
 tools/GUIEditor/GUI[!!-~]Editor_v7.vcproj -text
 tools/GUIEditor/GUI[!!-~]Editor_v8.sln -text
