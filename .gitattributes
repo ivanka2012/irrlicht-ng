@@ -355,6 +355,7 @@ include/IQ3Shader.h eol=crlf
 include/IReadFile.h eol=crlf
 include/IReferenceCounted.h eol=crlf
 include/ISceneCollisionManager.h eol=crlf
+include/ISceneLoader.h -text
 include/ISceneManager.h eol=crlf
 include/ISceneNode.h eol=crlf
 include/ISceneNodeAnimator.h eol=crlf
@@ -898,6 +899,8 @@ source/Irrlicht/CSTLMeshWriter.cpp eol=crlf
 source/Irrlicht/CSTLMeshWriter.h eol=crlf
 source/Irrlicht/CSceneCollisionManager.cpp eol=crlf
 source/Irrlicht/CSceneCollisionManager.h eol=crlf
+source/Irrlicht/CSceneLoaderIrr.cpp -text
+source/Irrlicht/CSceneLoaderIrr.h -text
 source/Irrlicht/CSceneManager.cpp eol=crlf
 source/Irrlicht/CSceneManager.h eol=crlf
 source/Irrlicht/CSceneNodeAnimatorCameraFPS.cpp eol=crlf
