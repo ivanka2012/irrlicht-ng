@@ -893,6 +893,8 @@ source/Irrlicht/CQuake3ShaderSceneNode.cpp eol=crlf
 source/Irrlicht/CQuake3ShaderSceneNode.h eol=crlf
 source/Irrlicht/CReadFile.cpp eol=crlf
 source/Irrlicht/CReadFile.h eol=crlf
+source/Irrlicht/CSMFMeshFileLoader.cpp -text
+source/Irrlicht/CSMFMeshFileLoader.h -text
 source/Irrlicht/CSTLMeshFileLoader.cpp eol=crlf
 source/Irrlicht/CSTLMeshFileLoader.h eol=crlf
 source/Irrlicht/CSTLMeshWriter.cpp eol=crlf
