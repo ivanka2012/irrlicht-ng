@@ -33,6 +33,7 @@ bin/Win32-gcc/*.exe
 bin/Win32-gcc/Irrlicht.dll
 /doctemp
 examples/*.ncb
+examples/*.opensdf
 examples/*.sdf
 examples/*.suo
 examples/01.HelloWorld/*.user
@@ -146,6 +147,7 @@ examples/Demo/Debug
 examples/Demo/Makefile.win
 examples/Demo/Release
 examples/Demo/demo
+examples/ipch
 lib/Linux/libIrrlicht.a
 lib/Win32-visualstudio/*.exp
 lib/Win32-visualstudio/*.lib
