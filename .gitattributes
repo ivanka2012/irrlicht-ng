@@ -227,6 +227,14 @@ examples/25.XmlHandling/XmlHandling.vcproj -text
 examples/25.XmlHandling/XmlHandling_vc8.vcproj -text
 examples/25.XmlHandling/XmlHandling_vc9.vcproj -text
 examples/25.XmlHandling/main.cpp -text
+examples/26.OcclusionQuery/Makefile -text
+examples/26.OcclusionQuery/OcclusionQuery.cbp -text
+examples/26.OcclusionQuery/OcclusionQuery.dev -text
+examples/26.OcclusionQuery/OcclusionQuery.vcproj -text
+examples/26.OcclusionQuery/OcclusionQuery_vc10.vcxproj -text
+examples/26.OcclusionQuery/OcclusionQuery_vc8.vcproj -text
+examples/26.OcclusionQuery/OcclusionQuery_vc9.vcproj -text
+examples/26.OcclusionQuery/main.cpp -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_v7.sln -text
