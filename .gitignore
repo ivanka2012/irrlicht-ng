@@ -142,6 +142,9 @@ examples/23.SMeshHandling/Release
 examples/24.CursorControl/*.user
 examples/24.CursorControl/Debug
 examples/24.CursorControl/Release
+examples/25.XmlHandling/*.user
+examples/25.XmlHandling/Debug
+examples/25.XmlHandling/Release
 examples/26.OcclusionQuery/*.user
 examples/26.OcclusionQuery/Debug
 examples/Demo/*.user
