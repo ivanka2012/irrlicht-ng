@@ -1577,6 +1577,7 @@ tests/line2dIntersectWith.cpp eol=crlf
 tests/loadTextures.cpp -text
 tests/main.cpp eol=crlf
 tests/makeColorKeyTexture.cpp eol=crlf
+tests/material.cpp -text
 tests/matrixOps.cpp eol=crlf
 tests/md2Animation.cpp eol=crlf
 tests/media/Burning's[!!-~]Video-2dmatFilter.png -text
@@ -1636,6 +1637,8 @@ tests/media/Direct3D[!!-~]9.0-mrt2.png -text
 tests/media/Direct3D[!!-~]9.0-multiTexture.png -text
 tests/media/Direct3D[!!-~]9.0-orthoCam.png -text
 tests/media/Direct3D[!!-~]9.0-orthoStencil.png -text
+tests/media/Direct3D[!!-~]9.0-polygonBack.png -text
+tests/media/Direct3D[!!-~]9.0-polygonFront.png -text
 tests/media/Direct3D[!!-~]9.0-projMat.png -text
 tests/media/Direct3D[!!-~]9.0-rttAndAntiAlias.png -text
 tests/media/Direct3D[!!-~]9.0-rttAndText.png -text
@@ -1682,6 +1685,8 @@ tests/media/OpenGL-mrt2.png -text
 tests/media/OpenGL-multiTexture.png -text
 tests/media/OpenGL-orthoCam.png -text
 tests/media/OpenGL-orthoStencil.png -text
+tests/media/OpenGL-polygonBack.png -text
+tests/media/OpenGL-polygonFront.png -text
 tests/media/OpenGL-projMat.png -text
 tests/media/OpenGL-rttAndAntiAlias.png -text
 tests/media/OpenGL-rttAndText.png -text
