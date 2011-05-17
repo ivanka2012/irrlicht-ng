@@ -1629,6 +1629,7 @@ tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-2dmatFilter.png -text
 tests/media/Direct3D[!!-~]9.0-addBlend2D.png -text
 tests/media/Direct3D[!!-~]9.0-draw2DImage4cFilter.png -text
+tests/media/Direct3D[!!-~]9.0-draw2DImagePNG.png -text
 tests/media/Direct3D[!!-~]9.0-draw2DImageRTT.png -text
 tests/media/Direct3D[!!-~]9.0-drawPixel.png -text
 tests/media/Direct3D[!!-~]9.0-drawRectOutline.png -text
@@ -1679,6 +1680,7 @@ tests/media/Monty.zip -text
 tests/media/OpenGL-2dmatFilter.png -text
 tests/media/OpenGL-addBlend2D.png -text
 tests/media/OpenGL-draw2DImage4cFilter.png -text
+tests/media/OpenGL-draw2DImagePNG.png -text
 tests/media/OpenGL-draw2DImageRTT.png -text
 tests/media/OpenGL-drawPixel.png -text
 tests/media/OpenGL-drawRectOutline.png -text
@@ -1713,6 +1715,7 @@ tests/media/OpenGL-transparentReflection2Layer.png -text
 tests/media/OpenGL-transparentVertexAlpha.png -text
 tests/media/OpenGL-transparentVertexAlphaChannelMore.png -text
 tests/media/OpenGL-viewPortText.png -text
+tests/media/RedbrushAlpha-0.25.png -text
 tests/media/attributes.xml -text
 tests/media/cdata.xml -text
 tests/media/enc.zip -text
@@ -1721,6 +1724,7 @@ tests/media/file_with_path.zip -text
 tests/media/file_with_path/mypath/myfile.txt -text
 tests/media/file_with_path/mypath/mypath/myfile.txt -text
 tests/media/file_with_path/test/test.txt -text
+tests/media/licenses.txt -text
 tests/media/sample_pakfile.pak -text
 tests/media/scene.irr -text
 tests/media/scene2.irr -text
