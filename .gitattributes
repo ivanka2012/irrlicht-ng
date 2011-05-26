@@ -1602,6 +1602,7 @@ tests/media/Burning's[!!-~]Video-orthoCam.png -text
 tests/media/Burning's[!!-~]Video-pixelAccuracy.png -text
 tests/media/Burning's[!!-~]Video-planeMatrix-scaledClip.png -text
 tests/media/Burning's[!!-~]Video-projMat.png -text
+tests/media/Burning's[!!-~]Video-renderMipmap.png -text
 tests/media/Burning's[!!-~]Video-rttAndAntiAlias.png -text
 tests/media/Burning's[!!-~]Video-rttAndText.png -text
 tests/media/Burning's[!!-~]Video-rttWith2DImage.png -text
@@ -1645,6 +1646,7 @@ tests/media/Direct3D[!!-~]9.0-pixelAccuracy.png -text
 tests/media/Direct3D[!!-~]9.0-polygonBack.png -text
 tests/media/Direct3D[!!-~]9.0-polygonFront.png -text
 tests/media/Direct3D[!!-~]9.0-projMat.png -text
+tests/media/Direct3D[!!-~]9.0-renderMipmap.png -text
 tests/media/Direct3D[!!-~]9.0-rttAndAntiAlias.png -text
 tests/media/Direct3D[!!-~]9.0-rttAndText.png -text
 tests/media/Direct3D[!!-~]9.0-rttWith2DImage.png -text
@@ -1697,6 +1699,7 @@ tests/media/OpenGL-pixelAccuracy.png -text
 tests/media/OpenGL-polygonBack.png -text
 tests/media/OpenGL-polygonFront.png -text
 tests/media/OpenGL-projMat.png -text
+tests/media/OpenGL-renderMipmap.png -text
 tests/media/OpenGL-rttAndAntiAlias.png -text
 tests/media/OpenGL-rttAndText.png -text
 tests/media/OpenGL-rttWith2DImage.png -text
