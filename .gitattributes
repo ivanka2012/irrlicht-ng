@@ -1705,6 +1705,7 @@ tests/media/OpenGL-rttAndText.png -text
 tests/media/OpenGL-rttWith2DImage.png -text
 tests/media/OpenGL-stencilSelfShadow.png -text
 tests/media/OpenGL-stencilShadow.png -text
+tests/media/OpenGL-terrainGap.png -text
 tests/media/OpenGL-terrainSceneNode-1.png -text
 tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureMatrix.png -text
@@ -1731,6 +1732,7 @@ tests/media/licenses.txt -text
 tests/media/sample_pakfile.pak -text
 tests/media/scene.irr -text
 tests/media/scene2.irr -text
+tests/media/ter1.png -text
 tests/media/test.xml -text
 tests/media/title_font.png -text
 tests/media/title_font.xml -text
