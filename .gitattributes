@@ -1590,6 +1590,7 @@ tests/media/Burning's[!!-~]Video-draw2DImageRTT.png -text
 tests/media/Burning's[!!-~]Video-drawPixel.png -text
 tests/media/Burning's[!!-~]Video-drawRectOutline.png -text
 tests/media/Burning's[!!-~]Video-flyCircleAnimator.png -text
+tests/media/Burning's[!!-~]Video-guiDisabledMenu.png -text
 tests/media/Burning's[!!-~]Video-lightType.png -text
 tests/media/Burning's[!!-~]Video-lightmaps.png -text
 tests/media/Burning's[!!-~]Video-loadScene.png -text
@@ -1606,9 +1607,11 @@ tests/media/Burning's[!!-~]Video-renderMipmap.png -text
 tests/media/Burning's[!!-~]Video-rttAndAntiAlias.png -text
 tests/media/Burning's[!!-~]Video-rttAndText.png -text
 tests/media/Burning's[!!-~]Video-rttWith2DImage.png -text
+tests/media/Burning's[!!-~]Video-terrainGap.png -text
+tests/media/Burning's[!!-~]Video-terrainSceneNode-1.png -text
+tests/media/Burning's[!!-~]Video-terrainSceneNode-2.png -text
 tests/media/Burning's[!!-~]Video-testGeometryCreator.png -text
 tests/media/Burning's[!!-~]Video-testTerrainMesh.png -text
-tests/media/Burning's[!!-~]Video-textureMatrixInMixedScenes.png -text
 tests/media/Burning's[!!-~]Video-textureRenderStates.png -text
 tests/media/Burning's[!!-~]Video-transparentAddColor.png -text
 tests/media/Burning's[!!-~]Video-transparentAlphaChannel.png -text
@@ -1675,7 +1678,6 @@ tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-projMat.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-rttAndText.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-rttWith2DImage.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-softwareDevice-rotatedClip.png -text
-tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureMatrixInMixedScenes.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-textureRenderStates.png -text
 tests/media/Irrlicht[!!-~]Software[!!-~]Driver[!!-~]1.0-viewPortText.png -text
 tests/media/Monty.zip -text
@@ -1686,7 +1688,6 @@ tests/media/OpenGL-draw2DImagePNG.png -text
 tests/media/OpenGL-draw2DImageRTT.png -text
 tests/media/OpenGL-drawPixel.png -text
 tests/media/OpenGL-drawRectOutline.png -text
-tests/media/OpenGL-guiDisabledMenu.png -text
 tests/media/OpenGL-lightType.png -text
 tests/media/OpenGL-lightmaps.png -text
 tests/media/OpenGL-lineAntiAliasing.png -text
@@ -1705,9 +1706,6 @@ tests/media/OpenGL-rttAndText.png -text
 tests/media/OpenGL-rttWith2DImage.png -text
 tests/media/OpenGL-stencilSelfShadow.png -text
 tests/media/OpenGL-stencilShadow.png -text
-tests/media/OpenGL-terrainGap.png -text
-tests/media/OpenGL-terrainSceneNode-1.png -text
-tests/media/OpenGL-terrainSceneNode-2.png -text
 tests/media/OpenGL-textureMatrix.png -text
 tests/media/OpenGL-textureMatrix2.png -text
 tests/media/OpenGL-textureMatrixInMixedScenes.png -text
