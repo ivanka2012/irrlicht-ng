@@ -1726,6 +1726,7 @@ tests/media/file_with_path.zip -text
 tests/media/file_with_path/mypath/myfile.txt -text
 tests/media/file_with_path/mypath/mypath/myfile.txt -text
 tests/media/file_with_path/test/test.txt -text
+tests/media/fireball.png -text
 tests/media/licenses.txt -text
 tests/media/sample_pakfile.pak -text
 tests/media/scene.irr -text
