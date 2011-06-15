@@ -292,6 +292,7 @@ include/IBillboardSceneNode.h eol=crlf
 include/IBillboardTextSceneNode.h eol=crlf
 include/IBoneSceneNode.h eol=crlf
 include/ICameraSceneNode.h eol=crlf
+include/IColladaMeshWriter.h -text
 include/ICursorControl.h eol=crlf
 include/IDummyTransformationSceneNode.h eol=crlf
 include/IDynamicMeshBuffer.h eol=crlf
