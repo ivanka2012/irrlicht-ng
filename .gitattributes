@@ -362,6 +362,7 @@ include/IParticleSphereEmitter.h eol=crlf
 include/IParticleSystemSceneNode.h eol=crlf
 include/IQ3LevelMesh.h eol=crlf
 include/IQ3Shader.h eol=crlf
+include/IRandomizer.h -text
 include/IReadFile.h eol=crlf
 include/IReferenceCounted.h eol=crlf
 include/ISceneCollisionManager.h eol=crlf
