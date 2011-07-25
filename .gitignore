@@ -113,7 +113,7 @@ examples/06.2DGraphics/Makefile.win
 examples/06.2DGraphics/Release
 examples/06.2DGraphics/example
 examples/07.Collision/*.depend
-examples/07.Collision/*.laybout
+examples/07.Collision/*.layout
 examples/07.Collision/*.ncb
 examples/07.Collision/*.user
 examples/07.Collision/.objs
@@ -262,9 +262,11 @@ lib/Linux/libIrrlicht.a
 lib/Win32-visualstudio/*.exp
 lib/Win32-visualstudio/*.lib
 media/Thumbs.db
+media/settings.xml
 scripts/doc/irrlicht/tut.txt
 source/Irrlicht/*.a
 source/Irrlicht/*.d
+source/Irrlicht/*.depend
 source/Irrlicht/*.dll
 source/Irrlicht/*.layout
 source/Irrlicht/*.ncb
@@ -301,6 +303,7 @@ tests/Release
 tests/empty/empty/*.db
 tests/ipch
 tests/media/Thumbs.db
+tests/media/attributeSerialization.xml
 tests/results/*
 tests/tests.log
 tools/FileToHeader/*.layout
