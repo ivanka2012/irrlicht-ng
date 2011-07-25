@@ -19,6 +19,9 @@ bin/Linux/20.ManagedLights
 bin/Linux/21.Quake3Explorer
 bin/Linux/22.MaterialViewer
 bin/Linux/23.SMeshHandling
+bin/Linux/24.CursorControl
+bin/Linux/25.XmlHandling
+bin/Linux/26.OcclusionQuery
 bin/Linux/Demo
 bin/Linux/FontTool
 bin/Linux/GUIEditor
