@@ -305,6 +305,7 @@ tests/ipch
 tests/media/Thumbs.db
 tests/media/attributeSerialization.xml
 tests/results/*
+tests/tests
 tests/tests.log
 tools/FileToHeader/*.layout
 tools/FileToHeader/.objs
