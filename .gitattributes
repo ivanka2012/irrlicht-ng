@@ -1599,6 +1599,7 @@ tests/media/Burning's[!!-~]Video-loadScene.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-new.png -text
 tests/media/Burning's[!!-~]Video-makeColorKeyTexture-old.png -text
 tests/media/Burning's[!!-~]Video-md2Animation.png -text
+tests/media/Burning's[!!-~]Video-md2Normals.png -text
 tests/media/Burning's[!!-~]Video-meshTransform.png -text
 tests/media/Burning's[!!-~]Video-multiTexture.png -text
 tests/media/Burning's[!!-~]Video-orthoCam.png -text
