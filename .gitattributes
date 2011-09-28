@@ -1406,8 +1406,8 @@ source/Irrlicht/libpng/contrib/visupng/VisualPng.rc -text
 source/Irrlicht/libpng/contrib/visupng/cexcept.h eol=crlf
 source/Irrlicht/libpng/contrib/visupng/resource.h eol=crlf
 source/Irrlicht/libpng/example.c eol=crlf
-source/Irrlicht/libpng/libpng-1.4.4.txt -text
 source/Irrlicht/libpng/libpng-config.in -text
+source/Irrlicht/libpng/libpng-manual.txt -text
 source/Irrlicht/libpng/libpng.3 -text
 source/Irrlicht/libpng/libpng.pc.in -text
 source/Irrlicht/libpng/libpngpf.3 -text
@@ -1417,8 +1417,10 @@ source/Irrlicht/libpng/png.h eol=crlf
 source/Irrlicht/libpng/pngbar.jpg -text
 source/Irrlicht/libpng/pngbar.png -text
 source/Irrlicht/libpng/pngconf.h eol=crlf
+source/Irrlicht/libpng/pngdebug.h -text
 source/Irrlicht/libpng/pngerror.c eol=crlf
 source/Irrlicht/libpng/pngget.c eol=crlf
+source/Irrlicht/libpng/pnginfo.h -text
 source/Irrlicht/libpng/pngmem.c eol=crlf
 source/Irrlicht/libpng/pngnow.png -text
 source/Irrlicht/libpng/pngpread.c eol=crlf
@@ -1428,9 +1430,11 @@ source/Irrlicht/libpng/pngrio.c eol=crlf
 source/Irrlicht/libpng/pngrtran.c eol=crlf
 source/Irrlicht/libpng/pngrutil.c eol=crlf
 source/Irrlicht/libpng/pngset.c eol=crlf
+source/Irrlicht/libpng/pngstruct.h -text
 source/Irrlicht/libpng/pngtest.c eol=crlf
 source/Irrlicht/libpng/pngtest.png -text
 source/Irrlicht/libpng/pngtrans.c eol=crlf
+source/Irrlicht/libpng/pngvalid.c -text
 source/Irrlicht/libpng/pngwio.c eol=crlf
 source/Irrlicht/libpng/pngwrite.c eol=crlf
 source/Irrlicht/libpng/pngwtran.c eol=crlf
