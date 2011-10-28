@@ -1726,6 +1726,8 @@ tests/media/OpenGL-lineAntiAliasing.png -text
 tests/media/OpenGL-mrt.png -text
 tests/media/OpenGL-mrt2.png -text
 tests/media/OpenGL-multiTexture.png -text
+tests/media/OpenGL-octree_select1.png -text
+tests/media/OpenGL-octree_select2.png -text
 tests/media/OpenGL-orthoCam.png -text
 tests/media/OpenGL-orthoStencil.png -text
 tests/media/OpenGL-pixelAccuracy.png -text
@@ -1748,6 +1750,9 @@ tests/media/OpenGL-transparentAlphaChannelRef.png -text
 tests/media/OpenGL-transparentReflection2Layer.png -text
 tests/media/OpenGL-transparentVertexAlpha.png -text
 tests/media/OpenGL-transparentVertexAlphaChannelMore.png -text
+tests/media/OpenGL-tri_select1.png -text
+tests/media/OpenGL-tri_select2.png -text
+tests/media/OpenGL-tri_select3.png -text
 tests/media/OpenGL-viewPortText.png -text
 tests/media/RedbrushAlpha-0.25.png -text
 tests/media/attributes.xml -text
@@ -1811,6 +1816,7 @@ tests/textureRenderStates.cpp eol=crlf
 tests/timer.cpp -text
 tests/transparentMaterials.cpp eol=crlf
 tests/triangle3d.cpp -text
+tests/triangleSelector.cpp -text
 tests/vectorPositionDimension2d.cpp eol=crlf
 tests/videoDriver.cpp -text
 tests/viewPort.cpp -text
