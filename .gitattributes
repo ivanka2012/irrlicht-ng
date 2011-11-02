@@ -584,6 +584,7 @@ scripts/doc/irrlicht/doxygen.css -text
 scripts/doc/irrlicht/footer.html -text
 scripts/doc/irrlicht/header.html -text
 scripts/doc/irrlicht/irrlicht.png -text
+scripts/doc/irrlicht/irrlichtlogo.png -text
 scripts/doc/irrlicht/logobig.png -text
 scripts/doc/irrlicht/makedocumentation.bat eol=crlf
 scripts/doc/irrlicht/makedocumentation.sh -text
