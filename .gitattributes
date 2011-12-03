@@ -1579,6 +1579,7 @@ tests/Makefile -text
 tests/anti-aliasing.cpp -text
 tests/archiveReader.cpp -text
 tests/b3dAnimation.cpp eol=crlf
+tests/billboards.cpp -text
 tests/burningsVideo.cpp eol=crlf
 tests/collisionResponseAnimator.cpp eol=crlf
 tests/color.cpp -text
@@ -1618,6 +1619,7 @@ tests/media/Burning's[!!-~]Video-addBlend2D.png -text
 tests/media/Burning's[!!-~]Video-ambient-lighting.png -text
 tests/media/Burning's[!!-~]Video-b3dAnimation.png -text
 tests/media/Burning's[!!-~]Video-b3dJointPosition.png -text
+tests/media/Burning's[!!-~]Video-billboard.png -text
 tests/media/Burning's[!!-~]Video-draw2DImage4cFilter.png -text
 tests/media/Burning's[!!-~]Video-draw2DImageRTT.png -text
 tests/media/Burning's[!!-~]Video-drawPixel.png -text
