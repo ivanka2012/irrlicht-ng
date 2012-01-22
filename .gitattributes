@@ -264,7 +264,7 @@ include/CDynamicMeshBuffer.h eol=crlf
 include/CIndexBuffer.h eol=crlf
 include/CMeshBuffer.h eol=crlf
 include/CVertexBuffer.h eol=crlf
-include/EAttributes.h -text
+include/EAttributes.h eol=crlf
 include/ECullingTypes.h eol=crlf
 include/EDebugSceneTypes.h eol=crlf
 include/EDeviceTypes.h eol=crlf
@@ -277,10 +277,10 @@ include/EMaterialFlags.h eol=crlf
 include/EMaterialTypes.h eol=crlf
 include/EMeshWriterEnums.h eol=crlf
 include/EMessageBoxFlags.h eol=crlf
-include/EPrimitiveTypes.h -text
+include/EPrimitiveTypes.h eol=crlf
 include/ESceneNodeAnimatorTypes.h eol=crlf
 include/ESceneNodeTypes.h eol=crlf
-include/EShaderTypes.h -text
+include/EShaderTypes.h eol=crlf
 include/ETerrainElements.h eol=crlf
 include/IAnimatedMesh.h eol=crlf
 include/IAnimatedMeshMD2.h eol=crlf
