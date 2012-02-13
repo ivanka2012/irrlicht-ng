@@ -1613,7 +1613,6 @@ tests/irrMap.cpp -text
 tests/irrString.cpp -text
 tests/lightMaps.cpp -text
 tests/lights.cpp -text
-tests/line2dIntersectWith.cpp eol=crlf
 tests/loadTextures.cpp -text
 tests/main.cpp eol=crlf
 tests/makeColorKeyTexture.cpp eol=crlf
@@ -1804,6 +1803,7 @@ tests/stencilshadow.cpp -text
 tests/terrainSceneNode.cpp eol=crlf
 tests/testDimension2d.cpp eol=crlf
 tests/testGeometryCreator.cpp eol=crlf
+tests/testLine2d.cpp eol=crlf
 tests/testQuaternion.cpp -text
 tests/testS3DVertex.cpp -text
 tests/testUtils.cpp eol=crlf
