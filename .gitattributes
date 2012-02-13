@@ -1063,6 +1063,7 @@ source/Irrlicht/MacOSX/MainMenu.nib/classes.nib -text
 source/Irrlicht/MacOSX/MainMenu.nib/info.nib -text
 source/Irrlicht/MacOSX/MainMenu.nib/keyedobjects.nib -text
 source/Irrlicht/MacOSX/OSXClipboard.h eol=crlf
+source/Irrlicht/MacOSX/irrFramework-Info.plist -text
 source/Irrlicht/Makefile eol=crlf
 source/Irrlicht/Octree.h eol=crlf
 source/Irrlicht/S2DVertex.h eol=crlf
