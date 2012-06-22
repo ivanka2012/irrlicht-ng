@@ -429,6 +429,8 @@ include/irrString.h eol=crlf
 include/irrTypes.h eol=crlf
 include/irrXML.h eol=crlf
 include/irrlicht.h eol=crlf
+include/irrpack.h -text
+include/irrunpack.h -text
 include/line2d.h eol=crlf
 include/line3d.h eol=crlf
 include/matrix4.h eol=crlf
