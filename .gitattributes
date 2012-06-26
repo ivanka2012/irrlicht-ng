@@ -1840,7 +1840,6 @@ tests/videoDriver.cpp -text
 tests/viewPort.cpp -text
 tests/writeImageToFile.cpp eol=crlf
 tools/FileToHeader/FileToHeader.cbp -text
-tools/FileToHeader/FileToHeader.layout -text
 tools/FileToHeader/Makefile -text
 tools/FileToHeader/main.cpp -text
 tools/GUIEditor/CGUIAttribute.h eol=crlf
