@@ -3,6 +3,7 @@ bin/Linux/readme.txt -text
 bin/MacOSX/readme.txt -text
 bin/Win32-VisualStudio/irrlicht.ico -text
 bin/Win32-gcc/irrlicht.ico -text
+bin/Win64-VisualStudio/irrlicht.ico -text
 bin/Win64-VisualStudio/readme.txt -text
 /changes.txt -text
 doc/aesGladman.txt -text
