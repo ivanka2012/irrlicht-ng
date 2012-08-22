@@ -191,7 +191,6 @@ examples/21.Quake3Explorer/Quake3Explorer.cbp -text
 examples/21.Quake3Explorer/Quake3Explorer.dev -text
 examples/21.Quake3Explorer/Quake3Explorer.vcproj -text
 examples/21.Quake3Explorer/Quake3Explorer_vc10.vcxproj -text
-examples/21.Quake3Explorer/Quake3Explorer_vc7.vcproj -text
 examples/21.Quake3Explorer/Quake3Explorer_vc8.vcproj -text
 examples/21.Quake3Explorer/Quake3Explorer_vc9.vcproj -text
 examples/21.Quake3Explorer/main.cpp eol=crlf
@@ -239,7 +238,6 @@ examples/26.OcclusionQuery/OcclusionQuery_vc9.vcproj -text
 examples/26.OcclusionQuery/main.cpp -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
-examples/BuildAllExamples_v7.sln -text
 examples/BuildAllExamples_v8.sln -text
 examples/BuildAllExamples_v9.sln -text
 examples/BuildAllExamples_vc10.sln -text
@@ -1913,8 +1911,6 @@ tools/GUIEditor/CGUITextureCacheBrowser.h eol=crlf
 tools/GUIEditor/CMemoryReadWriteFile.cpp eol=crlf
 tools/GUIEditor/CMemoryReadWriteFile.h eol=crlf
 tools/GUIEditor/EGUIEditTypes.h -text
-tools/GUIEditor/GUI[!!-~]Editor_v7.sln -text
-tools/GUIEditor/GUI[!!-~]Editor_v7.vcproj -text
 tools/GUIEditor/GUI[!!-~]Editor_v8.sln -text
 tools/GUIEditor/GUI[!!-~]Editor_v8.vcproj -text
 tools/GUIEditor/GUI[!!-~]Editor_v9.sln -text
@@ -1928,8 +1924,6 @@ tools/IrrFontTool/newFontTool/CFontTool.cpp eol=crlf
 tools/IrrFontTool/newFontTool/CFontTool.h eol=crlf
 tools/IrrFontTool/newFontTool/CVectorFontTool.h eol=crlf
 tools/IrrFontTool/newFontTool/Makefile -text
-tools/IrrFontTool/newFontTool/irrFontTool_v7.sln -text
-tools/IrrFontTool/newFontTool/irrFontTool_v7.vcproj -text
 tools/IrrFontTool/newFontTool/irrFontTool_v8.sln -text
 tools/IrrFontTool/newFontTool/irrFontTool_v8.vcproj -text
 tools/IrrFontTool/newFontTool/irrFontTool_v9.sln -text
@@ -1945,6 +1939,5 @@ tools/MeshConverter/MeshConverter.cbp -text
 tools/MeshConverter/MeshConverter_v9.vcproj -text
 tools/MeshConverter/MeshConverter_vc10.vcxproj -text
 tools/MeshConverter/main.cpp eol=crlf
-tools/Meshviewer/whereIsIt.txt -text
 tools/irrEdit/irrEdit.jpg -text
 tools/irrEdit/irrEdit.txt -text
