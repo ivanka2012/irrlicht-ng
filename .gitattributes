@@ -8,6 +8,9 @@ bin/Win64-VisualStudio/readme.txt -text
 /changes.txt -text
 doc/aesGladman.txt -text
 doc/bzip2-license.txt -text
+doc/irrlicht-license.txt -text
+doc/jpglib-license.txt -text
+doc/libpng-license.txt -text
 doc/readme.txt -text
 doc/upgrade-guide.txt -text
 examples/01.HelloWorld/HelloWorld.cbp -text
@@ -1861,6 +1864,8 @@ tests/media/lzmadata.zip -text
 tests/media/sample_pakfile.pak -text
 tests/media/scene.irr -text
 tests/media/scene2.irr -text
+tests/media/sydney.bmp -text
+tests/media/sydney.md2 -text
 tests/media/ter1.png -text
 tests/media/test.xml -text
 tests/media/title_font.png -text
