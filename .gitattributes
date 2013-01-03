@@ -461,6 +461,7 @@ include/irrXML.h eol=crlf
 include/irrlicht.h eol=crlf
 include/irrpack.h -text
 include/irrunpack.h -text
+include/leakHunter.h -text
 include/line2d.h eol=crlf
 include/line3d.h eol=crlf
 include/matrix4.h eol=crlf
@@ -1356,6 +1357,7 @@ source/Irrlicht/jpeglib/wrjpgcom.c eol=crlf
 source/Irrlicht/jpeglib/wrppm.c eol=crlf
 source/Irrlicht/jpeglib/wrrle.c eol=crlf
 source/Irrlicht/jpeglib/wrtarga.c eol=crlf
+source/Irrlicht/leakHunter.cpp -text
 source/Irrlicht/libpng/ANNOUNCE -text
 source/Irrlicht/libpng/CHANGES -text
 source/Irrlicht/libpng/CMakeLists.txt -text
