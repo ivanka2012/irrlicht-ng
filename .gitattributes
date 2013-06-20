@@ -1178,8 +1178,7 @@ source/Irrlicht/jpeglib/Makefile.am -text
 source/Irrlicht/jpeglib/Makefile.in -text
 source/Irrlicht/jpeglib/README -text
 source/Irrlicht/jpeglib/aclocal.m4 -text
-source/Irrlicht/jpeglib/ansi2knr.1 -text
-source/Irrlicht/jpeglib/ansi2knr.c eol=crlf
+source/Irrlicht/jpeglib/ar-lib -text
 source/Irrlicht/jpeglib/cderror.h eol=crlf
 source/Irrlicht/jpeglib/cdjpeg.c eol=crlf
 source/Irrlicht/jpeglib/cdjpeg.h eol=crlf
@@ -1244,6 +1243,8 @@ source/Irrlicht/jpeglib/jdmainct.c eol=crlf
 source/Irrlicht/jpeglib/jdmarker.c eol=crlf
 source/Irrlicht/jpeglib/jdmaster.c eol=crlf
 source/Irrlicht/jpeglib/jdmerge.c eol=crlf
+source/Irrlicht/jpeglib/jdosabcc.obj -text
+source/Irrlicht/jpeglib/jdosamsc.obj -text
 source/Irrlicht/jpeglib/jdosaobj.txt -text
 source/Irrlicht/jpeglib/jdpostct.c eol=crlf
 source/Irrlicht/jpeglib/jdsample.c eol=crlf
