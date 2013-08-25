@@ -5,7 +5,7 @@ bin/Win32-VisualStudio/irrlicht.ico -text
 bin/Win32-gcc/irrlicht.ico -text
 bin/Win64-VisualStudio/irrlicht.ico -text
 bin/Win64-VisualStudio/readme.txt -text
-/changes.txt -text
+/changes.txt eol=crlf
 doc/aesGladman.txt -text
 doc/bzip2-license.txt -text
 doc/irrlicht-license.txt -text
