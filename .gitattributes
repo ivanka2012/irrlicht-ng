@@ -12,6 +12,7 @@ doc/irrlicht-license.txt -text
 doc/jpglib-license.txt -text
 doc/libpng-license.txt -text
 doc/readme.txt -text
+doc/release_checklist.txt -text
 doc/upgrade-guide.txt -text
 examples/01.HelloWorld/HelloWorld.cbp -text
 examples/01.HelloWorld/HelloWorld.dev -text
