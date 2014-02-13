@@ -1655,6 +1655,7 @@ tests/billboards.cpp -text
 tests/burningsVideo.cpp eol=crlf
 tests/collisionResponseAnimator.cpp eol=crlf
 tests/color.cpp -text
+tests/coreutil.cpp -text
 tests/createImage.cpp -text
 tests/cursorSetVisible.cpp eol=crlf
 tests/disambiguateTextures.cpp eol=crlf
