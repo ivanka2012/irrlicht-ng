@@ -375,6 +375,7 @@ include/IMeshCache.h eol=crlf
 include/IMeshLoader.h eol=crlf
 include/IMeshManipulator.h eol=crlf
 include/IMeshSceneNode.h eol=crlf
+include/IMeshTextureLoader.h -text
 include/IMeshWriter.h eol=crlf
 include/IMetaTriangleSelector.h eol=crlf
 include/IOSOperator.h eol=crlf
@@ -869,6 +870,8 @@ source/Irrlicht/CMeshManipulator.cpp eol=crlf
 source/Irrlicht/CMeshManipulator.h eol=crlf
 source/Irrlicht/CMeshSceneNode.cpp eol=crlf
 source/Irrlicht/CMeshSceneNode.h eol=crlf
+source/Irrlicht/CMeshTextureLoader.cpp -text
+source/Irrlicht/CMeshTextureLoader.h -text
 source/Irrlicht/CMetaTriangleSelector.cpp eol=crlf
 source/Irrlicht/CMetaTriangleSelector.h eol=crlf
 source/Irrlicht/CMountPointReader.cpp -text
