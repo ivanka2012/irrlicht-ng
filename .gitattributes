@@ -1074,7 +1074,6 @@ source/Irrlicht/IZBuffer.h eol=crlf
 source/Irrlicht/Irrlicht-gcc.cbp -text
 source/Irrlicht/Irrlicht.aps -text
 source/Irrlicht/Irrlicht.cpp eol=crlf
-source/Irrlicht/Irrlicht.dev -text
 source/Irrlicht/Irrlicht.rc -text
 source/Irrlicht/Irrlicht10.0.sln -text
 source/Irrlicht/Irrlicht10.0.vcxproj -text
