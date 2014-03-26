@@ -60,10 +60,7 @@ bin/Win32-VisualStudio/*.pdb
 bin/Win32-gcc/*.exe
 bin/Win32-gcc/Irrlicht.dll
 /doctemp
-examples/*.ncb
-examples/*.opensdf
-examples/*.sdf
-examples/*.suo
+examples/*.layout
 examples/01.HelloWorld/*.depend
 examples/01.HelloWorld/*.layout
 examples/01.HelloWorld/*.user
@@ -257,7 +254,6 @@ examples/Demo/Debug
 examples/Demo/Makefile.win
 examples/Demo/Release
 examples/Demo/demo
-examples/ipch
 lib/Linux/libIrrlicht.a
 lib/Win32-visualstudio/*.exp
 lib/Win32-visualstudio/*.lib
@@ -311,13 +307,8 @@ tools/FileToHeader/*.layout
 tools/FileToHeader/.objs
 tools/GUIEditor/*.depend
 tools/GUIEditor/*.layout
-tools/GUIEditor/*.ncb
-tools/GUIEditor/*.suo
-tools/GUIEditor/*.user
-tools/GUIEditor/.objs
-tools/GUIEditor/Debug
-tools/GUIEditor/GUIEditor
-tools/GUIEditor/Release
+tools/GUIEditor/*.objs
+tools/GUIEditor/guiTest.xml
 tools/IrrFontTool/newFontTool/*.sdf
 tools/IrrFontTool/newFontTool/*.suo
 tools/IrrFontTool/newFontTool/*.user
