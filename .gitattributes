@@ -301,6 +301,7 @@ include/EDebugSceneTypes.h eol=crlf
 include/EDeviceTypes.h eol=crlf
 include/EDriverFeatures.h eol=crlf
 include/EDriverTypes.h eol=crlf
+include/EFocusFlags.h -text
 include/EGUIAlignment.h eol=crlf
 include/EGUIElementTypes.h eol=crlf
 include/EHardwareBufferFlags.h eol=crlf
