@@ -269,6 +269,9 @@ examples/26.OcclusionQuery/main.cpp -text
 examples/27.HelloWorld_Android/where_is_it.txt -text
 examples/28.HelloWorld_iPhone/where_is_it.txt -text
 examples/29.HardwareSkinning/where_is_it.txt -text
+examples/30.Profiling/Makefile -text
+examples/30.Profiling/Profiling.cbp -text
+examples/30.Profiling/main.cpp -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_v8.sln -text
@@ -297,6 +300,7 @@ examples/whereAreTheBinaries.txt -text
 include/CDynamicMeshBuffer.h eol=crlf
 include/CIndexBuffer.h eol=crlf
 include/CMeshBuffer.h eol=crlf
+include/CProfiler.h -text
 include/CVertexBuffer.h eol=crlf
 include/EAttributes.h eol=crlf
 include/ECullingTypes.h eol=crlf
@@ -353,6 +357,7 @@ include/IGUIImageList.h eol=crlf
 include/IGUIInOutFader.h eol=crlf
 include/IGUIListBox.h eol=crlf
 include/IGUIMeshViewer.h eol=crlf
+include/IGUIProfiler.h -text
 include/IGUIScrollBar.h eol=crlf
 include/IGUISkin.h eol=crlf
 include/IGUISpinBox.h eol=crlf
@@ -771,6 +776,8 @@ source/Irrlicht/CGUIMessageBox.cpp eol=crlf
 source/Irrlicht/CGUIMessageBox.h eol=crlf
 source/Irrlicht/CGUIModalScreen.cpp eol=crlf
 source/Irrlicht/CGUIModalScreen.h eol=crlf
+source/Irrlicht/CGUIProfiler.cpp -text
+source/Irrlicht/CGUIProfiler.h -text
 source/Irrlicht/CGUIScrollBar.cpp eol=crlf
 source/Irrlicht/CGUIScrollBar.h eol=crlf
 source/Irrlicht/CGUISkin.cpp eol=crlf
@@ -947,6 +954,7 @@ source/Irrlicht/CParticleSphereEmitter.cpp eol=crlf
 source/Irrlicht/CParticleSphereEmitter.h eol=crlf
 source/Irrlicht/CParticleSystemSceneNode.cpp eol=crlf
 source/Irrlicht/CParticleSystemSceneNode.h eol=crlf
+source/Irrlicht/CProfiler.cpp -text
 source/Irrlicht/CQ3LevelMesh.cpp eol=crlf
 source/Irrlicht/CQ3LevelMesh.h eol=crlf
 source/Irrlicht/CQuake3ShaderSceneNode.cpp eol=crlf
@@ -1067,6 +1075,7 @@ source/Irrlicht/CZBuffer.cpp eol=crlf
 source/Irrlicht/CZBuffer.h eol=crlf
 source/Irrlicht/CZipReader.cpp eol=crlf
 source/Irrlicht/CZipReader.h eol=crlf
+source/Irrlicht/EProfileIDs.h -text
 source/Irrlicht/IAttribute.h -text
 source/Irrlicht/IBurningShader.cpp eol=crlf
 source/Irrlicht/IBurningShader.h eol=crlf
