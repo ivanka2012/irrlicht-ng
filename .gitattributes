@@ -266,6 +266,9 @@ examples/26.OcclusionQuery/OcclusionQuery_vc11.vcxproj -text
 examples/26.OcclusionQuery/OcclusionQuery_vc8.vcproj -text
 examples/26.OcclusionQuery/OcclusionQuery_vc9.vcproj -text
 examples/26.OcclusionQuery/main.cpp -text
+examples/27.HelloWorld_Android/where_is_it.txt -text
+examples/28.HelloWorld_iPhone/where_is_it.txt -text
+examples/29.HardwareSkinning/where_is_it.txt -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_v8.sln -text
