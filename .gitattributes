@@ -271,6 +271,11 @@ examples/28.HelloWorld_iPhone/where_is_it.txt -text
 examples/29.HardwareSkinning/where_is_it.txt -text
 examples/30.Profiling/Makefile -text
 examples/30.Profiling/Profiling.cbp -text
+examples/30.Profiling/Profiling.vcproj -text
+examples/30.Profiling/Profiling_vc10.vcxproj -text
+examples/30.Profiling/Profiling_vc11.vcxproj -text
+examples/30.Profiling/Profiling_vc8.vcproj -text
+examples/30.Profiling/Profiling_vc9.vcproj -text
 examples/30.Profiling/main.cpp -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
