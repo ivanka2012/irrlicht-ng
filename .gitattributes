@@ -305,7 +305,6 @@ examples/whereAreTheBinaries.txt -text
 include/CDynamicMeshBuffer.h eol=crlf
 include/CIndexBuffer.h eol=crlf
 include/CMeshBuffer.h eol=crlf
-include/CProfiler.h -text
 include/CVertexBuffer.h eol=crlf
 include/EAttributes.h eol=crlf
 include/ECullingTypes.h eol=crlf
@@ -406,6 +405,7 @@ include/IParticleRingEmitter.h eol=crlf
 include/IParticleRotationAffector.h eol=crlf
 include/IParticleSphereEmitter.h eol=crlf
 include/IParticleSystemSceneNode.h eol=crlf
+include/IProfiler.h -text
 include/IQ3LevelMesh.h eol=crlf
 include/IQ3Shader.h eol=crlf
 include/IRandomizer.h -text
@@ -960,6 +960,7 @@ source/Irrlicht/CParticleSphereEmitter.h eol=crlf
 source/Irrlicht/CParticleSystemSceneNode.cpp eol=crlf
 source/Irrlicht/CParticleSystemSceneNode.h eol=crlf
 source/Irrlicht/CProfiler.cpp -text
+source/Irrlicht/CProfiler.h -text
 source/Irrlicht/CQ3LevelMesh.cpp eol=crlf
 source/Irrlicht/CQ3LevelMesh.h eol=crlf
 source/Irrlicht/CQuake3ShaderSceneNode.cpp eol=crlf
