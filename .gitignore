@@ -14,6 +14,7 @@ bin/Linux/12.TerrainRendering
 bin/Linux/13.RenderToTexture
 bin/Linux/15.LoadIrrFile
 bin/Linux/16.Quake3MapShader
+bin/Linux/17.HelloWorld_Mobile
 bin/Linux/18.SplitScreen
 bin/Linux/19.MouseAndJoystick
 bin/Linux/20.ManagedLights
