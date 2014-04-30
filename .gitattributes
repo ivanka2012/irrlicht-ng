@@ -182,6 +182,7 @@ examples/17.HelloWorld_Mobile/17.[!!-~]HelloWorld[!!-~]for[!!-~]Windows[!!-~]Mob
 examples/17.HelloWorld_Mobile/17.[!!-~]HelloWorld[!!-~]for[!!-~]Windows[!!-~]Mobile[!!-~]on[!!-~]PC_vc11.vcxproj -text
 examples/17.HelloWorld_Mobile/HelloWorld_mobile.sln -text
 examples/17.HelloWorld_Mobile/HelloWorld_mobile.vcproj -text
+examples/17.HelloWorld_Mobile/Makefile -text
 examples/17.HelloWorld_Mobile/main.cpp eol=crlf
 examples/18.SplitScreen/Makefile -text
 examples/18.SplitScreen/SplitScreen.cbp -text
