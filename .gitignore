@@ -291,6 +291,7 @@ source/Irrlicht/bzip2/*.d
 source/Irrlicht/ipch
 source/Irrlicht/jpeglib/*.d
 source/Irrlicht/jpeglib/*.obj
+source/Irrlicht/libpng/*.d
 source/Irrlicht/libpng/*.obj
 source/Irrlicht/lzma/*.d
 source/Irrlicht/obj
@@ -299,6 +300,8 @@ source/Irrlicht/zlib/*.d
 source/Irrlicht/zlib/*.obj
 source/obj
 tests/*.d
+tests/*.depend
+tests/*.layout
 tests/*.ncb
 tests/*.opensdf
 tests/*.sdf
