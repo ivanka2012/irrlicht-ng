@@ -1633,6 +1633,7 @@ source/Irrlicht/os.cpp eol=crlf
 source/Irrlicht/os.h eol=crlf
 source/Irrlicht/resource.h -text
 source/Irrlicht/source.txt -text
+source/Irrlicht/utf8.cpp -text
 source/Irrlicht/wglext.h eol=crlf
 source/Irrlicht/zlib/CMakeLists.txt -text
 source/Irrlicht/zlib/ChangeLog -text
