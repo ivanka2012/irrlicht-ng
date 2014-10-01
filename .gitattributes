@@ -233,6 +233,7 @@ examples/22.MaterialViewer/MaterialViewer_vc11.vcxproj -text
 examples/22.MaterialViewer/MaterialViewer_vc8.vcproj -text
 examples/22.MaterialViewer/MaterialViewer_vc9.vcproj -text
 examples/22.MaterialViewer/main.cpp -text
+examples/22.MaterialViewer/main.h -text
 examples/23.SMeshHandling/Makefile -text
 examples/23.SMeshHandling/SMeshHandling.cbp -text
 examples/23.SMeshHandling/SMeshHandling.dev -text
