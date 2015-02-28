@@ -642,8 +642,6 @@ source/Irrlicht/CCSMLoader.cpp eol=crlf
 source/Irrlicht/CCSMLoader.h eol=crlf
 source/Irrlicht/CCameraSceneNode.cpp eol=crlf
 source/Irrlicht/CCameraSceneNode.h eol=crlf
-source/Irrlicht/CCgMaterialRenderer.cpp -text
-source/Irrlicht/CCgMaterialRenderer.h -text
 source/Irrlicht/CColladaFileLoader.cpp eol=crlf
 source/Irrlicht/CColladaFileLoader.h eol=crlf
 source/Irrlicht/CColladaMeshWriter.cpp eol=crlf
@@ -663,8 +661,6 @@ source/Irrlicht/CD3D8ShaderMaterialRenderer.cpp eol=crlf
 source/Irrlicht/CD3D8ShaderMaterialRenderer.h eol=crlf
 source/Irrlicht/CD3D8Texture.cpp eol=crlf
 source/Irrlicht/CD3D8Texture.h eol=crlf
-source/Irrlicht/CD3D9CgMaterialRenderer.cpp -text
-source/Irrlicht/CD3D9CgMaterialRenderer.h -text
 source/Irrlicht/CD3D9Driver.cpp eol=crlf
 source/Irrlicht/CD3D9Driver.h eol=crlf
 source/Irrlicht/CD3D9HLSLMaterialRenderer.cpp eol=crlf
@@ -861,8 +857,6 @@ source/Irrlicht/COctreeTriangleSelector.cpp eol=crlf
 source/Irrlicht/COctreeTriangleSelector.h eol=crlf
 source/Irrlicht/COgreMeshFileLoader.cpp eol=crlf
 source/Irrlicht/COgreMeshFileLoader.h eol=crlf
-source/Irrlicht/COpenGLCgMaterialRenderer.cpp -text
-source/Irrlicht/COpenGLCgMaterialRenderer.h -text
 source/Irrlicht/COpenGLDriver.cpp eol=crlf
 source/Irrlicht/COpenGLDriver.h eol=crlf
 source/Irrlicht/COpenGLExtensionHandler.cpp eol=crlf
