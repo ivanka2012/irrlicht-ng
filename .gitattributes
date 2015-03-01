@@ -476,8 +476,6 @@ media/ball.wav -text
 media/bigfont.png -text
 media/burninglogo.png -text
 media/config.xml -text
-media/d3d8.psh -text
-media/d3d8.vsh -text
 media/d3d9.hlsl -text
 media/d3d9.psh -text
 media/d3d9.vsh -text
@@ -650,17 +648,6 @@ source/Irrlicht/CColorConverter.cpp eol=crlf
 source/Irrlicht/CColorConverter.h eol=crlf
 source/Irrlicht/CCubeSceneNode.cpp eol=crlf
 source/Irrlicht/CCubeSceneNode.h eol=crlf
-source/Irrlicht/CD3D8Driver.cpp eol=crlf
-source/Irrlicht/CD3D8Driver.h eol=crlf
-source/Irrlicht/CD3D8MaterialRenderer.h eol=crlf
-source/Irrlicht/CD3D8NormalMapRenderer.cpp eol=crlf
-source/Irrlicht/CD3D8NormalMapRenderer.h eol=crlf
-source/Irrlicht/CD3D8ParallaxMapRenderer.cpp eol=crlf
-source/Irrlicht/CD3D8ParallaxMapRenderer.h eol=crlf
-source/Irrlicht/CD3D8ShaderMaterialRenderer.cpp eol=crlf
-source/Irrlicht/CD3D8ShaderMaterialRenderer.h eol=crlf
-source/Irrlicht/CD3D8Texture.cpp eol=crlf
-source/Irrlicht/CD3D8Texture.h eol=crlf
 source/Irrlicht/CD3D9Driver.cpp eol=crlf
 source/Irrlicht/CD3D9Driver.h eol=crlf
 source/Irrlicht/CD3D9HLSLMaterialRenderer.cpp eol=crlf
