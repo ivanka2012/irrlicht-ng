@@ -1035,8 +1035,6 @@ source/Irrlicht/Irrlicht12.0.vcxproj -text
 source/Irrlicht/Irrlicht12.0.vcxproj.filters -text
 source/Irrlicht/Irrlicht9.0.sln -text
 source/Irrlicht/Irrlicht9.0.vcproj -text
-source/Irrlicht/Irrlicht_xbox.sln -text
-source/Irrlicht/Irrlicht_xbox.vcproj -text
 source/Irrlicht/MacOSX/._MainMenu.nib -text
 source/Irrlicht/MacOSX/AppDelegate.h eol=crlf
 source/Irrlicht/MacOSX/CIrrDeviceMacOSX.h eol=crlf
