@@ -800,8 +800,6 @@ source/Irrlicht/CIrrDeviceStub.cpp eol=crlf
 source/Irrlicht/CIrrDeviceStub.h eol=crlf
 source/Irrlicht/CIrrDeviceWin32.cpp eol=crlf
 source/Irrlicht/CIrrDeviceWin32.h eol=crlf
-source/Irrlicht/CIrrDeviceWinCE.cpp eol=crlf
-source/Irrlicht/CIrrDeviceWinCE.h eol=crlf
 source/Irrlicht/CIrrMeshFileLoader.cpp eol=crlf
 source/Irrlicht/CIrrMeshFileLoader.h eol=crlf
 source/Irrlicht/CIrrMeshWriter.cpp eol=crlf
@@ -1052,8 +1050,6 @@ source/Irrlicht/Irrlicht8.0.sln -text
 source/Irrlicht/Irrlicht8.0.vcproj -text
 source/Irrlicht/Irrlicht9.0.sln -text
 source/Irrlicht/Irrlicht9.0.vcproj -text
-source/Irrlicht/Irrlicht_mobile6.sln -text
-source/Irrlicht/Irrlicht_mobile6.vcproj -text
 source/Irrlicht/Irrlicht_xbox.sln -text
 source/Irrlicht/Irrlicht_xbox.vcproj -text
 source/Irrlicht/MacOSX/._MainMenu.nib -text
