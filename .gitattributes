@@ -362,6 +362,7 @@ include/IQ3Shader.h eol=crlf
 include/IRandomizer.h -text
 include/IReadFile.h eol=crlf
 include/IReferenceCounted.h eol=crlf
+include/IRenderTarget.h -text
 include/ISceneCollisionManager.h eol=crlf
 include/ISceneLoader.h -text
 include/ISceneManager.h eol=crlf
@@ -657,6 +658,8 @@ source/Irrlicht/CD3D9NormalMapRenderer.cpp eol=crlf
 source/Irrlicht/CD3D9NormalMapRenderer.h eol=crlf
 source/Irrlicht/CD3D9ParallaxMapRenderer.cpp eol=crlf
 source/Irrlicht/CD3D9ParallaxMapRenderer.h eol=crlf
+source/Irrlicht/CD3D9RenderTarget.cpp -text
+source/Irrlicht/CD3D9RenderTarget.h -text
 source/Irrlicht/CD3D9ShaderMaterialRenderer.cpp eol=crlf
 source/Irrlicht/CD3D9ShaderMaterialRenderer.h eol=crlf
 source/Irrlicht/CD3D9Texture.cpp eol=crlf
@@ -851,6 +854,8 @@ source/Irrlicht/COpenGLNormalMapRenderer.cpp eol=crlf
 source/Irrlicht/COpenGLNormalMapRenderer.h eol=crlf
 source/Irrlicht/COpenGLParallaxMapRenderer.cpp eol=crlf
 source/Irrlicht/COpenGLParallaxMapRenderer.h eol=crlf
+source/Irrlicht/COpenGLRenderTarget.cpp -text
+source/Irrlicht/COpenGLRenderTarget.h -text
 source/Irrlicht/COpenGLSLMaterialRenderer.cpp eol=crlf
 source/Irrlicht/COpenGLSLMaterialRenderer.h eol=crlf
 source/Irrlicht/COpenGLShaderMaterialRenderer.cpp eol=crlf
