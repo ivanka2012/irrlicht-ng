@@ -1708,16 +1708,6 @@ tests/media/Burning's[!!-~]Video-transparentReflection2Layer.png -text
 tests/media/Burning's[!!-~]Video-transparentVertexAlpha.png -text
 tests/media/Burning's[!!-~]Video-transparentVertexAlphaChannelMore.png -text
 tests/media/Burning's[!!-~]Video-viewPortText.png -text
-tests/media/Direct3D[!!-~]8.1-addBlend2D.png -text
-tests/media/Direct3D[!!-~]8.1-drawPixel.png -text
-tests/media/Direct3D[!!-~]8.1-lightType.png -text
-tests/media/Direct3D[!!-~]8.1-lightmaps.png -text
-tests/media/Direct3D[!!-~]8.1-orthoCam.png -text
-tests/media/Direct3D[!!-~]8.1-rttWith2DImage.png -text
-tests/media/Direct3D[!!-~]8.1-stencilSelfShadow.png -text
-tests/media/Direct3D[!!-~]8.1-stencilShadow.png -text
-tests/media/Direct3D[!!-~]8.1-textureMatrixInMixedScenes.png -text
-tests/media/Direct3D[!!-~]8.1-textureRenderStates.png -text
 tests/media/Direct3D[!!-~]9.0-2dmatFilter.png -text
 tests/media/Direct3D[!!-~]9.0-addBlend2D.png -text
 tests/media/Direct3D[!!-~]9.0-draw2DImage4cFilter.png -text
