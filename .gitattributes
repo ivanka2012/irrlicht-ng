@@ -629,6 +629,8 @@ source/Irrlicht/CAttributes.cpp eol=crlf
 source/Irrlicht/CAttributes.h eol=crlf
 source/Irrlicht/CB3DMeshFileLoader.cpp eol=crlf
 source/Irrlicht/CB3DMeshFileLoader.h eol=crlf
+source/Irrlicht/CB3DMeshWriter.cpp -text
+source/Irrlicht/CB3DMeshWriter.h -text
 source/Irrlicht/CBSPMeshFileLoader.cpp eol=crlf
 source/Irrlicht/CBSPMeshFileLoader.h eol=crlf
 source/Irrlicht/CBillboardSceneNode.cpp eol=crlf
@@ -1056,6 +1058,7 @@ source/Irrlicht/Makefile eol=crlf
 source/Irrlicht/Octree.h eol=crlf
 source/Irrlicht/S2DVertex.h eol=crlf
 source/Irrlicht/S4DVertex.h eol=crlf
+source/Irrlicht/SB3DStructs.h -text
 source/Irrlicht/SConstruct -text
 source/Irrlicht/SoftwareDriver2_compile_config.h eol=crlf
 source/Irrlicht/SoftwareDriver2_helper.h eol=crlf
