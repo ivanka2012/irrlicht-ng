@@ -316,6 +316,7 @@ tests/media/attributeSerialization.xml
 tests/results/*
 tests/tests
 tests/tests.log
+tools/FileToHeader/*.depend
 tools/FileToHeader/*.layout
 tools/FileToHeader/.objs
 tools/GUIEditor/*.depend
