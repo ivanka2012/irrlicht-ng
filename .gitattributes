@@ -416,6 +416,7 @@ include/aabbox3d.h eol=crlf
 include/coreutil.h eol=crlf
 include/dimension2d.h eol=crlf
 include/driverChoice.h -text
+include/exampleHelper.h -text
 include/fast_atof.h eol=crlf
 include/heapsort.h eol=crlf
 include/irrAllocator.h eol=crlf
