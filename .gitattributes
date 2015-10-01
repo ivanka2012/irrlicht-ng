@@ -19,6 +19,7 @@ examples/01.HelloWorld/HelloWorld.vcproj -text
 examples/01.HelloWorld/HelloWorld_vc10.vcxproj -text
 examples/01.HelloWorld/HelloWorld_vc11.vcxproj -text
 examples/01.HelloWorld/HelloWorld_vc12.vcxproj -text
+examples/01.HelloWorld/HelloWorld_vc14.vcxproj -text
 examples/01.HelloWorld/Makefile -text
 examples/01.HelloWorld/main.cpp eol=crlf
 examples/01.HelloWorld/tutorial.html -text
@@ -28,6 +29,7 @@ examples/02.Quake3Map/Quake3Map.vcproj -text
 examples/02.Quake3Map/Quake3Map_vc10.vcxproj -text
 examples/02.Quake3Map/Quake3Map_vc11.vcxproj -text
 examples/02.Quake3Map/Quake3Map_vc12.vcxproj -text
+examples/02.Quake3Map/Quake3Map_vc14.vcxproj -text
 examples/02.Quake3Map/main.cpp eol=crlf
 examples/02.Quake3Map/tutorial.html -text
 examples/03.CustomSceneNode/CustomSceneNode.cbp -text
@@ -35,6 +37,7 @@ examples/03.CustomSceneNode/CustomSceneNode.vcproj -text
 examples/03.CustomSceneNode/CustomSceneNode_vc10.vcxproj -text
 examples/03.CustomSceneNode/CustomSceneNode_vc11.vcxproj -text
 examples/03.CustomSceneNode/CustomSceneNode_vc12.vcxproj -text
+examples/03.CustomSceneNode/CustomSceneNode_vc14.vcxproj -text
 examples/03.CustomSceneNode/Makefile -text
 examples/03.CustomSceneNode/main.cpp eol=crlf
 examples/03.CustomSceneNode/tutorial.html -text
@@ -44,6 +47,7 @@ examples/04.Movement/Movement.vcproj -text
 examples/04.Movement/Movement_vc10.vcxproj -text
 examples/04.Movement/Movement_vc11.vcxproj -text
 examples/04.Movement/Movement_vc12.vcxproj -text
+examples/04.Movement/Movement_vc14.vcxproj -text
 examples/04.Movement/main.cpp eol=crlf
 examples/04.Movement/tutorial.html -text
 examples/05.UserInterface/Makefile -text
@@ -52,6 +56,7 @@ examples/05.UserInterface/UserInterface.vcproj -text
 examples/05.UserInterface/UserInterface_vc10.vcxproj -text
 examples/05.UserInterface/UserInterface_vc11.vcxproj -text
 examples/05.UserInterface/UserInterface_vc12.vcxproj -text
+examples/05.UserInterface/UserInterface_vc14.vcxproj -text
 examples/05.UserInterface/main.cpp eol=crlf
 examples/05.UserInterface/tutorial.html -text
 examples/06.2DGraphics/2DGraphics.cbp -text
@@ -59,6 +64,7 @@ examples/06.2DGraphics/2DGraphics.vcproj -text
 examples/06.2DGraphics/2DGraphics_vc10.vcxproj -text
 examples/06.2DGraphics/2DGraphics_vc11.vcxproj -text
 examples/06.2DGraphics/2DGraphics_vc12.vcxproj -text
+examples/06.2DGraphics/2DGraphics_vc14.vcxproj -text
 examples/06.2DGraphics/Makefile -text
 examples/06.2DGraphics/main.cpp eol=crlf
 examples/06.2DGraphics/tutorial.html -text
@@ -67,6 +73,7 @@ examples/07.Collision/Collision.vcproj -text
 examples/07.Collision/Collision_vc10.vcxproj -text
 examples/07.Collision/Collision_vc11.vcxproj -text
 examples/07.Collision/Collision_vc12.vcxproj -text
+examples/07.Collision/Collision_vc14.vcxproj -text
 examples/07.Collision/Makefile -text
 examples/07.Collision/main.cpp eol=crlf
 examples/07.Collision/tutorial.html -text
@@ -76,6 +83,7 @@ examples/08.SpecialFX/SpecialFX.vcproj -text
 examples/08.SpecialFX/SpecialFX_vc10.vcxproj -text
 examples/08.SpecialFX/SpecialFX_vc11.vcxproj -text
 examples/08.SpecialFX/SpecialFX_vc12.vcxproj -text
+examples/08.SpecialFX/SpecialFX_vc14.vcxproj -text
 examples/08.SpecialFX/main.cpp eol=crlf
 examples/08.SpecialFX/tutorial.html -text
 examples/09.Meshviewer/9.Meshviewer.rc -text
@@ -85,6 +93,7 @@ examples/09.Meshviewer/Meshviewer.vcproj -text
 examples/09.Meshviewer/Meshviewer_vc10.vcxproj -text
 examples/09.Meshviewer/Meshviewer_vc11.vcxproj -text
 examples/09.Meshviewer/Meshviewer_vc12.vcxproj -text
+examples/09.Meshviewer/Meshviewer_vc14.vcxproj -text
 examples/09.Meshviewer/icon.ico -text
 examples/09.Meshviewer/main.cpp eol=crlf
 examples/09.Meshviewer/resource.h eol=crlf
@@ -95,6 +104,7 @@ examples/10.Shaders/Shaders.vcproj -text
 examples/10.Shaders/Shaders_vc10.vcxproj -text
 examples/10.Shaders/Shaders_vc11.vcxproj -text
 examples/10.Shaders/Shaders_vc12.vcxproj -text
+examples/10.Shaders/Shaders_vc14.vcxproj -text
 examples/10.Shaders/main.cpp eol=crlf
 examples/10.Shaders/tutorial.html -text
 examples/11.PerPixelLighting/Makefile -text
@@ -103,6 +113,7 @@ examples/11.PerPixelLighting/PerPixelLighting.vcproj -text
 examples/11.PerPixelLighting/PerPixelLighting_vc10.vcxproj -text
 examples/11.PerPixelLighting/PerPixelLighting_vc11.vcxproj -text
 examples/11.PerPixelLighting/PerPixelLighting_vc12.vcxproj -text
+examples/11.PerPixelLighting/PerPixelLighting_vc14.vcxproj -text
 examples/11.PerPixelLighting/main.cpp eol=crlf
 examples/11.PerPixelLighting/tutorial.html -text
 examples/12.TerrainRendering/Makefile -text
@@ -111,6 +122,7 @@ examples/12.TerrainRendering/TerrainRendering.vcproj -text
 examples/12.TerrainRendering/TerrainRendering_vc10.vcxproj -text
 examples/12.TerrainRendering/TerrainRendering_vc11.vcxproj -text
 examples/12.TerrainRendering/TerrainRendering_vc12.vcxproj -text
+examples/12.TerrainRendering/TerrainRendering_vc14.vcxproj -text
 examples/12.TerrainRendering/main.cpp eol=crlf
 examples/12.TerrainRendering/tutorial.html -text
 examples/13.RenderToTexture/Makefile -text
@@ -119,6 +131,7 @@ examples/13.RenderToTexture/RenderToTexture.vcproj -text
 examples/13.RenderToTexture/RenderToTexture_vc10.vcxproj -text
 examples/13.RenderToTexture/RenderToTexture_vc11.vcxproj -text
 examples/13.RenderToTexture/RenderToTexture_vc12.vcxproj -text
+examples/13.RenderToTexture/RenderToTexture_vc14.vcxproj -text
 examples/13.RenderToTexture/main.cpp eol=crlf
 examples/13.RenderToTexture/tutorial.html -text
 examples/14.Win32Window/Makefile -text
@@ -127,6 +140,7 @@ examples/14.Win32Window/Win32Window.vcproj -text
 examples/14.Win32Window/Win32Window_vc10.vcxproj -text
 examples/14.Win32Window/Win32Window_vc11.vcxproj -text
 examples/14.Win32Window/Win32Window_vc12.vcxproj -text
+examples/14.Win32Window/Win32Window_vc14.vcxproj -text
 examples/14.Win32Window/main.cpp eol=crlf
 examples/14.Win32Window/tutorial.html -text
 examples/15.LoadIrrFile/LoadIrrFile.cbp -text
@@ -134,6 +148,7 @@ examples/15.LoadIrrFile/LoadIrrFile.vcproj -text
 examples/15.LoadIrrFile/LoadIrrFile_vc10.vcxproj -text
 examples/15.LoadIrrFile/LoadIrrFile_vc11.vcxproj -text
 examples/15.LoadIrrFile/LoadIrrFile_vc12.vcxproj -text
+examples/15.LoadIrrFile/LoadIrrFile_vc14.vcxproj -text
 examples/15.LoadIrrFile/Makefile -text
 examples/15.LoadIrrFile/main.cpp eol=crlf
 examples/15.LoadIrrFile/tutorial.html -text
@@ -143,6 +158,7 @@ examples/16.Quake3MapShader/Quake3MapShader.vcproj -text
 examples/16.Quake3MapShader/Quake3MapShader_vc10.vcxproj -text
 examples/16.Quake3MapShader/Quake3MapShader_vc11.vcxproj -text
 examples/16.Quake3MapShader/Quake3MapShader_vc12.vcxproj -text
+examples/16.Quake3MapShader/Quake3MapShader_vc14.vcxproj -text
 examples/16.Quake3MapShader/main.cpp eol=crlf
 examples/17.HelloWorld_Mobile/17.[!!-~]HelloWorld[!!-~]for[!!-~]Windows[!!-~]Mobile[!!-~]on[!!-~]PC_v8.vcproj -text
 examples/17.HelloWorld_Mobile/17.[!!-~]HelloWorld[!!-~]for[!!-~]Windows[!!-~]Mobile[!!-~]on[!!-~]PC_v9.vcproj -text
@@ -159,6 +175,7 @@ examples/18.SplitScreen/SplitScreen.vcproj -text
 examples/18.SplitScreen/SplitScreen_vc10.vcxproj -text
 examples/18.SplitScreen/SplitScreen_vc11.vcxproj -text
 examples/18.SplitScreen/SplitScreen_vc12.vcxproj -text
+examples/18.SplitScreen/SplitScreen_vc14.vcxproj -text
 examples/18.SplitScreen/main.cpp eol=crlf
 examples/19.MouseAndJoystick/Makefile -text
 examples/19.MouseAndJoystick/MouseAndJoystick.cbp -text
@@ -166,6 +183,7 @@ examples/19.MouseAndJoystick/MouseAndJoystick.vcproj -text
 examples/19.MouseAndJoystick/MouseAndJoystick_vc10.vcxproj -text
 examples/19.MouseAndJoystick/MouseAndJoystick_vc11.vcxproj -text
 examples/19.MouseAndJoystick/MouseAndJoystick_vc12.vcxproj -text
+examples/19.MouseAndJoystick/MouseAndJoystick_vc14.vcxproj -text
 examples/19.MouseAndJoystick/main.cpp eol=crlf
 examples/20.ManagedLights/Makefile -text
 examples/20.ManagedLights/ManagedLights.cbp -text
@@ -173,6 +191,7 @@ examples/20.ManagedLights/ManagedLights.vcproj -text
 examples/20.ManagedLights/ManagedLights_vc10.vcxproj -text
 examples/20.ManagedLights/ManagedLights_vc11.vcxproj -text
 examples/20.ManagedLights/ManagedLights_vc12.vcxproj -text
+examples/20.ManagedLights/ManagedLights_vc14.vcxproj -text
 examples/20.ManagedLights/main.cpp eol=crlf
 examples/21.Quake3Explorer/Makefile -text
 examples/21.Quake3Explorer/Quake3Explorer.cbp -text
@@ -180,6 +199,7 @@ examples/21.Quake3Explorer/Quake3Explorer.vcproj -text
 examples/21.Quake3Explorer/Quake3Explorer_vc10.vcxproj -text
 examples/21.Quake3Explorer/Quake3Explorer_vc11.vcxproj -text
 examples/21.Quake3Explorer/Quake3Explorer_vc12.vcxproj -text
+examples/21.Quake3Explorer/Quake3Explorer_vc14.vcxproj -text
 examples/21.Quake3Explorer/main.cpp eol=crlf
 examples/21.Quake3Explorer/q3factory.cpp eol=crlf
 examples/21.Quake3Explorer/q3factory.h eol=crlf
@@ -191,6 +211,7 @@ examples/22.MaterialViewer/MaterialViewer.vcproj -text
 examples/22.MaterialViewer/MaterialViewer_vc10.vcxproj -text
 examples/22.MaterialViewer/MaterialViewer_vc11.vcxproj -text
 examples/22.MaterialViewer/MaterialViewer_vc12.vcxproj -text
+examples/22.MaterialViewer/MaterialViewer_vc14.vcxproj -text
 examples/22.MaterialViewer/main.cpp -text
 examples/22.MaterialViewer/main.h -text
 examples/23.SMeshHandling/Makefile -text
@@ -199,12 +220,14 @@ examples/23.SMeshHandling/SMeshHandling.vcproj -text
 examples/23.SMeshHandling/SMeshHandling_vc10.vcxproj -text
 examples/23.SMeshHandling/SMeshHandling_vc11.vcxproj -text
 examples/23.SMeshHandling/SMeshHandling_vc12.vcxproj -text
+examples/23.SMeshHandling/SMeshHandling_vc14.vcxproj -text
 examples/23.SMeshHandling/main.cpp -text
 examples/24.CursorControl/CursorControl.cbp -text
 examples/24.CursorControl/CursorControl.vcproj -text
 examples/24.CursorControl/CursorControl_vc10.vcxproj -text
 examples/24.CursorControl/CursorControl_vc11.vcxproj -text
 examples/24.CursorControl/CursorControl_vc12.vcxproj -text
+examples/24.CursorControl/CursorControl_vc14.vcxproj -text
 examples/24.CursorControl/Makefile -text
 examples/24.CursorControl/main.cpp -text
 examples/25.XmlHandling/Makefile -text
@@ -213,6 +236,7 @@ examples/25.XmlHandling/XmlHandling.vcproj -text
 examples/25.XmlHandling/XmlHandling_vc10.vcxproj -text
 examples/25.XmlHandling/XmlHandling_vc11.vcxproj -text
 examples/25.XmlHandling/XmlHandling_vc12.vcxproj -text
+examples/25.XmlHandling/XmlHandling_vc14.vcxproj -text
 examples/25.XmlHandling/main.cpp -text
 examples/26.OcclusionQuery/Makefile -text
 examples/26.OcclusionQuery/OcclusionQuery.cbp -text
@@ -220,6 +244,7 @@ examples/26.OcclusionQuery/OcclusionQuery.vcproj -text
 examples/26.OcclusionQuery/OcclusionQuery_vc10.vcxproj -text
 examples/26.OcclusionQuery/OcclusionQuery_vc11.vcxproj -text
 examples/26.OcclusionQuery/OcclusionQuery_vc12.vcxproj -text
+examples/26.OcclusionQuery/OcclusionQuery_vc14.vcxproj -text
 examples/26.OcclusionQuery/main.cpp -text
 examples/27.HelloWorld_Android/where_is_it.txt -text
 examples/28.HelloWorld_iPhone/where_is_it.txt -text
@@ -230,12 +255,14 @@ examples/30.Profiling/Profiling.vcproj -text
 examples/30.Profiling/Profiling_vc10.vcxproj -text
 examples/30.Profiling/Profiling_vc11.vcxproj -text
 examples/30.Profiling/Profiling_vc12.vcxproj -text
+examples/30.Profiling/Profiling_vc14.vcxproj -text
 examples/30.Profiling/main.cpp -text
 examples/BuildAllExamples.MacOSX/DemoApp-Info.plist -text
 examples/BuildAllExamples.workspace -text
 examples/BuildAllExamples_vc10.sln -text
 examples/BuildAllExamples_vc11.sln -text
 examples/BuildAllExamples_vc12.sln -text
+examples/BuildAllExamples_vc14.sln -text
 examples/Demo/CDemo.cpp eol=crlf
 examples/Demo/CDemo.h eol=crlf
 examples/Demo/CMainMenu.cpp eol=crlf
@@ -244,6 +271,7 @@ examples/Demo/Demo.vcproj -text
 examples/Demo/Demo_vc10.vcxproj -text
 examples/Demo/Demo_vc11.vcxproj -text
 examples/Demo/Demo_vc12.vcxproj -text
+examples/Demo/Demo_vc14.vcxproj -text
 examples/Demo/Makefile -text
 examples/Demo/demo.cbp -text
 examples/Demo/icon.ico -text
@@ -1041,6 +1069,8 @@ source/Irrlicht/Irrlicht11.0.vcxproj.filters -text
 source/Irrlicht/Irrlicht12.0.sln -text
 source/Irrlicht/Irrlicht12.0.vcxproj -text
 source/Irrlicht/Irrlicht12.0.vcxproj.filters -text
+source/Irrlicht/Irrlicht14.0.vcxproj -text
+source/Irrlicht/Irrlicht14.0.vcxproj.filters -text
 source/Irrlicht/Irrlicht9.0.sln -text
 source/Irrlicht/Irrlicht9.0.vcproj -text
 source/Irrlicht/MacOSX/._MainMenu.nib -text
@@ -1907,6 +1937,8 @@ tests/tests_vc11.sln -text
 tests/tests_vc11.vcxproj -text
 tests/tests_vc12.sln -text
 tests/tests_vc12.vcxproj -text
+tests/tests_vc14.sln -text
+tests/tests_vc14.vcxproj -text
 tests/textureFeatures.cpp -text
 tests/textureRenderStates.cpp eol=crlf
 tests/timer.cpp -text
@@ -1949,6 +1981,8 @@ tools/GUIEditor/GUI[!!-~]Editor_vc11.vcxproj -text
 tools/GUIEditor/GUI[!!-~]Editor_vc11.vcxproj.filters -text
 tools/GUIEditor/GUI[!!-~]Editor_vc12.vcxproj -text
 tools/GUIEditor/GUI[!!-~]Editor_vc12.vcxproj.filters -text
+tools/GUIEditor/GUI[!!-~]Editor_vc14.vcxproj -text
+tools/GUIEditor/GUI[!!-~]Editor_vc14.vcxproj.filters -text
 tools/GUIEditor/GUIEditor_gcc.cbp -text
 tools/GUIEditor/Makefile -text
 tools/GUIEditor/main.cpp eol=crlf
@@ -1959,6 +1993,7 @@ tools/IrrFontTool/newFontTool/Makefile -text
 tools/IrrFontTool/newFontTool/irrFontTool_vc10.vcxproj -text
 tools/IrrFontTool/newFontTool/irrFontTool_vc11.vcxproj -text
 tools/IrrFontTool/newFontTool/irrFontTool_vc12.vcxproj -text
+tools/IrrFontTool/newFontTool/irrFontTool_vc14.vcxproj -text
 tools/IrrFontTool/newFontTool/main.cpp eol=crlf
 tools/IrrFontTool/oldFontTool/IrrFontTool.exe -text
 tools/IrrFontTool/oldFontTool/source.zip -text
@@ -1968,6 +2003,7 @@ tools/MeshConverter/MeshConverter.cbp -text
 tools/MeshConverter/MeshConverter_vc10.vcxproj -text
 tools/MeshConverter/MeshConverter_vc11.vcxproj -text
 tools/MeshConverter/MeshConverter_vc12.vcxproj -text
+tools/MeshConverter/MeshConverter_vc14.vcxproj -text
 tools/MeshConverter/main.cpp eol=crlf
 tools/irrEdit/irrEdit.jpg -text
 tools/irrEdit/irrEdit.txt -text
