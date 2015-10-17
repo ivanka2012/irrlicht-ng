@@ -876,6 +876,8 @@ source/Irrlicht/COctreeTriangleSelector.cpp eol=crlf
 source/Irrlicht/COctreeTriangleSelector.h eol=crlf
 source/Irrlicht/COgreMeshFileLoader.cpp eol=crlf
 source/Irrlicht/COgreMeshFileLoader.h eol=crlf
+source/Irrlicht/COpenGLCacheHandler.cpp -text
+source/Irrlicht/COpenGLCacheHandler.h -text
 source/Irrlicht/COpenGLDriver.cpp eol=crlf
 source/Irrlicht/COpenGLDriver.h eol=crlf
 source/Irrlicht/COpenGLExtensionHandler.cpp eol=crlf
