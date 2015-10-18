@@ -868,6 +868,8 @@ source/Irrlicht/COBJMeshWriter.cpp eol=crlf
 source/Irrlicht/COBJMeshWriter.h eol=crlf
 source/Irrlicht/COCTLoader.cpp eol=crlf
 source/Irrlicht/COCTLoader.h eol=crlf
+source/Irrlicht/COGLCoreFeature.h -text
+source/Irrlicht/COGLCoreRenderTarget.h -text
 source/Irrlicht/COSOperator.cpp eol=crlf
 source/Irrlicht/COSOperator.h eol=crlf
 source/Irrlicht/COctreeSceneNode.cpp eol=crlf
@@ -887,8 +889,6 @@ source/Irrlicht/COpenGLNormalMapRenderer.cpp eol=crlf
 source/Irrlicht/COpenGLNormalMapRenderer.h eol=crlf
 source/Irrlicht/COpenGLParallaxMapRenderer.cpp eol=crlf
 source/Irrlicht/COpenGLParallaxMapRenderer.h eol=crlf
-source/Irrlicht/COpenGLRenderTarget.cpp -text
-source/Irrlicht/COpenGLRenderTarget.h -text
 source/Irrlicht/COpenGLSLMaterialRenderer.cpp eol=crlf
 source/Irrlicht/COpenGLSLMaterialRenderer.h eol=crlf
 source/Irrlicht/COpenGLShaderMaterialRenderer.cpp eol=crlf
