@@ -868,6 +868,7 @@ source/Irrlicht/COBJMeshWriter.cpp eol=crlf
 source/Irrlicht/COBJMeshWriter.h eol=crlf
 source/Irrlicht/COCTLoader.cpp eol=crlf
 source/Irrlicht/COCTLoader.h eol=crlf
+source/Irrlicht/COGLCoreCacheHandler.h -text
 source/Irrlicht/COGLCoreFeature.h -text
 source/Irrlicht/COGLCoreRenderTarget.h -text
 source/Irrlicht/COSOperator.cpp eol=crlf
