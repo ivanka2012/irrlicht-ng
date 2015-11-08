@@ -871,6 +871,7 @@ source/Irrlicht/COCTLoader.h eol=crlf
 source/Irrlicht/COGLCoreCacheHandler.h -text
 source/Irrlicht/COGLCoreFeature.h -text
 source/Irrlicht/COGLCoreRenderTarget.h -text
+source/Irrlicht/COGLCoreTexture.h -text
 source/Irrlicht/COSOperator.cpp eol=crlf
 source/Irrlicht/COSOperator.h eol=crlf
 source/Irrlicht/COctreeSceneNode.cpp eol=crlf
@@ -894,8 +895,6 @@ source/Irrlicht/COpenGLSLMaterialRenderer.cpp eol=crlf
 source/Irrlicht/COpenGLSLMaterialRenderer.h eol=crlf
 source/Irrlicht/COpenGLShaderMaterialRenderer.cpp eol=crlf
 source/Irrlicht/COpenGLShaderMaterialRenderer.h eol=crlf
-source/Irrlicht/COpenGLTexture.cpp eol=crlf
-source/Irrlicht/COpenGLTexture.h eol=crlf
 source/Irrlicht/CPLYMeshFileLoader.cpp eol=crlf
 source/Irrlicht/CPLYMeshFileLoader.h eol=crlf
 source/Irrlicht/CPLYMeshWriter.cpp eol=crlf
