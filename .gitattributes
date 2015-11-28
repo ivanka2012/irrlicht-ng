@@ -789,6 +789,8 @@ source/Irrlicht/CImageLoaderPPM.cpp eol=crlf
 source/Irrlicht/CImageLoaderPPM.h eol=crlf
 source/Irrlicht/CImageLoaderPSD.cpp eol=crlf
 source/Irrlicht/CImageLoaderPSD.h eol=crlf
+source/Irrlicht/CImageLoaderPVR.cpp -text
+source/Irrlicht/CImageLoaderPVR.h -text
 source/Irrlicht/CImageLoaderRGB.cpp eol=crlf
 source/Irrlicht/CImageLoaderRGB.h eol=crlf
 source/Irrlicht/CImageLoaderTGA.cpp eol=crlf
