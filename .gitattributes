@@ -315,6 +315,7 @@ include/IBillboardTextSceneNode.h eol=crlf
 include/IBoneSceneNode.h eol=crlf
 include/ICameraSceneNode.h eol=crlf
 include/IColladaMeshWriter.h -text
+include/IContextManager.h -text
 include/ICursorControl.h eol=crlf
 include/IDummyTransformationSceneNode.h eol=crlf
 include/IDynamicMeshBuffer.h eol=crlf
@@ -715,6 +716,8 @@ source/Irrlicht/CFileList.cpp eol=crlf
 source/Irrlicht/CFileList.h eol=crlf
 source/Irrlicht/CFileSystem.cpp eol=crlf
 source/Irrlicht/CFileSystem.h eol=crlf
+source/Irrlicht/CGLXManager.cpp -text
+source/Irrlicht/CGLXManager.h -text
 source/Irrlicht/CGUIButton.cpp eol=crlf
 source/Irrlicht/CGUIButton.h eol=crlf
 source/Irrlicht/CGUICheckBox.cpp eol=crlf
@@ -1037,6 +1040,8 @@ source/Irrlicht/CVolumeLightSceneNode.cpp eol=crlf
 source/Irrlicht/CVolumeLightSceneNode.h eol=crlf
 source/Irrlicht/CWADReader.cpp -text
 source/Irrlicht/CWADReader.h -text
+source/Irrlicht/CWGLManager.cpp -text
+source/Irrlicht/CWGLManager.h -text
 source/Irrlicht/CWaterSurfaceSceneNode.cpp eol=crlf
 source/Irrlicht/CWaterSurfaceSceneNode.h eol=crlf
 source/Irrlicht/CWriteFile.cpp eol=crlf
