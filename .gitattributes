@@ -930,10 +930,6 @@ source/Irrlicht/COBJMeshWriter.cpp eol=crlf
 source/Irrlicht/COBJMeshWriter.h eol=crlf
 source/Irrlicht/COCTLoader.cpp eol=crlf
 source/Irrlicht/COCTLoader.h eol=crlf
-source/Irrlicht/COGLCoreCacheHandler.h -text
-source/Irrlicht/COGLCoreFeature.h -text
-source/Irrlicht/COGLCoreRenderTarget.h -text
-source/Irrlicht/COGLCoreTexture.h -text
 source/Irrlicht/COSOperator.cpp eol=crlf
 source/Irrlicht/COSOperator.h eol=crlf
 source/Irrlicht/COctreeSceneNode.cpp eol=crlf
@@ -945,6 +941,10 @@ source/Irrlicht/COgreMeshFileLoader.h eol=crlf
 source/Irrlicht/COpenGLCacheHandler.cpp -text
 source/Irrlicht/COpenGLCacheHandler.h -text
 source/Irrlicht/COpenGLCommon.h -text
+source/Irrlicht/COpenGLCoreCacheHandler.h -text
+source/Irrlicht/COpenGLCoreFeature.h -text
+source/Irrlicht/COpenGLCoreRenderTarget.h -text
+source/Irrlicht/COpenGLCoreTexture.h -text
 source/Irrlicht/COpenGLDriver.cpp eol=crlf
 source/Irrlicht/COpenGLDriver.h eol=crlf
 source/Irrlicht/COpenGLExtensionHandler.cpp eol=crlf
