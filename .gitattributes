@@ -2,7 +2,9 @@
 bin/Linux/readme.txt -text
 bin/OSX/readme.txt -text
 bin/Win32-VisualStudio/irrlicht.ico -text
+bin/Win32-VisualStudio/readme.txt -text
 bin/Win32-gcc/irrlicht.ico -text
+bin/Win32-gcc/readme.txt -text
 bin/Win64-VisualStudio/irrlicht.ico -text
 bin/Win64-VisualStudio/readme.txt -text
 /changes.txt eol=crlf
@@ -523,7 +525,6 @@ include/rect.h eol=crlf
 include/triangle3d.h eol=crlf
 include/vector2d.h eol=crlf
 include/vector3d.h eol=crlf
-lib/Win64-visualStudio/readme.txt -text
 media/001shot.jpg -text
 media/002shot.jpg -text
 media/003shot.jpg -text
