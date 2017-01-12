@@ -1500,7 +1500,6 @@ source/Irrlicht/zlib/zlib2ansi -text
 source/Irrlicht/zlib/zutil.c eol=crlf
 source/Irrlicht/zlib/zutil.h eol=crlf
 source/source.txt -text
-/test.txt -text
 tests/2dmaterial.cpp -text
 tests/Makefile -text
 tests/anti-aliasing.cpp -text
