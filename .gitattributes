@@ -1535,6 +1535,7 @@ tests/irrMap.cpp -text
 tests/irrString.cpp -text
 tests/lightMaps.cpp -text
 tests/lights.cpp -text
+tests/line2d.cpp -text
 tests/loadTextures.cpp -text
 tests/main.cpp eol=crlf
 tests/makeColorKeyTexture.cpp eol=crlf
