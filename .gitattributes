@@ -426,6 +426,7 @@ include/IMeshTextureLoader.h -text
 include/IMeshWriter.h eol=crlf
 include/IMetaTriangleSelector.h eol=crlf
 include/IOSOperator.h eol=crlf
+include/IOctreeSceneNode.h -text
 include/IParticleAffector.h eol=crlf
 include/IParticleAnimatedMeshSceneNodeEmitter.h eol=crlf
 include/IParticleAttractionAffector.h eol=crlf
