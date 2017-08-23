@@ -489,6 +489,7 @@ include/SMesh.h eol=crlf
 include/SMeshBuffer.h eol=crlf
 include/SMeshBufferLightMap.h eol=crlf
 include/SMeshBufferTangents.h eol=crlf
+include/SOverrideMaterial.h -text
 include/SParticle.h eol=crlf
 include/SSharedMeshBuffer.h eol=crlf
 include/SSkinMeshBuffer.h eol=crlf
