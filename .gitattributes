@@ -1144,6 +1144,9 @@ source/Irrlicht/Irrlicht12.0.vcxproj.filters -text
 source/Irrlicht/Irrlicht14.0.sln -text
 source/Irrlicht/Irrlicht14.0.vcxproj -text
 source/Irrlicht/Irrlicht14.0.vcxproj.filters -text
+source/Irrlicht/Irrlicht15.0.vcxproj -text
+source/Irrlicht/Irrlicht15.0.vcxproj.filters -text
+source/Irrlicht/Irrlicht15.0.vcxproj.sln -text
 source/Irrlicht/Makefile eol=crlf
 source/Irrlicht/Octree.h eol=crlf
 source/Irrlicht/S2DVertex.h eol=crlf
