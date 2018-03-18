@@ -1812,6 +1812,7 @@ tests/vectorPositionDimension2d.cpp eol=crlf
 tests/videoDriver.cpp -text
 tests/viewPort.cpp -text
 tests/writeImageToFile.cpp eol=crlf
+tools/Exporters/Blender/B3DExport.py -text
 tools/FileToHeader/FileToHeader.cbp -text
 tools/FileToHeader/Makefile -text
 tools/FileToHeader/main.cpp -text
