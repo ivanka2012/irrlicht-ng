@@ -1127,7 +1127,6 @@ source/Irrlicht/ISceneNodeAnimatorFinishing.h eol=crlf
 source/Irrlicht/ITriangleRenderer.h eol=crlf
 source/Irrlicht/IZBuffer.h eol=crlf
 source/Irrlicht/Irrlicht-gcc.cbp -text
-source/Irrlicht/Irrlicht.aps -text
 source/Irrlicht/Irrlicht.cpp eol=crlf
 source/Irrlicht/Irrlicht.rc -text
 source/Irrlicht/Irrlicht.xcodeproj/project.pbxproj -text

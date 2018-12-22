@@ -271,6 +271,7 @@ media/Thumbs.db
 media/settings.xml
 scripts/doc/irrlicht/tut.txt
 source/Irrlicht/*.a
+source/Irrlicht/*.aps
 source/Irrlicht/*.d
 source/Irrlicht/*.depend
 source/Irrlicht/*.dll
