@@ -527,6 +527,11 @@ include/rect.h eol=crlf
 include/triangle3d.h eol=crlf
 include/vector2d.h eol=crlf
 include/vector3d.h eol=crlf
+lib/Linux/readme.txt -text
+lib/OSX/readme.txt -text
+lib/Win32-gcc/readme.txt -text
+lib/Win32-visualstudio/readme.txt -text
+lib/Win64-visualStudio/readme.txt -text
 media/001shot.jpg -text
 media/002shot.jpg -text
 media/003shot.jpg -text
