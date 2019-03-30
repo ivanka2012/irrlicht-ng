@@ -417,6 +417,7 @@ include/ILightSceneNode.h eol=crlf
 include/ILogger.h eol=crlf
 include/IMaterialRenderer.h eol=crlf
 include/IMaterialRendererServices.h eol=crlf
+include/IMemoryReadFile.h -text
 include/IMesh.h eol=crlf
 include/IMeshBuffer.h eol=crlf
 include/IMeshCache.h eol=crlf
