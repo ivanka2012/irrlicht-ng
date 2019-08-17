@@ -1136,6 +1136,7 @@ source/Irrlicht/IZBuffer.h eol=crlf
 source/Irrlicht/Irrlicht-gcc.cbp -text
 source/Irrlicht/Irrlicht.cpp eol=crlf
 source/Irrlicht/Irrlicht.rc -text
+source/Irrlicht/Irrlicht.ruleset -text
 source/Irrlicht/Irrlicht.xcodeproj/project.pbxproj -text
 source/Irrlicht/Irrlicht.xcodeproj/xcshareddata/xcschemes/Irrlicht_OSX.xcscheme -text
 source/Irrlicht/Irrlicht10.0.sln -text
