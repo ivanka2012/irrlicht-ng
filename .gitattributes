@@ -296,6 +296,17 @@ examples/26.OcclusionQuery/OcclusionQuery_vc11.vcxproj -text
 examples/26.OcclusionQuery/OcclusionQuery_vc12.vcxproj -text
 examples/26.OcclusionQuery/OcclusionQuery_vc14.vcxproj -text
 examples/26.OcclusionQuery/main.cpp -text
+examples/27.PostProcessing/Makefile -text
+examples/27.PostProcessing/PostProcessing.cbp -text
+examples/27.PostProcessing/PostProcessing_vc10.vcxproj -text
+examples/27.PostProcessing/PostProcessing_vc10.vcxproj.user -text
+examples/27.PostProcessing/PostProcessing_vc11.vcxproj -text
+examples/27.PostProcessing/PostProcessing_vc11.vcxproj.user -text
+examples/27.PostProcessing/PostProcessing_vc12.vcxproj -text
+examples/27.PostProcessing/PostProcessing_vc12.vcxproj.user -text
+examples/27.PostProcessing/PostProcessing_vc14.vcxproj -text
+examples/27.PostProcessing/PostProcessing_vc14.vcxproj.user -text
+examples/27.PostProcessing/main.cpp -text
 examples/29.HardwareSkinning/where_is_it.txt -text
 examples/30.Profiling/Makefile -text
 examples/30.Profiling/Profiling.cbp -text
@@ -558,6 +569,7 @@ media/023shot.jpg -text
 media/024shot.jpg -text
 media/025shot.jpg -text
 media/026shot.jpg -text
+media/027shot.jpg -text
 media/2ddemo.png -text
 media/Faerie5.BMP -text
 media/IrrlichtTheme.ogg -text
@@ -640,6 +652,9 @@ media/portal4.bmp -text
 media/portal5.bmp -text
 media/portal6.bmp -text
 media/portal7.bmp -text
+media/pp_d3d9.hlsl -text
+media/pp_opengl.frag -text
+media/pp_opengl.vert -text
 media/rockwall.jpg -text
 media/rockwall_height.bmp -text
 media/room.3ds -text
