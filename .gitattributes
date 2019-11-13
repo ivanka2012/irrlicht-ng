@@ -296,8 +296,6 @@ examples/26.OcclusionQuery/OcclusionQuery_vc11.vcxproj -text
 examples/26.OcclusionQuery/OcclusionQuery_vc12.vcxproj -text
 examples/26.OcclusionQuery/OcclusionQuery_vc14.vcxproj -text
 examples/26.OcclusionQuery/main.cpp -text
-examples/27.HelloWorld_Android/where_is_it.txt -text
-examples/28.HelloWorld_iOS/where_is_it.txt -text
 examples/29.HardwareSkinning/where_is_it.txt -text
 examples/30.Profiling/Makefile -text
 examples/30.Profiling/Profiling.cbp -text
