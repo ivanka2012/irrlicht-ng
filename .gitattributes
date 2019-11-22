@@ -1611,6 +1611,8 @@ tests/media/Burning's[!!-~]Video-renderMipmap.png -text
 tests/media/Burning's[!!-~]Video-rttAndAntiAlias.png -text
 tests/media/Burning's[!!-~]Video-rttAndText.png -text
 tests/media/Burning's[!!-~]Video-rttWith2DImage.png -text
+tests/media/Burning's[!!-~]Video-stencilSelfShadow.png -text
+tests/media/Burning's[!!-~]Video-stencilShadow.png -text
 tests/media/Burning's[!!-~]Video-terrainGap.png -text
 tests/media/Burning's[!!-~]Video-terrainSceneNode-1.png -text
 tests/media/Burning's[!!-~]Video-terrainSceneNode-2.png -text
