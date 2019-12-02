@@ -548,10 +548,6 @@ lib/Win32-visualstudio/readme.txt -text
 lib/Win64-visualStudio/readme.txt -text
 media/2ddemo.png -text
 media/Faerie5.BMP -text
-media/IS_cubeMapReflection.frag -text
-media/IS_cubeMapReflection.vert -text
-media/IS_cubeMapReflectionPS.hlsl -text
-media/IS_cubeMapReflectionVS.hlsl -text
 media/IrrlichtTheme.ogg -text
 media/Particle.tga -text
 media/axe.jpg -text
@@ -559,6 +555,10 @@ media/ball.wav -text
 media/bigfont.png -text
 media/burninglogo.png -text
 media/config.xml -text
+media/cubeMapReflection.frag -text
+media/cubeMapReflection.vert -text
+media/cubeMapReflectionPS.hlsl -text
+media/cubeMapReflectionVS.hlsl -text
 media/cubemap_license.txt -text
 media/cubemap_negx.jpg -text
 media/cubemap_negy.jpg -text
