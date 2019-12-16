@@ -1259,6 +1259,7 @@ source/Irrlicht/bzip2/xmlproc.sh -text
 source/Irrlicht/dmfsupport.h eol=crlf
 source/Irrlicht/glext.h eol=crlf
 source/Irrlicht/glxext.h eol=crlf
+source/Irrlicht/irrMathFastCompat.h -text
 source/Irrlicht/irrXML.cpp eol=crlf
 source/Irrlicht/jpeglib/Makefile.am -text
 source/Irrlicht/jpeglib/Makefile.in -text
