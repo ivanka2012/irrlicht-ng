@@ -1091,6 +1091,7 @@ source/Irrlicht/CTRGouraud.cpp eol=crlf
 source/Irrlicht/CTRGouraud2.cpp eol=crlf
 source/Irrlicht/CTRGouraudAlpha2.cpp eol=crlf
 source/Irrlicht/CTRGouraudAlphaNoZ2.cpp eol=crlf
+source/Irrlicht/CTRGouraudNoZ2.cpp -text
 source/Irrlicht/CTRGouraudWire.cpp eol=crlf
 source/Irrlicht/CTRNormalMap.cpp -text
 source/Irrlicht/CTRStencilShadow.cpp -text
@@ -1116,6 +1117,7 @@ source/Irrlicht/CTRTextureLightMap2_M2.cpp eol=crlf
 source/Irrlicht/CTRTextureLightMap2_M4.cpp eol=crlf
 source/Irrlicht/CTRTextureLightMapGouraud2_M4.cpp eol=crlf
 source/Irrlicht/CTRTextureWire2.cpp eol=crlf
+source/Irrlicht/CTR_transparent_reflection_2_layer.cpp -text
 source/Irrlicht/CTarReader.cpp eol=crlf
 source/Irrlicht/CTarReader.h eol=crlf
 source/Irrlicht/CTerrainSceneNode.cpp eol=crlf
@@ -1210,6 +1212,14 @@ source/Irrlicht/aesGladman/sha1.h -text
 source/Irrlicht/aesGladman/sha2.cpp -text
 source/Irrlicht/aesGladman/sha2.h -text
 source/Irrlicht/builtInFont.bmp -text
+source/Irrlicht/burning_shader_color.cpp -text
+source/Irrlicht/burning_shader_color_fraq.h -text
+source/Irrlicht/burning_shader_compile_fragment_default.h -text
+source/Irrlicht/burning_shader_compile_fragment_end.h -text
+source/Irrlicht/burning_shader_compile_fragment_start.h -text
+source/Irrlicht/burning_shader_compile_start.h -text
+source/Irrlicht/burning_shader_compile_triangle.h -text
+source/Irrlicht/burning_shader_compile_verify.h -text
 source/Irrlicht/bzip2/CHANGES -text
 source/Irrlicht/bzip2/LICENSE -text
 source/Irrlicht/bzip2/Makefile -text
