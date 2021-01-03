@@ -1,34 +1,9 @@
-==========================================================================
-The Irrlicht Engine SDK version 1.9
-==========================================================================
+## The Irrlicht-ng Engine
 
-  Welcome to the Irrlicht Engine SDK.
-
-  Content of this file:
-
-  1. Directory Structure Overview
-  2. How To Start
-  3. Requirements
-  4. Release Notes
-  5. License
-  6. Contact
-
-
-==========================================================================
-1. Directory Structure Overview
-==========================================================================
-
-  You will find some directories after uncompressing the archive of the
-  SDK. These are:
-
-  \bin         The compiled library Irrlicht.DLL and some compiled demo
-               and example applications, just start them to see the
-               Irrlicht Engine in action. Windows only.
-  \doc         Documentation of the Irrlicht Engine.
+# Directory Structure Overview
   \examples    Examples and tutorials showing how to use the engine with
                C++.
   \include     Header files to include when programming with the engine.
-  \lib         Libs to link with your programs when using the engine.
   \media       Graphics and sound resources for the demo applications and
                examples.
   \source      The source code of the Irrlicht Engine. This code is
@@ -37,80 +12,11 @@ The Irrlicht Engine SDK version 1.9
                debugging, if necessary.
   \tools       Useful tools (with sourcecode) for the engine.
 
+# Releases
 
+Currently, there are no releases yet, as this engine fork is still in alpha.
 
-==========================================================================
-2. How to start
-==========================================================================
-
-  To see the engine in action in Windows, just go to the \bin\Win32-VisualStudio
-  directory, and start some applications. There should also be an
-  application named Demo.exe which should show the most
-  interesting features of Irrlicht.
-
-  To start developing own applications and games with the engine take
-  a look at the 01.HelloWorld example in the \examples directory.
-  There is also a .html file with a tutorial which should be
-  easily comprehensible.
-
-  The Irrlicht Engine is a static lib under linux. A precompiled version can be
-  generated from the sources using the Makefile in source/Irrlicht. Run 'make' in 
-  that subfolder. After this you should be able to 'make' all
-  example applications in /examples by calling the buildAllExamples script. You 
-  can run the examples then from the bin folder.
-
-  It is also possible to use Irrlicht as shared object
-  (libIrrlicht.so.versionNumber). Use the proper makefile target for this by
-  running 'make sharedlib' in the source folder. See the Makefile for details.
-
-  For OSX you can find an XCode project file in source/Irrlicht/MacOSX. This will
-  build the libIrrlicht.a library necessary to create the apps.
-
-==========================================================================
-3. Requirements
-==========================================================================
-
-  You can use one of the following compilers/IDEs to develop applications
-  with Irrlicht or recompile the engine. However, other compilers/IDEs may
-  work as well, we simply didn't test them.
-
-  * gcc 4.x
-  * Visual Studio 2010(10.0)-2013(12.0)
-  * Code::Blocks (& gcc or visual studio toolkit)
-  
-  If you ever want to (re)compile the engine yourself (which means you don't
-  want to use the precompiled version) you need the following:
-
-  * Windows:
-	* Needed: PlatformSDK (which usually comes with all IDEs, download
-			it separately for MSVC Express 2005)
-	* Optional: DirectX SDK, for D3D9 support
-	* Optional: DirectX SDK prior to May 2006, for D3D8 support
-
-  * Linux:
-	* Needed: XServer with include files
-	* Optional: OpenGL headers and libraries (libGL.so) for OpenGL support
-		GLX +
-		XF86VidMode [package x11proto-xf86vidmode-dev] or XRandr
-		(X11 support libraries, the latter two for fullscreen mode)
-
-  * OSX:
-	* Needed: XCode and Cocoa framework
-	* Needed: OpenGL headers and libraries
-
-==========================================================================
-4. Release Notes
-==========================================================================
-
-  Informations about changes in this new version of the engine can be
-  found in changes.txt.
-
-  Please note that the textures, 3D models and levels are copyright
-  by their authors and not covered by the Irrlicht engine license.
-
-==========================================================================
-5. License
-==========================================================================
+# License
 
   The license of the Irrlicht Engine is based on the zlib/libpng license.
   Even though this license does not require you to mention that you are
@@ -147,10 +53,7 @@ The Irrlicht Engine SDK version 1.9
      misrepresented as being the original software.
   3. This notice may not be removed or altered from any source distribution.
 
-
-==========================================================================
-6. Contact
-==========================================================================
+# Contact
 
   If you have problems, questions or suggestions, please visit the
   official homepage of the Irrlicht Engine:
